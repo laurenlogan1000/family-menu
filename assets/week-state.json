@@ -1,0 +1,50 @@
+{
+  "week": "2026-09-07",
+  "updatedAt": "2026-09-09T22:30:00Z",
+  "order": [
+    "smash-burgers",
+    "taco-janes",
+    "soba-tofu",
+    "asian-salmon",
+    "lemon-chicken",
+    "creekside",
+    "pesto-pasta"
+  ],
+  "scores": {
+    "mon": {
+      "well": "3",
+      "likes": "",
+      "ease": ""
+    },
+    "tue": {
+      "well": "3",
+      "likes": "",
+      "ease": ""
+    },
+    "wed": {
+      "well": "4",
+      "likes": "1",
+      "ease": ""
+    },
+    "thu": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "fri": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "sat": {
+      "well": "3",
+      "likes": "",
+      "ease": ""
+    },
+    "sun": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    }
+  }
+}
