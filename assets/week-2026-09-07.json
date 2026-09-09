@@ -1,0 +1,198 @@
+{
+  "week": "2026-09-07",
+  "deck": "Sep 7\u201313 \u00b7 live",
+  "slots": [
+    {
+      "day": "mon",
+      "date": "2026-09-07",
+      "label": "Monday"
+    },
+    {
+      "day": "tue",
+      "date": "2026-09-08",
+      "label": "Tuesday"
+    },
+    {
+      "day": "wed",
+      "date": "2026-09-09",
+      "label": "Wednesday"
+    },
+    {
+      "day": "thu",
+      "date": "2026-09-10",
+      "label": "Thursday"
+    },
+    {
+      "day": "fri",
+      "date": "2026-09-11",
+      "label": "Friday"
+    },
+    {
+      "day": "sat",
+      "date": "2026-09-12",
+      "label": "Saturday"
+    },
+    {
+      "day": "sun",
+      "date": "2026-09-13",
+      "label": "Sunday"
+    }
+  ],
+  "meals": {
+    "smash-burgers": {
+      "title": "Smash burgers + sweet potatoes + edamame",
+      "do": "Already cooked. Score when you can.",
+      "well": "3",
+      "prep": [],
+      "grocery": []
+    },
+    "taco-janes": {
+      "title": "Taco Jane\u2019s \u2014 cheese quesadillas, beans, rice",
+      "do": "Pickup / dine out.",
+      "well": "3",
+      "prep": [],
+      "grocery": []
+    },
+    "soba-tofu": {
+      "title": "Soba + roasted tofu + broccoli",
+      "do": "Asian pantry dressing (ponzu / sesame / miso).",
+      "well": "4",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-tofu-soba",
+          "text": "Confirm tofu / soba"
+        },
+        {
+          "id": "g-broccoli",
+          "text": "Broccoli (if low)"
+        },
+        {
+          "id": "g-asian-pantry",
+          "text": "Ponzu / sesame / shabu / miso (if low)"
+        }
+      ]
+    },
+    "asian-salmon": {
+      "title": "Asian-sauce baked salmon + rice + frozen carrots",
+      "do": "Ponzu / sesame / shabu + lime + cilantro + green onions. Rice required.",
+      "well": "4",
+      "prep": [
+        {
+          "kind": "thaw",
+          "nightsBefore": 1,
+          "item": "salmon"
+        }
+      ],
+      "grocery": [
+        {
+          "id": "g-salmon",
+          "text": "Confirm freezer salmon"
+        },
+        {
+          "id": "g-lime",
+          "text": "Lime"
+        },
+        {
+          "id": "g-cilantro",
+          "text": "Cilantro"
+        },
+        {
+          "id": "g-green-onions",
+          "text": "Green onions"
+        },
+        {
+          "id": "g-frozen-carrots",
+          "text": "Frozen carrots (if low)"
+        },
+        {
+          "id": "g-asian-pantry",
+          "text": "Ponzu / sesame / shabu / miso (if low)"
+        }
+      ]
+    },
+    "lemon-chicken": {
+      "title": "Lemon\u2013garlic\u2013Dijon chicken (cast iron sear \u2192 oven)",
+      "do": "Sear, then oven. Frozen peas or leftover broccoli.",
+      "well": "4",
+      "prep": [
+        {
+          "kind": "marinate",
+          "nightsBefore": 1,
+          "item": "lemon\u2013garlic\u2013Dijon chicken"
+        }
+      ],
+      "grocery": [
+        {
+          "id": "g-chicken",
+          "text": "Chicken breasts"
+        },
+        {
+          "id": "g-lemon",
+          "text": "Lemon"
+        },
+        {
+          "id": "g-garlic",
+          "text": "Garlic (if low)"
+        },
+        {
+          "id": "g-dijon",
+          "text": "Dijon (if low)"
+        },
+        {
+          "id": "g-peas",
+          "text": "Peas frozen (if low)"
+        }
+      ]
+    },
+    "creekside": {
+      "title": "Creekside Pizza",
+      "do": "While waiting: cucumbers with rice vinegar and salt.",
+      "well": "3",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-cucumbers",
+          "text": "Cucumbers"
+        }
+      ]
+    },
+    "pesto-pasta": {
+      "title": "Pesto pasta + peas + cherry tomatoes",
+      "do": "Jar pesto OK. Sneak peas and tomatoes into the pasta.",
+      "well": "4",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-basil",
+          "text": "Basil (for pesto \u2014 if low)"
+        },
+        {
+          "id": "g-tomatoes",
+          "text": "Cherry tomatoes (if low)"
+        },
+        {
+          "id": "g-peas",
+          "text": "Peas frozen (if low)"
+        },
+        {
+          "id": "g-pesto",
+          "text": "Pesto jar (if not making fresh)"
+        },
+        {
+          "id": "g-pasta",
+          "text": "Pasta (if low)"
+        }
+      ]
+    }
+  },
+  "order": [
+    "smash-burgers",
+    "taco-janes",
+    "soba-tofu",
+    "asian-salmon",
+    "lemon-chicken",
+    "creekside",
+    "pesto-pasta"
+  ]
+}
