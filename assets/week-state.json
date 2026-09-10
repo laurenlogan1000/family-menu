@@ -1,6 +1,6 @@
 {
   "week": "2026-09-07",
-  "updatedAt": "2026-09-10T03:40:00Z",
+  "updatedAt": "2026-09-10T03:45:00Z",
   "order": [
     "smash-burgers",
     "soba-tofu",
@@ -11,37 +11,37 @@
     "pesto-pasta"
   ],
   "scores": {
-    "mon": {
+    "smash-burgers": {
       "well": "3",
       "likes": "",
       "ease": ""
     },
-    "tue": {
+    "taco-janes": {
       "well": "3",
       "likes": "",
       "ease": ""
     },
-    "wed": {
+    "soba-tofu": {
       "well": "4",
       "likes": "1",
       "ease": ""
     },
-    "thu": {
+    "asian-salmon": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "fri": {
+    "lemon-chicken": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "sat": {
+    "creekside": {
       "well": "3",
       "likes": "",
       "ease": ""
     },
-    "sun": {
+    "pesto-pasta": {
       "well": "4",
       "likes": "",
       "ease": ""
