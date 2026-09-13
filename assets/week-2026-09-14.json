@@ -1,0 +1,235 @@
+{
+  "week": "2026-09-14",
+  "deck": "Sep 14–20 · 1 new · meatless Tue · fish Thu",
+  "slots": [
+    {
+      "day": "mon",
+      "date": "2026-09-14",
+      "label": "Monday"
+    },
+    {
+      "day": "tue",
+      "date": "2026-09-15",
+      "label": "Tuesday"
+    },
+    {
+      "day": "wed",
+      "date": "2026-09-16",
+      "label": "Wednesday"
+    },
+    {
+      "day": "thu",
+      "date": "2026-09-17",
+      "label": "Thursday"
+    },
+    {
+      "day": "fri",
+      "date": "2026-09-18",
+      "label": "Friday"
+    },
+    {
+      "day": "sat",
+      "date": "2026-09-19",
+      "label": "Saturday"
+    },
+    {
+      "day": "sun",
+      "date": "2026-09-20",
+      "label": "Sunday"
+    }
+  ],
+  "meals": {
+    "tomato-basil-chicken": {
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1027093-tomato-basil-chicken-breasts\" target=\"_blank\" rel=\"noopener\">Tomato Basil Chicken</a> <span style=\"font-weight:500;color:#727272\">(double · only new)</span> + rice + broccoli",
+      "do": "No marinade. Shallots not onion; keep breast pieces thick enough to stay juicy; double the capers; sauce over rice. Pull ground beef tonight for Wed.",
+      "well": "4",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-shallots",
+          "text": "Shallots (~2)"
+        },
+        {
+          "id": "g-tomatoes",
+          "text": "Tomatoes ~1½–2 lb (best you can find)"
+        },
+        {
+          "id": "g-basil",
+          "text": "Fresh basil"
+        },
+        {
+          "id": "g-broccoli",
+          "text": "Broccoli"
+        },
+        {
+          "id": "g-chicken-breasts",
+          "text": "Chicken breasts ~1½ lb"
+        },
+        {
+          "id": "g-butter",
+          "text": "Butter (if low)"
+        },
+        {
+          "id": "g-flour",
+          "text": "Flour (if low)"
+        },
+        {
+          "id": "g-capers",
+          "text": "Extra capers (plan ~2 Tbsp when doubling)"
+        },
+        {
+          "id": "g-rice",
+          "text": "White rice (if low)"
+        },
+        {
+          "id": "g-freezer-beef",
+          "text": "Confirm freezer beef for Wed"
+        }
+      ]
+    },
+    "crisp-gnocchi": {
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1020453-crisp-gnocchi-with-brussels-sprouts-and-brown-butter\" target=\"_blank\" rel=\"noopener\">Crisp Gnocchi With Brussels Sprouts</a> + edamame (meatless)",
+      "do": "Brown butter + Brussels. Warm frozen edamame on the side. Dinner Repeat — keep meatless.",
+      "well": "4",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-gnocchi",
+          "text": "Potato gnocchi"
+        },
+        {
+          "id": "g-brussels",
+          "text": "Brussels sprouts"
+        },
+        {
+          "id": "g-butter-gnocchi",
+          "text": "Butter for brown butter (if low)"
+        },
+        {
+          "id": "g-edamame",
+          "text": "Frozen edamame (if low)"
+        }
+      ]
+    },
+    "picadillo": {
+      "title": "Mami’s Picadillo + white rice + frozen peas",
+      "do": "Only beef night.",
+      "well": "4",
+      "prep": [
+        {
+          "kind": "thaw",
+          "nightsBefore": 2,
+          "item": "ground beef"
+        }
+      ],
+      "grocery": [
+        {
+          "id": "g-onion",
+          "text": "Onion"
+        },
+        {
+          "id": "g-green-pepper",
+          "text": "Green pepper"
+        },
+        {
+          "id": "g-garlic",
+          "text": "Garlic (if low)"
+        },
+        {
+          "id": "g-tomato-sauce",
+          "text": "Tomato sauce ~4 oz (if low)"
+        },
+        {
+          "id": "g-peas",
+          "text": "Frozen peas (if low)"
+        },
+        {
+          "id": "g-freezer-salmon",
+          "text": "Confirm freezer salmon for Thu"
+        }
+      ]
+    },
+    "asian-salmon": {
+      "title": "Asian-sauce baked salmon + rice + frozen carrots",
+      "do": "Ponzu / sesame / shabu + lime + cilantro + green onions. Rice required.",
+      "well": "4",
+      "prep": [
+        {
+          "kind": "thaw",
+          "nightsBefore": 1,
+          "item": "salmon"
+        }
+      ],
+      "grocery": [
+        {
+          "id": "g-lime",
+          "text": "Lime"
+        },
+        {
+          "id": "g-cilantro",
+          "text": "Cilantro"
+        },
+        {
+          "id": "g-green-onions",
+          "text": "Green onions"
+        },
+        {
+          "id": "g-frozen-carrots",
+          "text": "Frozen carrots (if low)"
+        },
+        {
+          "id": "g-asian-pantry",
+          "text": "Ponzu / sesame oil / shabu (if low)"
+        }
+      ]
+    },
+    "comforts": {
+      "title": "Comforts Cafe trays (mac, penne bolognese, or chicken salad)",
+      "do": "Pickup in San Anselmo. Add cut fruit or carrots if the plate needs veg.",
+      "well": "3",
+      "prep": [],
+      "grocery": []
+    },
+    "creekside": {
+      "title": "Creekside Pizza",
+      "do": "While waiting: cucumbers with rice vinegar and salt.",
+      "well": "3",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-cucumbers",
+          "text": "Cucumbers"
+        }
+      ]
+    },
+    "rotisserie": {
+      "title": "Rotisserie chicken + sourdough + fruit or cut veg",
+      "do": "Text Chris for rotisserie + sourdough (or MH Butter). No whole roast this week.",
+      "well": "4",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-rotisserie",
+          "text": "Rotisserie chicken"
+        },
+        {
+          "id": "g-sourdough",
+          "text": "Sourdough loaf (or text Chris / MH Butter)"
+        },
+        {
+          "id": "g-fruit-sun",
+          "text": "Fruit for Sunday side (if low)"
+        }
+      ]
+    }
+  },
+  "order": [
+    "tomato-basil-chicken",
+    "crisp-gnocchi",
+    "picadillo",
+    "asian-salmon",
+    "comforts",
+    "creekside",
+    "rotisserie"
+  ]
+}

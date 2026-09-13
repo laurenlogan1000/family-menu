@@ -1,29 +1,29 @@
 {
-  "week": "2026-09-07",
-  "updatedAt": "2026-09-10T03:45:00Z",
+  "week": "2026-09-14",
+  "updatedAt": "",
   "order": [
-    "smash-burgers",
-    "soba-tofu",
-    "taco-janes",
+    "tomato-basil-chicken",
+    "crisp-gnocchi",
+    "picadillo",
     "asian-salmon",
-    "lemon-chicken",
+    "comforts",
     "creekside",
-    "pesto-pasta"
+    "rotisserie"
   ],
   "scores": {
-    "smash-burgers": {
-      "well": "3",
-      "likes": "",
-      "ease": ""
-    },
-    "taco-janes": {
-      "well": "3",
-      "likes": "",
-      "ease": ""
-    },
-    "soba-tofu": {
+    "tomato-basil-chicken": {
       "well": "4",
-      "likes": "1",
+      "likes": "",
+      "ease": ""
+    },
+    "crisp-gnocchi": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "picadillo": {
+      "well": "4",
+      "likes": "",
       "ease": ""
     },
     "asian-salmon": {
@@ -31,8 +31,8 @@
       "likes": "",
       "ease": ""
     },
-    "lemon-chicken": {
-      "well": "4",
+    "comforts": {
+      "well": "3",
       "likes": "",
       "ease": ""
     },
@@ -41,7 +41,7 @@
       "likes": "",
       "ease": ""
     },
-    "pesto-pasta": {
+    "rotisserie": {
       "well": "4",
       "likes": "",
       "ease": ""
