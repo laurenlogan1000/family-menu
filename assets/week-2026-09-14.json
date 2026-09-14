@@ -1,6 +1,6 @@
 {
   "week": "2026-09-14",
-  "deck": "Sep 14–20 · rotisserie Mon · 1 new Sun · meatless Tue · fish Thu",
+  "deck": "Sep 14–20 · rotisserie Mon · maple–miso salmon · chicken meatballs Sun",
   "slots": [
     {
       "day": "mon",
@@ -39,54 +39,6 @@
     }
   ],
   "meals": {
-    "tomato-basil-chicken": {
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1027093-tomato-basil-chicken-breasts\" target=\"_blank\" rel=\"noopener\">Tomato Basil Chicken</a> <span style=\"font-weight:500;color:#727272\">(double · only new)</span> + rice + broccoli",
-      "do": "No marinade. Shallots not onion; keep breast pieces thick enough to stay juicy; double the capers; sauce over rice.",
-      "well": "4",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-shallots",
-          "text": "Shallots (~2)"
-        },
-        {
-          "id": "g-tomatoes",
-          "text": "Tomatoes ~1½–2 lb (best you can find)"
-        },
-        {
-          "id": "g-basil",
-          "text": "Fresh basil"
-        },
-        {
-          "id": "g-broccoli",
-          "text": "Broccoli"
-        },
-        {
-          "id": "g-chicken-breasts",
-          "text": "Chicken breasts ~1½ lb"
-        },
-        {
-          "id": "g-butter",
-          "text": "Butter (if low)"
-        },
-        {
-          "id": "g-flour",
-          "text": "Flour (if low)"
-        },
-        {
-          "id": "g-capers",
-          "text": "Extra capers (plan ~2 Tbsp when doubling)"
-        },
-        {
-          "id": "g-rice",
-          "text": "White rice (if low)"
-        },
-        {
-          "id": "g-freezer-beef",
-          "text": "Confirm freezer beef for Wed"
-        }
-      ]
-    },
     "crisp-gnocchi": {
       "title": "<a href=\"https://cooking.nytimes.com/recipes/1020453-crisp-gnocchi-with-brussels-sprouts-and-brown-butter\" target=\"_blank\" rel=\"noopener\">Crisp Gnocchi With Brussels Sprouts</a> + edamame (meatless)",
       "do": "Brown butter + Brussels. Warm frozen edamame on the side. Dinner Repeat — keep meatless.",
@@ -113,7 +65,7 @@
     },
     "picadillo": {
       "title": "Mami’s Picadillo + white rice + frozen peas",
-      "do": "Only beef night. Pull salmon tonight for Thu.",
+      "do": "Only beef night. Mami’s: ¼ cup small capers. Pull salmon tonight for Thu.",
       "well": "4",
       "prep": [
         {
@@ -123,6 +75,10 @@
         }
       ],
       "grocery": [
+        {
+          "id": "g-capers-picadillo",
+          "text": "Capers ~¼ cup (nonpareille / small)"
+        },
         {
           "id": "g-onion",
           "text": "Onion"
@@ -146,40 +102,6 @@
         {
           "id": "g-freezer-salmon",
           "text": "Confirm freezer salmon for Thu"
-        }
-      ]
-    },
-    "asian-salmon": {
-      "title": "Asian-sauce baked salmon + rice + frozen carrots",
-      "do": "Ponzu / sesame / shabu + lime + cilantro + green onions. Rice required.",
-      "well": "4",
-      "prep": [
-        {
-          "kind": "thaw",
-          "nightsBefore": 1,
-          "item": "salmon"
-        }
-      ],
-      "grocery": [
-        {
-          "id": "g-lime",
-          "text": "Lime"
-        },
-        {
-          "id": "g-cilantro",
-          "text": "Cilantro"
-        },
-        {
-          "id": "g-green-onions",
-          "text": "Green onions"
-        },
-        {
-          "id": "g-frozen-carrots",
-          "text": "Frozen carrots (if low)"
-        },
-        {
-          "id": "g-asian-pantry",
-          "text": "Ponzu / sesame oil / shabu (if low)"
         }
       ]
     },
@@ -221,15 +143,105 @@
           "text": "Fruit or cut veg for rotisserie night (if low)"
         }
       ]
+    },
+    "korean-bbq-meatballs": {
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019763-korean-bbq-style-meatballs\" target=\"_blank\" rel=\"noopener\">Korean BBQ-Style Meatballs</a> <span style=\"font-weight:500;color:#727272\">(ground chicken)</span> + rice + broccoli",
+      "do": "NYT is written for beef — use ground chicken tonight so Wed stays the only beef. Bake 425° ~15 min. Optional adult glaze from comments: gochujang + apricot + rice vinegar + soy (keep mild/skip for kids). Rice + broccoli.",
+      "well": "4",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-ground-chicken",
+          "text": "Ground chicken ~1 lb"
+        },
+        {
+          "id": "g-ritz",
+          "text": "Ritz crackers (or plain breadcrumbs)"
+        },
+        {
+          "id": "g-scallions-mb",
+          "text": "Scallions / green onions"
+        },
+        {
+          "id": "g-soy",
+          "text": "Low-sodium soy (if low)"
+        },
+        {
+          "id": "g-garlic-mb",
+          "text": "Garlic (if low)"
+        },
+        {
+          "id": "g-broccoli-sun",
+          "text": "Broccoli"
+        },
+        {
+          "id": "g-rice-sun",
+          "text": "White rice (if low)"
+        },
+        {
+          "id": "g-gochujang",
+          "text": "Gochujang (optional glaze — if you want it)"
+        }
+      ]
+    },
+    "maple-miso-salmon": {
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans\" target=\"_blank\" rel=\"noopener\">Maple–miso sheet-pan salmon</a> + green beans + rice",
+      "do": "Marinate while oven heats: maple + miso + rice vinegar + soy + garlic. Sheet-pan with green beans ~12 min at 400°. Cilantro + lime. Rice. Skip red-pepper flakes for kids. Comment tip: a dab of Dijon in the marinade (“MMM”) is popular.",
+      "well": "4",
+      "prep": [
+        {
+          "kind": "thaw",
+          "nightsBefore": 1,
+          "item": "salmon"
+        }
+      ],
+      "grocery": [
+        {
+          "id": "g-salmon",
+          "text": "Confirm freezer salmon"
+        },
+        {
+          "id": "g-green-beans",
+          "text": "Green beans ~1 lb"
+        },
+        {
+          "id": "g-maple",
+          "text": "Maple syrup (if low)"
+        },
+        {
+          "id": "g-miso",
+          "text": "White or brown miso (if low)"
+        },
+        {
+          "id": "g-rice-vinegar",
+          "text": "Rice vinegar (if low)"
+        },
+        {
+          "id": "g-soy-sal",
+          "text": "Soy sauce (if low)"
+        },
+        {
+          "id": "g-lime-sal",
+          "text": "Lime"
+        },
+        {
+          "id": "g-cilantro-sal",
+          "text": "Cilantro"
+        },
+        {
+          "id": "g-garlic-sal",
+          "text": "Garlic (if low)"
+        }
+      ]
     }
   },
   "order": [
     "rotisserie",
     "crisp-gnocchi",
     "picadillo",
-    "asian-salmon",
+    "maple-miso-salmon",
     "comforts",
     "creekside",
-    "tomato-basil-chicken"
+    "korean-bbq-meatballs"
   ]
 }

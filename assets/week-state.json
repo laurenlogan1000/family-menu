@@ -1,32 +1,22 @@
 {
   "week": "2026-09-14",
-  "updatedAt": "2026-09-14T02:22:50Z",
+  "updatedAt": "2026-09-14T03:34:39Z",
   "order": [
     "rotisserie",
     "crisp-gnocchi",
     "picadillo",
-    "asian-salmon",
+    "maple-miso-salmon",
     "comforts",
     "creekside",
-    "tomato-basil-chicken"
+    "korean-bbq-meatballs"
   ],
   "scores": {
-    "tomato-basil-chicken": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
     "crisp-gnocchi": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
     "picadillo": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
-    "asian-salmon": {
       "well": "4",
       "likes": "",
       "ease": ""
@@ -42,6 +32,16 @@
       "ease": ""
     },
     "rotisserie": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "korean-bbq-meatballs": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "maple-miso-salmon": {
       "well": "4",
       "likes": "",
       "ease": ""
