@@ -47,31 +47,31 @@
       "grocery": [
         {
           "id": "g-gnocchi",
-          "text": "Potato gnocchi"
+          "text": "Potato gnocchi (Tue)"
         },
         {
           "id": "g-brussels",
-          "text": "Brussels sprouts"
+          "text": "Brussels sprouts (Tue)"
         },
         {
           "id": "g-butter-gnocchi",
-          "text": "Butter for brown butter (if low)"
+          "text": "Butter for brown butter (Tue)"
         },
         {
           "id": "g-edamame",
-          "text": "Frozen edamame (if low)"
+          "text": "Frozen edamame (Tue)"
         },
         {
           "id": "g-lemon-gnocchi",
-          "text": "Lemon (for zest)"
+          "text": "Lemon (for zest) (Tue)"
         },
         {
           "id": "g-parmesan",
-          "text": "Parmesan (if low)"
+          "text": "Parmesan (Tue)"
         },
         {
           "id": "g-honey",
-          "text": "Honey (if low)"
+          "text": "Honey (Tue)"
         }
       ]
     },
@@ -90,11 +90,11 @@
       "grocery": [
         {
           "id": "g-cucumbers",
-          "text": "Cucumbers"
+          "text": "Cucumbers (Sat)"
         },
         {
           "id": "g-rice-vinegar-cukes",
-          "text": "Rice vinegar (if low)"
+          "text": "Rice vinegar (Sat)"
         }
       ]
     },
@@ -110,11 +110,11 @@
         },
         {
           "id": "g-sourdough",
-          "text": "Sourdough loaf (or text Chris / MH Butter)"
+          "text": "Sourdough loaf (or text Chris / MH Butter) (Mon)"
         },
         {
           "id": "g-fruit-side",
-          "text": "Fruit or cut veg for rotisserie night (if low)"
+          "text": "Fruit or cut veg for rotisserie night (Mon)"
         }
       ]
     },
@@ -126,35 +126,35 @@
       "grocery": [
         {
           "id": "g-ground-beef-mb",
-          "text": "Ground beef ~1 lb (or confirm freezer pack)"
+          "text": "Ground beef ~1 lb (or confirm freezer pack) (Wed)"
         },
         {
           "id": "g-ritz",
-          "text": "Ritz crackers (or plain breadcrumbs)"
+          "text": "Ritz crackers (or plain breadcrumbs) (Wed)"
         },
         {
           "id": "g-scallions-mb",
-          "text": "Scallions / green onions"
+          "text": "Scallions / green onions (Wed)"
         },
         {
           "id": "g-soy",
-          "text": "Low-sodium soy (if low)"
+          "text": "Low-sodium soy (Wed)"
         },
         {
           "id": "g-garlic-mb",
-          "text": "Garlic (if low)"
+          "text": "Garlic (Wed)"
         },
         {
           "id": "g-broccoli-wed",
-          "text": "Broccoli"
+          "text": "Broccoli (Wed)"
         },
         {
           "id": "g-rice-wed",
-          "text": "White rice (if low)"
+          "text": "White rice (Wed)"
         },
         {
           "id": "g-gochujang",
-          "text": "Gochujang (optional glaze — if you want it)"
+          "text": "Gochujang (optional glaze — if you want it) (Wed)"
         }
       ]
     },
@@ -172,39 +172,39 @@
       "grocery": [
         {
           "id": "g-salmon",
-          "text": "Confirm freezer salmon"
+          "text": "Confirm freezer salmon (Thu)"
         },
         {
           "id": "g-green-beans",
-          "text": "Green beans ~1 lb"
+          "text": "Green beans ~1 lb (Thu)"
         },
         {
           "id": "g-maple",
-          "text": "Maple syrup (if low)"
+          "text": "Maple syrup (Thu)"
         },
         {
           "id": "g-miso",
-          "text": "White or brown miso (if low)"
+          "text": "White or brown miso (Thu)"
         },
         {
           "id": "g-rice-vinegar",
-          "text": "Rice vinegar (if low)"
+          "text": "Rice vinegar (Thu)"
         },
         {
           "id": "g-soy-sal",
-          "text": "Soy sauce (if low)"
+          "text": "Soy sauce (Thu)"
         },
         {
           "id": "g-lime-sal",
-          "text": "Lime"
+          "text": "Lime (Thu)"
         },
         {
           "id": "g-cilantro-sal",
-          "text": "Cilantro"
+          "text": "Cilantro (Thu)"
         },
         {
           "id": "g-garlic-sal",
-          "text": "Garlic (if low)"
+          "text": "Garlic (Thu)"
         }
       ]
     },
@@ -216,39 +216,39 @@
       "grocery": [
         {
           "id": "g-shallots",
-          "text": "Shallots (~2)"
+          "text": "Shallots (~2) (Sun)"
         },
         {
           "id": "g-tomatoes",
-          "text": "Tomatoes ~1½–2 lb (best you can find)"
+          "text": "Tomatoes ~1½–2 lb (best you can find) (Sun)"
         },
         {
           "id": "g-basil",
-          "text": "Fresh basil"
+          "text": "Fresh basil (Sun)"
         },
         {
           "id": "g-broccoli-tbc",
-          "text": "Broccoli"
+          "text": "Broccoli (Sun)"
         },
         {
           "id": "g-chicken-breasts",
-          "text": "Chicken breasts ~1½ lb"
+          "text": "Chicken breasts ~1½ lb (Sun)"
         },
         {
           "id": "g-butter-tbc",
-          "text": "Butter (if low)"
+          "text": "Butter (Sun)"
         },
         {
           "id": "g-flour",
-          "text": "Flour (if low)"
+          "text": "Flour (Sun)"
         },
         {
           "id": "g-capers-tbc",
-          "text": "Extra capers (plan ~2 Tbsp when doubling)"
+          "text": "Extra capers (plan ~2 Tbsp when doubling) (Sun)"
         },
         {
           "id": "g-rice-tbc",
-          "text": "White rice (if low)"
+          "text": "White rice (Sun)"
         }
       ]
     }
