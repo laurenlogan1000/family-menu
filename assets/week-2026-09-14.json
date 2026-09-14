@@ -60,6 +60,18 @@
         {
           "id": "g-edamame",
           "text": "Frozen edamame (if low)"
+        },
+        {
+          "id": "g-lemon-gnocchi",
+          "text": "Lemon (for zest)"
+        },
+        {
+          "id": "g-parmesan",
+          "text": "Parmesan (if low)"
+        },
+        {
+          "id": "g-honey",
+          "text": "Honey (if low)"
         }
       ]
     },
@@ -100,8 +112,16 @@
           "text": "Frozen peas (if low)"
         },
         {
-          "id": "g-freezer-salmon",
-          "text": "Confirm freezer salmon for Thu"
+          "id": "g-wine-pic",
+          "text": "Dry white or cooking wine ~½ cup (if low)"
+        },
+        {
+          "id": "g-freezer-beef",
+          "text": "Confirm freezer ground beef for Wed"
+        },
+        {
+          "id": "g-rice-pic",
+          "text": "White rice (if low)"
         }
       ]
     },
@@ -121,6 +141,10 @@
         {
           "id": "g-cucumbers",
           "text": "Cucumbers"
+        },
+        {
+          "id": "g-rice-vinegar-cukes",
+          "text": "Rice vinegar (if low)"
         }
       ]
     },
