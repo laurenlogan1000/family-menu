@@ -1,6 +1,6 @@
 {
   "week": "2026-09-14",
-  "deck": "Sep 14–20 · rotisserie Mon · maple–miso salmon · chicken meatballs Sun",
+  "deck": "Sep 14–20 · rotisserie Mon · Korean BBQ meatballs Wed · Tomato Basil Sun",
   "slots": [
     {
       "day": "mon",
@@ -75,56 +75,6 @@
         }
       ]
     },
-    "picadillo": {
-      "title": "Mami’s Picadillo + white rice + frozen peas",
-      "do": "Only beef night. Mami’s: ¼ cup small capers. Pull salmon tonight for Thu.",
-      "well": "4",
-      "prep": [
-        {
-          "kind": "thaw",
-          "nightsBefore": 2,
-          "item": "ground beef"
-        }
-      ],
-      "grocery": [
-        {
-          "id": "g-capers-picadillo",
-          "text": "Capers ~¼ cup (nonpareille / small)"
-        },
-        {
-          "id": "g-onion",
-          "text": "Onion"
-        },
-        {
-          "id": "g-green-pepper",
-          "text": "Green pepper"
-        },
-        {
-          "id": "g-garlic",
-          "text": "Garlic (if low)"
-        },
-        {
-          "id": "g-tomato-sauce",
-          "text": "Tomato sauce ~4 oz (if low)"
-        },
-        {
-          "id": "g-peas",
-          "text": "Frozen peas (if low)"
-        },
-        {
-          "id": "g-wine-pic",
-          "text": "Dry white or cooking wine ~½ cup (if low)"
-        },
-        {
-          "id": "g-freezer-beef",
-          "text": "Confirm freezer ground beef for Wed"
-        },
-        {
-          "id": "g-rice-pic",
-          "text": "White rice (if low)"
-        }
-      ]
-    },
     "comforts": {
       "title": "Comforts Cafe trays (mac, penne bolognese, or chicken salad)",
       "do": "Pickup in San Anselmo. Add cut fruit or carrots if the plate needs veg.",
@@ -150,7 +100,7 @@
     },
     "rotisserie": {
       "title": "Rotisserie chicken + sourdough + fruit or cut veg",
-      "do": "Pickup / text Chris for rotisserie + sourdough (or MH Butter). Fruit or cut veg. Pull ground beef tonight for Wed. No whole roast this week.",
+      "do": "Pickup / text Chris for rotisserie + sourdough (or MH Butter). Fruit or cut veg. Pull ground beef tonight for Wed meatballs. No whole roast this week.",
       "well": "4",
       "prep": [],
       "grocery": [
@@ -169,14 +119,14 @@
       ]
     },
     "korean-bbq-meatballs": {
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019763-korean-bbq-style-meatballs\" target=\"_blank\" rel=\"noopener\">Korean BBQ-Style Meatballs</a> <span style=\"font-weight:500;color:#727272\">(ground chicken)</span> + rice + broccoli",
-      "do": "NYT is written for beef — use ground chicken tonight so Wed stays the only beef. Bake 425° ~15 min. Optional adult glaze from comments: gochujang + apricot + rice vinegar + soy (keep mild/skip for kids). Rice + broccoli.",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019763-korean-bbq-style-meatballs\" target=\"_blank\" rel=\"noopener\">Korean BBQ-Style Meatballs</a> + rice + broccoli",
+      "do": "Only beef night. Bake 425° ~15 min. Rice + broccoli. Optional adult glaze from comments: gochujang + apricot + rice vinegar + soy (keep mild/skip for kids).",
       "well": "4",
       "prep": [],
       "grocery": [
         {
-          "id": "g-ground-chicken",
-          "text": "Ground chicken ~1 lb"
+          "id": "g-ground-beef-mb",
+          "text": "Ground beef ~1 lb (or confirm freezer pack)"
         },
         {
           "id": "g-ritz",
@@ -195,11 +145,11 @@
           "text": "Garlic (if low)"
         },
         {
-          "id": "g-broccoli-sun",
+          "id": "g-broccoli-wed",
           "text": "Broccoli"
         },
         {
-          "id": "g-rice-sun",
+          "id": "g-rice-wed",
           "text": "White rice (if low)"
         },
         {
@@ -257,15 +207,59 @@
           "text": "Garlic (if low)"
         }
       ]
+    },
+    "tomato-basil-chicken": {
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1027093-tomato-basil-chicken-breasts\" target=\"_blank\" rel=\"noopener\">Tomato Basil Chicken</a> <span style=\"font-weight:500;color:#727272\">(double · only new)</span> + rice + broccoli",
+      "do": "No marinade. Shallots not onion; keep breast pieces thick enough to stay juicy; double the capers; sauce over rice.",
+      "well": "4",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-shallots",
+          "text": "Shallots (~2)"
+        },
+        {
+          "id": "g-tomatoes",
+          "text": "Tomatoes ~1½–2 lb (best you can find)"
+        },
+        {
+          "id": "g-basil",
+          "text": "Fresh basil"
+        },
+        {
+          "id": "g-broccoli-tbc",
+          "text": "Broccoli"
+        },
+        {
+          "id": "g-chicken-breasts",
+          "text": "Chicken breasts ~1½ lb"
+        },
+        {
+          "id": "g-butter-tbc",
+          "text": "Butter (if low)"
+        },
+        {
+          "id": "g-flour",
+          "text": "Flour (if low)"
+        },
+        {
+          "id": "g-capers-tbc",
+          "text": "Extra capers (plan ~2 Tbsp when doubling)"
+        },
+        {
+          "id": "g-rice-tbc",
+          "text": "White rice (if low)"
+        }
+      ]
     }
   },
   "order": [
     "rotisserie",
     "crisp-gnocchi",
-    "picadillo",
+    "korean-bbq-meatballs",
     "maple-miso-salmon",
     "comforts",
     "creekside",
-    "korean-bbq-meatballs"
+    "tomato-basil-chicken"
   ]
 }
