@@ -1,0 +1,266 @@
+{
+  "week": "2026-09-21",
+  "deck": "Sep 21–27 · Asian salmon Mon · Picadillo Tue · vinegar chicken Thu · Arigatou Fri · lemon–basil halibut Sun",
+  "slots": [
+    {
+      "day": "mon",
+      "date": "2026-09-21",
+      "label": "Monday"
+    },
+    {
+      "day": "tue",
+      "date": "2026-09-22",
+      "label": "Tuesday"
+    },
+    {
+      "day": "wed",
+      "date": "2026-09-23",
+      "label": "Wednesday"
+    },
+    {
+      "day": "thu",
+      "date": "2026-09-24",
+      "label": "Thursday"
+    },
+    {
+      "day": "fri",
+      "date": "2026-09-25",
+      "label": "Friday"
+    },
+    {
+      "day": "sat",
+      "date": "2026-09-26",
+      "label": "Saturday"
+    },
+    {
+      "day": "sun",
+      "date": "2026-09-27",
+      "label": "Sunday"
+    }
+  ],
+  "meals": {
+    "asian-salmon": {
+      "title": "Asian-sauce baked salmon + rice + frozen carrots/peas",
+      "do": "Sauce: ponzu + toasted sesame oil + sesame shabu + lime + cilantro + green onions. Rice required. Warm frozen veg. Pull ground beef tonight for Tue.",
+      "well": "4",
+      "prep": [
+        {
+          "kind": "thaw",
+          "nightsBefore": 1,
+          "item": "salmon"
+        }
+      ],
+      "grocery": [
+        {
+          "id": "g-salmon",
+          "text": "Confirm freezer king salmon (Mon)"
+        },
+        {
+          "id": "g-lime",
+          "text": "Lime (Mon)"
+        },
+        {
+          "id": "g-cilantro",
+          "text": "Cilantro (Mon)"
+        },
+        {
+          "id": "g-green-onions",
+          "text": "Green onions (Mon)"
+        },
+        {
+          "id": "g-rice-mon",
+          "text": "White rice (Mon)"
+        },
+        {
+          "id": "g-frozen-veg-mon",
+          "text": "Frozen carrots/peas (Mon)"
+        }
+      ]
+    },
+    "picadillo": {
+      "title": "Mami’s Picadillo + white rice + frozen peas",
+      "do": "Only beef night. Use Mami’s Picadillo. Rice + peas.",
+      "well": "4",
+      "prep": [
+        {
+          "kind": "thaw",
+          "nightsBefore": 1,
+          "item": "ground beef"
+        }
+      ],
+      "grocery": [
+        {
+          "id": "g-beef",
+          "text": "Ground beef 1¼–1½ lb (or freezer pack) (Tue)"
+        },
+        {
+          "id": "g-olive-oil",
+          "text": "Olive oil (Tue)"
+        },
+        {
+          "id": "g-green-pepper",
+          "text": "Green pepper (Tue)"
+        },
+        {
+          "id": "g-onion",
+          "text": "Yellow onion (Tue)"
+        },
+        {
+          "id": "g-garlic",
+          "text": "Garlic clove (Tue)"
+        },
+        {
+          "id": "g-capers",
+          "text": "Capers ¼ cup nonpareille (Tue)"
+        },
+        {
+          "id": "g-salt-pepper",
+          "text": "Salt/pepper (Tue)"
+        },
+        {
+          "id": "g-tomato-sauce",
+          "text": "Tomato sauce 4 oz (Tue)"
+        },
+        {
+          "id": "g-wine",
+          "text": "Dry white wine ½ cup (Tue)"
+        },
+        {
+          "id": "g-rice-tue",
+          "text": "White rice (Tue)"
+        },
+        {
+          "id": "g-peas-tue",
+          "text": "Frozen peas (Tue)"
+        }
+      ]
+    },
+    "pesto-pasta": {
+      "title": "Pesto pasta + peas + cherry tomatoes (meatless)",
+      "do": "Boil pasta. Toss pesto + peas + tomatoes. Add leftover chicken if any.",
+      "well": "3",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-pasta",
+          "text": "Pasta (Wed)"
+        },
+        {
+          "id": "g-pesto",
+          "text": "Pesto (jar or make) (Wed)"
+        },
+        {
+          "id": "g-cherry-tomatoes",
+          "text": "Cherry tomatoes (Wed)"
+        },
+        {
+          "id": "g-peas-wed",
+          "text": "Frozen peas (Wed)"
+        },
+        {
+          "id": "g-parmesan",
+          "text": "Parmesan (Wed)"
+        }
+      ]
+    },
+    "vinegar-chicken": {
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1020486-vinegar-chicken-with-crushed-olive-dressing\" target=\"_blank\" rel=\"noopener\">Vinegar Chicken With Crushed Olive Dressing</a> + crusty bread + broccoli",
+      "do": "Dinner Repeat. Roast chicken + vinegar olive dressing. Bread + broccoli.",
+      "well": "4",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-chicken",
+          "text": "Bone-in chicken thighs or parts (Thu)"
+        },
+        {
+          "id": "g-rwv",
+          "text": "Red wine vinegar (Thu)"
+        },
+        {
+          "id": "g-olives",
+          "text": "Castelvetrano / green olives (Thu)"
+        },
+        {
+          "id": "g-bread",
+          "text": "Crusty bread (Thu)"
+        },
+        {
+          "id": "g-broccoli-thu",
+          "text": "Broccoli (Thu)"
+        }
+      ]
+    },
+    "arigatou": {
+      "title": "Arigatou bentos (chicken/salmon teriyaki)",
+      "do": "Pickup. Kids love chicken + salmon teriyaki. Pull halibut tonight for Sun.",
+      "well": "4",
+      "prep": [],
+      "grocery": []
+    },
+    "creekside": {
+      "title": "Creekside Pizza",
+      "do": "Cucumbers + rice vinegar + salt while waiting.",
+      "well": "3",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-cucumbers",
+          "text": "Cucumbers (Sat)"
+        },
+        {
+          "id": "g-rice-vinegar",
+          "text": "Rice vinegar (Sat)"
+        }
+      ]
+    },
+    "lemon-basil-halibut": {
+      "title": "Halibut + lemon–basil marinade + rice + broccoli",
+      "do": "Lemon + basil marinade; stovetop or grill. Rice + broccoli.",
+      "well": "4",
+      "prep": [
+        {
+          "kind": "thaw",
+          "nightsBefore": 2,
+          "item": "halibut"
+        },
+        {
+          "kind": "marinate",
+          "nightsBefore": 0,
+          "item": "halibut (lemon–basil)"
+        }
+      ],
+      "grocery": [
+        {
+          "id": "g-halibut",
+          "text": "Halibut fillets (Sun)"
+        },
+        {
+          "id": "g-lemons",
+          "text": "Lemons (Sun)"
+        },
+        {
+          "id": "g-basil",
+          "text": "Fresh basil (Sun)"
+        },
+        {
+          "id": "g-rice-sun",
+          "text": "White rice (Sun)"
+        },
+        {
+          "id": "g-broccoli-sun",
+          "text": "Broccoli (Sun)"
+        }
+      ]
+    }
+  },
+  "order": [
+    "asian-salmon",
+    "picadillo",
+    "pesto-pasta",
+    "vinegar-chicken",
+    "arigatou",
+    "creekside",
+    "lemon-basil-halibut"
+  ]
+}

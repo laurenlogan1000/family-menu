@@ -1,23 +1,38 @@
 {
-  "week": "2026-09-14",
-  "updatedAt": "2026-09-14T04:56:19Z",
+  "week": "2026-09-21",
+  "updatedAt": "2026-09-20T14:14:28Z",
   "order": [
-    "rotisserie",
-    "crisp-gnocchi",
-    "korean-bbq-meatballs",
-    "maple-miso-salmon",
-    "comforts",
+    "asian-salmon",
+    "picadillo",
+    "pesto-pasta",
+    "vinegar-chicken",
+    "arigatou",
     "creekside",
-    "tomato-basil-chicken"
+    "lemon-basil-halibut"
   ],
   "scores": {
-    "crisp-gnocchi": {
+    "asian-salmon": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "comforts": {
+    "picadillo": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "pesto-pasta": {
       "well": "3",
+      "likes": "",
+      "ease": ""
+    },
+    "vinegar-chicken": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "arigatou": {
+      "well": "4",
       "likes": "",
       "ease": ""
     },
@@ -26,22 +41,7 @@
       "likes": "",
       "ease": ""
     },
-    "rotisserie": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
-    "korean-bbq-meatballs": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
-    "maple-miso-salmon": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
-    "tomato-basil-chicken": {
+    "lemon-basil-halibut": {
       "well": "4",
       "likes": "",
       "ease": ""
