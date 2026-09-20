@@ -1,6 +1,6 @@
 {
   "week": "2026-09-21",
-  "deck": "Sep 21–27 · Asian salmon Mon · Picadillo Tue · vinegar chicken Thu · Arigatou Fri · lemon–basil halibut Sun",
+  "deck": "Sep 21–27 · meatballs Mon · Mami arroz · Dinner Repeat Thu · no salmon",
   "slots": [
     {
       "day": "mon",
@@ -39,105 +39,109 @@
     }
   ],
   "meals": {
-    "asian-salmon": {
-      "title": "Asian-sauce baked salmon + rice + frozen carrots/peas",
-      "do": "Sauce: ponzu + toasted sesame oil + sesame shabu + lime + cilantro + green onions. Rice required. Warm frozen veg. Pull ground beef tonight for Tue.",
+    "korean-bbq-meatballs": {
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019763-korean-bbq-style-meatballs\" target=\"_blank\" rel=\"noopener\">Korean BBQ-Style Meatballs</a> + rice + broccoli",
+      "do": "Carryover from last week (never cooked). Only beef night. Bake 425° ~15 min. Rice + broccoli. Optional mild gochujang glaze for adults.",
       "well": "4",
-      "prep": [
-        {
-          "kind": "thaw",
-          "nightsBefore": 1,
-          "item": "salmon"
-        }
-      ],
+      "prep": [],
       "grocery": [
         {
-          "id": "g-salmon",
-          "text": "Confirm freezer king salmon (Mon)"
+          "id": "g-beef",
+          "text": "Ground beef ~1 lb (Mon)"
         },
         {
-          "id": "g-lime",
-          "text": "Lime (Mon)"
+          "id": "g-ritz",
+          "text": "Ritz crackers (or plain breadcrumbs) (Mon)"
         },
         {
-          "id": "g-cilantro",
-          "text": "Cilantro (Mon)"
+          "id": "g-scallions",
+          "text": "Scallions / green onions (Mon)"
         },
         {
-          "id": "g-green-onions",
-          "text": "Green onions (Mon)"
+          "id": "g-soy",
+          "text": "Low-sodium soy (Mon)"
+        },
+        {
+          "id": "g-garlic-mb",
+          "text": "Garlic (Mon)"
+        },
+        {
+          "id": "g-broccoli-mon",
+          "text": "Broccoli (Mon)"
         },
         {
           "id": "g-rice-mon",
           "text": "White rice (Mon)"
         },
         {
-          "id": "g-frozen-veg-mon",
-          "text": "Frozen carrots/peas (Mon)"
+          "id": "g-gochujang",
+          "text": "Gochujang (optional glaze) (Mon)"
         }
       ]
     },
-    "picadillo": {
-      "title": "Mami’s Picadillo + white rice + frozen peas",
-      "do": "Only beef night. Use Mami’s Picadillo. Rice + peas.",
+    "arroz-con-pollo": {
+      "title": "Mami’s Arroz Con Pollo + peas",
+      "do": "Mami’s method: sauté sofrito; brown chicken; simmer rice in sauce. Garnish peas. Bone-in or boneless OK.",
       "well": "4",
-      "prep": [
-        {
-          "kind": "thaw",
-          "nightsBefore": 1,
-          "item": "ground beef"
-        }
-      ],
+      "prep": [],
       "grocery": [
         {
-          "id": "g-beef",
-          "text": "Ground beef 1¼–1½ lb (or freezer pack) (Tue)"
+          "id": "g-chicken-acp",
+          "text": "Chicken pieces ~2½–3 lb (or boneless thighs) (Tue)"
         },
         {
-          "id": "g-olive-oil",
-          "text": "Olive oil (Tue)"
+          "id": "g-lemon-acp",
+          "text": "Lemon (Tue)"
+        },
+        {
+          "id": "g-onion-acp",
+          "text": "Yellow onion (Tue)"
         },
         {
           "id": "g-green-pepper",
           "text": "Green pepper (Tue)"
         },
         {
-          "id": "g-onion",
-          "text": "Yellow onion (Tue)"
-        },
-        {
-          "id": "g-garlic",
-          "text": "Garlic clove (Tue)"
-        },
-        {
-          "id": "g-capers",
-          "text": "Capers ¼ cup nonpareille (Tue)"
-        },
-        {
-          "id": "g-salt-pepper",
-          "text": "Salt/pepper (Tue)"
+          "id": "g-garlic-acp",
+          "text": "Garlic (Tue)"
         },
         {
           "id": "g-tomato-sauce",
-          "text": "Tomato sauce 4 oz (Tue)"
+          "text": "Tomato sauce 8 oz (Tue)"
         },
         {
-          "id": "g-wine",
-          "text": "Dry white wine ½ cup (Tue)"
+          "id": "g-wine-acp",
+          "text": "Dry white wine ~1 cup (Tue)"
         },
         {
-          "id": "g-rice-tue",
-          "text": "White rice (Tue)"
+          "id": "g-stock",
+          "text": "Chicken stock ~1½ cups (Tue)"
         },
         {
-          "id": "g-peas-tue",
+          "id": "g-rice-acp",
+          "text": "Long-grain white rice ~2½ cups (Tue)"
+        },
+        {
+          "id": "g-pimentos",
+          "text": "Jarred roasted red peppers / pimentos (Tue)"
+        },
+        {
+          "id": "g-peas-acp",
           "text": "Frozen peas (Tue)"
+        },
+        {
+          "id": "g-saffron",
+          "text": "Saffron pinch (or skip) (Tue)"
+        },
+        {
+          "id": "g-bay",
+          "text": "Bay leaves (Tue)"
         }
       ]
     },
     "pesto-pasta": {
       "title": "Pesto pasta + peas + cherry tomatoes (meatless)",
-      "do": "Boil pasta. Toss pesto + peas + tomatoes. Add leftover chicken if any.",
+      "do": "Boil pasta. Toss pesto + peas + tomatoes. Parmesan.",
       "well": "3",
       "prep": [],
       "grocery": [
@@ -150,7 +154,7 @@
           "text": "Pesto (jar or make) (Wed)"
         },
         {
-          "id": "g-cherry-tomatoes",
+          "id": "g-tomatoes",
           "text": "Cherry tomatoes (Wed)"
         },
         {
@@ -158,36 +162,52 @@
           "text": "Frozen peas (Wed)"
         },
         {
-          "id": "g-parmesan",
+          "id": "g-parm",
           "text": "Parmesan (Wed)"
         }
       ]
     },
-    "vinegar-chicken": {
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1020486-vinegar-chicken-with-crushed-olive-dressing\" target=\"_blank\" rel=\"noopener\">Vinegar Chicken With Crushed Olive Dressing</a> + crusty bread + broccoli",
-      "do": "Dinner Repeat. Roast chicken + vinegar olive dressing. Bread + broccoli.",
+    "chicken-zucchini-meatballs": {
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1021328-chicken-zucchini-meatballs-with-feta\" target=\"_blank\" rel=\"noopener\">Chicken–Zucchini Meatballs With Feta</a> + rice + cucumber salad",
+      "do": "Dinner Repeat. Bake meatballs. Rice + cucumbers with rice vinegar + salt.",
       "well": "4",
       "prep": [],
       "grocery": [
         {
-          "id": "g-chicken",
-          "text": "Bone-in chicken thighs or parts (Thu)"
+          "id": "g-ground-chicken",
+          "text": "Ground chicken ~1 lb (Thu)"
         },
         {
-          "id": "g-rwv",
-          "text": "Red wine vinegar (Thu)"
+          "id": "g-zucchini",
+          "text": "Zucchini (Thu)"
         },
         {
-          "id": "g-olives",
-          "text": "Castelvetrano / green olives (Thu)"
+          "id": "g-feta",
+          "text": "Feta (Thu)"
         },
         {
-          "id": "g-bread",
-          "text": "Crusty bread (Thu)"
+          "id": "g-breadcrumbs",
+          "text": "Breadcrumbs (Thu)"
         },
         {
-          "id": "g-broccoli-thu",
-          "text": "Broccoli (Thu)"
+          "id": "g-egg",
+          "text": "Eggs (Thu)"
+        },
+        {
+          "id": "g-garlic-cz",
+          "text": "Garlic (Thu)"
+        },
+        {
+          "id": "g-rice-thu",
+          "text": "White rice (Thu)"
+        },
+        {
+          "id": "g-cukes-thu",
+          "text": "Cucumbers (Thu)"
+        },
+        {
+          "id": "g-rv-thu",
+          "text": "Rice vinegar (Thu)"
         }
       ]
     },
@@ -205,18 +225,18 @@
       "prep": [],
       "grocery": [
         {
-          "id": "g-cucumbers",
+          "id": "g-cukes-sat",
           "text": "Cucumbers (Sat)"
         },
         {
-          "id": "g-rice-vinegar",
+          "id": "g-rv-sat",
           "text": "Rice vinegar (Sat)"
         }
       ]
     },
     "lemon-basil-halibut": {
       "title": "Halibut + lemon–basil marinade + rice + broccoli",
-      "do": "Lemon + basil marinade; stovetop or grill. Rice + broccoli.",
+      "do": "Lemon + basil marinade; stovetop or grill. Rice + broccoli. Only fish night this week (salmon Sat night already).",
       "well": "4",
       "prep": [
         {
@@ -226,8 +246,8 @@
         },
         {
           "kind": "marinate",
-          "nightsBefore": 0,
-          "item": "halibut (lemon–basil)"
+          "nightsBefore": 1,
+          "item": "lemon–basil halibut"
         }
       ],
       "grocery": [
@@ -255,10 +275,10 @@
     }
   },
   "order": [
-    "asian-salmon",
-    "picadillo",
+    "korean-bbq-meatballs",
+    "arroz-con-pollo",
     "pesto-pasta",
-    "vinegar-chicken",
+    "chicken-zucchini-meatballs",
     "arigatou",
     "creekside",
     "lemon-basil-halibut"

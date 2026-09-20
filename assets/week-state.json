@@ -1,22 +1,22 @@
 {
   "week": "2026-09-21",
-  "updatedAt": "2026-09-20T14:14:28Z",
+  "updatedAt": "2026-09-20T16:02:36Z",
   "order": [
-    "asian-salmon",
-    "picadillo",
+    "korean-bbq-meatballs",
+    "arroz-con-pollo",
     "pesto-pasta",
-    "vinegar-chicken",
+    "chicken-zucchini-meatballs",
     "arigatou",
     "creekside",
     "lemon-basil-halibut"
   ],
   "scores": {
-    "asian-salmon": {
+    "korean-bbq-meatballs": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "picadillo": {
+    "arroz-con-pollo": {
       "well": "4",
       "likes": "",
       "ease": ""
@@ -26,7 +26,7 @@
       "likes": "",
       "ease": ""
     },
-    "vinegar-chicken": {
+    "chicken-zucchini-meatballs": {
       "well": "4",
       "likes": "",
       "ease": ""
