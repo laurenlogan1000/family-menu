@@ -1,6 +1,6 @@
 {
   "week": "2026-09-21",
-  "deck": "Sep 21–27 · full bench · pork · shrimp · flank · meatballs",
+  "deck": "Sep 21–27 · beef meatballs · Pizzalina Wed · slow-cooker chili · flank Sun",
   "slots": [
     {
       "day": "mon",
@@ -40,14 +40,14 @@
   ],
   "meals": {
     "korean-bbq-meatballs": {
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019763-korean-bbq-style-meatballs\" target=\"_blank\" rel=\"noopener\">Korean BBQ-Style Meatballs</a> <span style=\"font-weight:500;color:#727272\">(ground chicken)</span> + rice + broccoli",
-      "do": "Carryover from last week. Use ground chicken so Sun flank can be the beef night. Bake 425° ~15 min. Rice + broccoli. Optional mild gochujang glaze for adults.",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019763-korean-bbq-style-meatballs\" target=\"_blank\" rel=\"noopener\">Korean BBQ-Style Meatballs</a> + rice + broccoli",
+      "do": "Carryover from last week. Ground beef (two-beef week OK with Sun flank). Bake 425° ~15 min. Rice + broccoli. Optional mild gochujang glaze for adults only.",
       "well": "4",
       "prep": [],
       "grocery": [
         {
-          "id": "g-gchicken",
-          "text": "Ground chicken ~1 lb (Mon)"
+          "id": "g-beef",
+          "text": "Ground beef ~1 lb (Mon)"
         },
         {
           "id": "g-ritz",
@@ -75,7 +75,7 @@
         },
         {
           "id": "g-gochujang",
-          "text": "Gochujang (optional glaze) (Mon)"
+          "text": "Gochujang (optional adult glaze) (Mon)"
         }
       ]
     },
@@ -119,75 +119,87 @@
         }
       ]
     },
-    "crisp-gnocchi": {
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1020453-crisp-gnocchi-with-brussels-sprouts-and-brown-butter\" target=\"_blank\" rel=\"noopener\">Crisp Gnocchi With Brussels Sprouts</a> (meatless)",
-      "do": "Dinner Repeat. Sear gnocchi (no boil). Brown butter + lemon zest. Parmesan. Skip chili flakes for kids.",
-      "well": "4",
+    "pizzalina-pasta": {
+      "title": "Pizzalina pasta (takeout)",
+      "do": "Pickup pasta from Pizzalina. Add a simple side salad or fruit at home if the plate needs it.",
+      "well": "3",
       "prep": [],
       "grocery": [
         {
-          "id": "g-gnocchi",
-          "text": "Potato gnocchi ~18 oz (Wed)"
-        },
-        {
-          "id": "g-brussels",
-          "text": "Brussels sprouts ~1 lb (Wed)"
-        },
-        {
-          "id": "g-lemon-g",
-          "text": "Lemon (Wed)"
-        },
-        {
-          "id": "g-butter-g",
-          "text": "Butter (Wed)"
-        },
-        {
-          "id": "g-honey-g",
-          "text": "Honey (Wed)"
-        },
-        {
-          "id": "g-parm-g",
-          "text": "Parmesan (Wed)"
+          "id": "g-salad-wed",
+          "text": "Salad greens or fruit for pasta night (Wed)"
         }
       ]
     },
-    "shrimp-scampi": {
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/9101-classic-shrimp-scampi\" target=\"_blank\" rel=\"noopener\">Classic Shrimp Scampi</a> + pasta + peas",
-      "do": "Dinner Repeat / NYT. Keep mild (no extra chili). Pasta + peas for the plate.",
+    "white-chicken-chili": {
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019905-slow-cooker-white-chicken-chili\" target=\"_blank\" rel=\"noopener\">Slow-Cooker White Chicken Chili</a> + bread + avocado",
+      "do": "NYT save. Mild for kids: use mild green chiles; skip jalapeño and cayenne. Slow cooker 4–6 hrs on low (or stovetop ~35 min). Bread + avocado. Comment tip: add beans after shredding so they don’t mush.",
       "well": "4",
       "prep": [],
       "grocery": [
         {
-          "id": "g-shrimp",
-          "text": "Shrimp ~1–1¼ lb (Thu)"
+          "id": "g-chicken-thighs",
+          "text": "Boneless skinless chicken thighs ~2 lb (Thu)"
         },
         {
-          "id": "g-pasta-sc",
-          "text": "Pasta (linguine or spaghetti) (Thu)"
+          "id": "g-onion-chili",
+          "text": "Yellow or red onion (Thu)"
         },
         {
-          "id": "g-butter-sc",
-          "text": "Butter (Thu)"
-        },
-        {
-          "id": "g-garlic-sc",
+          "id": "g-garlic-chili",
           "text": "Garlic (Thu)"
         },
         {
-          "id": "g-lemon-sc",
-          "text": "Lemon (Thu)"
+          "id": "g-green-chiles",
+          "text": "Canned chopped green chiles mild 3×4 oz (Thu)"
         },
         {
-          "id": "g-wine-sc",
-          "text": "Dry white wine (Thu)"
+          "id": "g-cumin",
+          "text": "Ground cumin (Thu)"
         },
         {
-          "id": "g-parsley",
-          "text": "Parsley (Thu)"
+          "id": "g-onion-pow",
+          "text": "Onion powder (Thu)"
         },
         {
-          "id": "g-peas-sc",
-          "text": "Frozen peas (Thu)"
+          "id": "g-oregano",
+          "text": "Dried oregano (Thu)"
+        },
+        {
+          "id": "g-stock",
+          "text": "Chicken stock ~3 cups (Thu)"
+        },
+        {
+          "id": "g-beans",
+          "text": "Great Northern beans 2 cans (Thu)"
+        },
+        {
+          "id": "g-corn",
+          "text": "Frozen corn (Thu)"
+        },
+        {
+          "id": "g-lime-chili",
+          "text": "Lime (Thu)"
+        },
+        {
+          "id": "g-cilantro",
+          "text": "Cilantro (optional) (Thu)"
+        },
+        {
+          "id": "g-butter-chili",
+          "text": "Butter (Thu)"
+        },
+        {
+          "id": "g-bread",
+          "text": "Crusty bread or tortillas (Thu)"
+        },
+        {
+          "id": "g-avocado",
+          "text": "Avocado (Thu)"
+        },
+        {
+          "id": "g-sour-cream",
+          "text": "Sour cream (Thu)"
         }
       ]
     },
@@ -272,8 +284,8 @@
   "order": [
     "korean-bbq-meatballs",
     "pork-tenderloin-rub",
-    "crisp-gnocchi",
-    "shrimp-scampi",
+    "pizzalina-pasta",
+    "white-chicken-chili",
     "arigatou",
     "creekside",
     "flank-steak"

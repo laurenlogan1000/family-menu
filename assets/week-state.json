@@ -1,11 +1,11 @@
 {
   "week": "2026-09-21",
-  "updatedAt": "2026-09-20T16:03:54Z",
+  "updatedAt": "2026-09-20T16:52:29Z",
   "order": [
     "korean-bbq-meatballs",
     "pork-tenderloin-rub",
-    "crisp-gnocchi",
-    "shrimp-scampi",
+    "pizzalina-pasta",
+    "white-chicken-chili",
     "arigatou",
     "creekside",
     "flank-steak"
@@ -21,12 +21,12 @@
       "likes": "",
       "ease": ""
     },
-    "crisp-gnocchi": {
-      "well": "4",
+    "pizzalina-pasta": {
+      "well": "3",
       "likes": "",
       "ease": ""
     },
-    "shrimp-scampi": {
+    "white-chicken-chili": {
       "well": "4",
       "likes": "",
       "ease": ""
