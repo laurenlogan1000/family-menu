@@ -1,6 +1,6 @@
 {
   "week": "2026-09-21",
-  "deck": "Sep 21–27 · meatballs Mon · Mami arroz · Dinner Repeat Thu · no salmon",
+  "deck": "Sep 21–27 · full bench · pork · shrimp · flank · meatballs",
   "slots": [
     {
       "day": "mon",
@@ -40,14 +40,14 @@
   ],
   "meals": {
     "korean-bbq-meatballs": {
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019763-korean-bbq-style-meatballs\" target=\"_blank\" rel=\"noopener\">Korean BBQ-Style Meatballs</a> + rice + broccoli",
-      "do": "Carryover from last week (never cooked). Only beef night. Bake 425° ~15 min. Rice + broccoli. Optional mild gochujang glaze for adults.",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019763-korean-bbq-style-meatballs\" target=\"_blank\" rel=\"noopener\">Korean BBQ-Style Meatballs</a> <span style=\"font-weight:500;color:#727272\">(ground chicken)</span> + rice + broccoli",
+      "do": "Carryover from last week. Use ground chicken so Sun flank can be the beef night. Bake 425° ~15 min. Rice + broccoli. Optional mild gochujang glaze for adults.",
       "well": "4",
       "prep": [],
       "grocery": [
         {
-          "id": "g-beef",
-          "text": "Ground beef ~1 lb (Mon)"
+          "id": "g-gchicken",
+          "text": "Ground chicken ~1 lb (Mon)"
         },
         {
           "id": "g-ritz",
@@ -58,7 +58,7 @@
           "text": "Scallions / green onions (Mon)"
         },
         {
-          "id": "g-soy",
+          "id": "g-soy-mb",
           "text": "Low-sodium soy (Mon)"
         },
         {
@@ -79,208 +79,203 @@
         }
       ]
     },
-    "arroz-con-pollo": {
-      "title": "Mami’s Arroz Con Pollo + peas",
-      "do": "Mami’s method: sauté sofrito; brown chicken; simmer rice in sauce. Garnish peas. Bone-in or boneless OK.",
+    "pork-tenderloin-rub": {
+      "title": "Mami’s pork tenderloin (dry rub) + rice + roasted veg",
+      "do": "Rub: garlic powder, oregano, cumin, thyme, Italian seasoning, salt. Sear then roast 450° to 145°F (~20 min after sear). Rice + carrots/broccoli.",
       "well": "4",
       "prep": [],
       "grocery": [
         {
-          "id": "g-chicken-acp",
-          "text": "Chicken pieces ~2½–3 lb (or boneless thighs) (Tue)"
+          "id": "g-pork",
+          "text": "Pork tenderloin ~1½ lb (Tue)"
         },
         {
-          "id": "g-lemon-acp",
-          "text": "Lemon (Tue)"
+          "id": "g-garlic-pow",
+          "text": "Garlic powder (Tue)"
         },
         {
-          "id": "g-onion-acp",
-          "text": "Yellow onion (Tue)"
+          "id": "g-oregano",
+          "text": "Dried oregano (Tue)"
         },
         {
-          "id": "g-green-pepper",
-          "text": "Green pepper (Tue)"
+          "id": "g-cumin",
+          "text": "Cumin (Tue)"
         },
         {
-          "id": "g-garlic-acp",
-          "text": "Garlic (Tue)"
+          "id": "g-thyme",
+          "text": "Dried thyme (Tue)"
         },
         {
-          "id": "g-tomato-sauce",
-          "text": "Tomato sauce 8 oz (Tue)"
+          "id": "g-italian",
+          "text": "Italian seasoning (Tue)"
         },
         {
-          "id": "g-wine-acp",
-          "text": "Dry white wine ~1 cup (Tue)"
+          "id": "g-rice-tue",
+          "text": "White rice (Tue)"
         },
         {
-          "id": "g-stock",
-          "text": "Chicken stock ~1½ cups (Tue)"
-        },
-        {
-          "id": "g-rice-acp",
-          "text": "Long-grain white rice ~2½ cups (Tue)"
-        },
-        {
-          "id": "g-pimentos",
-          "text": "Jarred roasted red peppers / pimentos (Tue)"
-        },
-        {
-          "id": "g-peas-acp",
-          "text": "Frozen peas (Tue)"
-        },
-        {
-          "id": "g-saffron",
-          "text": "Saffron pinch (or skip) (Tue)"
-        },
-        {
-          "id": "g-bay",
-          "text": "Bay leaves (Tue)"
+          "id": "g-veg-tue",
+          "text": "Broccoli or carrots for roasting (Tue)"
         }
       ]
     },
-    "pesto-pasta": {
-      "title": "Pesto pasta + peas + cherry tomatoes (meatless)",
-      "do": "Boil pasta. Toss pesto + peas + tomatoes. Parmesan.",
-      "well": "3",
+    "crisp-gnocchi": {
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1020453-crisp-gnocchi-with-brussels-sprouts-and-brown-butter\" target=\"_blank\" rel=\"noopener\">Crisp Gnocchi With Brussels Sprouts</a> (meatless)",
+      "do": "Dinner Repeat. Sear gnocchi (no boil). Brown butter + lemon zest. Parmesan. Skip chili flakes for kids.",
+      "well": "4",
       "prep": [],
       "grocery": [
         {
-          "id": "g-pasta",
-          "text": "Pasta (Wed)"
+          "id": "g-gnocchi",
+          "text": "Potato gnocchi ~18 oz (Wed)"
         },
         {
-          "id": "g-pesto",
-          "text": "Pesto (jar or make) (Wed)"
+          "id": "g-brussels",
+          "text": "Brussels sprouts ~1 lb (Wed)"
         },
         {
-          "id": "g-tomatoes",
-          "text": "Cherry tomatoes (Wed)"
+          "id": "g-lemon-g",
+          "text": "Lemon (Wed)"
         },
         {
-          "id": "g-peas-wed",
-          "text": "Frozen peas (Wed)"
+          "id": "g-butter-g",
+          "text": "Butter (Wed)"
         },
         {
-          "id": "g-parm",
+          "id": "g-honey-g",
+          "text": "Honey (Wed)"
+        },
+        {
+          "id": "g-parm-g",
           "text": "Parmesan (Wed)"
         }
       ]
     },
-    "chicken-zucchini-meatballs": {
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1021328-chicken-zucchini-meatballs-with-feta\" target=\"_blank\" rel=\"noopener\">Chicken–Zucchini Meatballs With Feta</a> + rice + cucumber salad",
-      "do": "Dinner Repeat. Bake meatballs. Rice + cucumbers with rice vinegar + salt.",
+    "shrimp-scampi": {
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/9101-classic-shrimp-scampi\" target=\"_blank\" rel=\"noopener\">Classic Shrimp Scampi</a> + pasta + peas",
+      "do": "Dinner Repeat / NYT. Keep mild (no extra chili). Pasta + peas for the plate.",
       "well": "4",
       "prep": [],
       "grocery": [
         {
-          "id": "g-ground-chicken",
-          "text": "Ground chicken ~1 lb (Thu)"
+          "id": "g-shrimp",
+          "text": "Shrimp ~1–1¼ lb (Thu)"
         },
         {
-          "id": "g-zucchini",
-          "text": "Zucchini (Thu)"
+          "id": "g-pasta-sc",
+          "text": "Pasta (linguine or spaghetti) (Thu)"
         },
         {
-          "id": "g-feta",
-          "text": "Feta (Thu)"
+          "id": "g-butter-sc",
+          "text": "Butter (Thu)"
         },
         {
-          "id": "g-breadcrumbs",
-          "text": "Breadcrumbs (Thu)"
-        },
-        {
-          "id": "g-egg",
-          "text": "Eggs (Thu)"
-        },
-        {
-          "id": "g-garlic-cz",
+          "id": "g-garlic-sc",
           "text": "Garlic (Thu)"
         },
         {
-          "id": "g-rice-thu",
-          "text": "White rice (Thu)"
+          "id": "g-lemon-sc",
+          "text": "Lemon (Thu)"
         },
         {
-          "id": "g-cukes-thu",
-          "text": "Cucumbers (Thu)"
+          "id": "g-wine-sc",
+          "text": "Dry white wine (Thu)"
         },
         {
-          "id": "g-rv-thu",
-          "text": "Rice vinegar (Thu)"
+          "id": "g-parsley",
+          "text": "Parsley (Thu)"
+        },
+        {
+          "id": "g-peas-sc",
+          "text": "Frozen peas (Thu)"
         }
       ]
     },
     "arigatou": {
       "title": "Arigatou bentos (chicken/salmon teriyaki)",
-      "do": "Pickup. Kids love chicken + salmon teriyaki. Pull halibut tonight for Sun.",
+      "do": "Pickup. Kids love chicken + salmon teriyaki.",
       "well": "4",
       "prep": [],
       "grocery": []
     },
     "creekside": {
       "title": "Creekside Pizza",
-      "do": "Cucumbers + rice vinegar + salt while waiting.",
+      "do": "Cucumbers + rice vinegar + salt while waiting. Start flank marinade tonight for Sun.",
       "well": "3",
       "prep": [],
       "grocery": [
         {
-          "id": "g-cukes-sat",
+          "id": "g-cukes",
           "text": "Cucumbers (Sat)"
         },
         {
-          "id": "g-rv-sat",
+          "id": "g-rv",
           "text": "Rice vinegar (Sat)"
         }
       ]
     },
-    "lemon-basil-halibut": {
-      "title": "Halibut + lemon–basil marinade + rice + broccoli",
-      "do": "Lemon + basil marinade; stovetop or grill. Rice + broccoli. Only fish night this week (salmon Sat night already).",
+    "flank-steak": {
+      "title": "Mami’s flank steak (marinade) + rice + salad",
+      "do": "Only beef night. Marinade overnight Sat: oil, soy, red wine vinegar, lemon, Worcestershire, dry mustard, garlic, pepper. Grill or broil. Rice + simple salad.",
       "well": "4",
       "prep": [
         {
-          "kind": "thaw",
-          "nightsBefore": 2,
-          "item": "halibut"
-        },
-        {
           "kind": "marinate",
           "nightsBefore": 1,
-          "item": "lemon–basil halibut"
+          "item": "flank steak"
         }
       ],
       "grocery": [
         {
-          "id": "g-halibut",
-          "text": "Halibut fillets (Sun)"
+          "id": "g-flank",
+          "text": "Flank steak ~1½–3 lb (Sun)"
         },
         {
-          "id": "g-lemons",
-          "text": "Lemons (Sun)"
+          "id": "g-soy-fl",
+          "text": "Soy sauce (Sun)"
         },
         {
-          "id": "g-basil",
-          "text": "Fresh basil (Sun)"
+          "id": "g-rvv",
+          "text": "Red wine vinegar (Sun)"
+        },
+        {
+          "id": "g-lemon-fl",
+          "text": "Lemon (Sun)"
+        },
+        {
+          "id": "g-worcestershire",
+          "text": "Worcestershire (Sun)"
+        },
+        {
+          "id": "g-dry-mustard",
+          "text": "Dry mustard (Sun)"
+        },
+        {
+          "id": "g-garlic-fl",
+          "text": "Garlic (Sun)"
+        },
+        {
+          "id": "g-veg-oil",
+          "text": "Vegetable oil (Sun)"
         },
         {
           "id": "g-rice-sun",
           "text": "White rice (Sun)"
         },
         {
-          "id": "g-broccoli-sun",
-          "text": "Broccoli (Sun)"
+          "id": "g-salad",
+          "text": "Salad greens / tomatoes (Sun)"
         }
       ]
     }
   },
   "order": [
     "korean-bbq-meatballs",
-    "arroz-con-pollo",
-    "pesto-pasta",
-    "chicken-zucchini-meatballs",
+    "pork-tenderloin-rub",
+    "crisp-gnocchi",
+    "shrimp-scampi",
     "arigatou",
     "creekside",
-    "lemon-basil-halibut"
+    "flank-steak"
   ]
 }

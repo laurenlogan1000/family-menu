@@ -1,14 +1,14 @@
 {
   "week": "2026-09-21",
-  "updatedAt": "2026-09-20T16:02:36Z",
+  "updatedAt": "2026-09-20T16:03:54Z",
   "order": [
     "korean-bbq-meatballs",
-    "arroz-con-pollo",
-    "pesto-pasta",
-    "chicken-zucchini-meatballs",
+    "pork-tenderloin-rub",
+    "crisp-gnocchi",
+    "shrimp-scampi",
     "arigatou",
     "creekside",
-    "lemon-basil-halibut"
+    "flank-steak"
   ],
   "scores": {
     "korean-bbq-meatballs": {
@@ -16,17 +16,17 @@
       "likes": "",
       "ease": ""
     },
-    "arroz-con-pollo": {
+    "pork-tenderloin-rub": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "pesto-pasta": {
-      "well": "3",
+    "crisp-gnocchi": {
+      "well": "4",
       "likes": "",
       "ease": ""
     },
-    "chicken-zucchini-meatballs": {
+    "shrimp-scampi": {
       "well": "4",
       "likes": "",
       "ease": ""
@@ -41,7 +41,7 @@
       "likes": "",
       "ease": ""
     },
-    "lemon-basil-halibut": {
+    "flank-steak": {
       "well": "4",
       "likes": "",
       "ease": ""
