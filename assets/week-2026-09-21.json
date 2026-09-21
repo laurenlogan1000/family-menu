@@ -121,15 +121,10 @@
     },
     "pizzalina-pasta": {
       "title": "Pizzalina pasta (takeout)",
-      "do": "Pickup. Pack salad or fruit if the plate needs it.",
+      "do": "Pickup.",
       "well": "3",
       "prep": [],
-      "grocery": [
-        {
-          "id": "g-salad-wed",
-          "text": "Salad greens or fruit for pasta night (Wed)"
-        }
-      ]
+      "grocery": []
     },
     "chicken-zucchini-meatballs": {
       "title": "<a href=\"https://cooking.nytimes.com/recipes/1021328-chicken-zucchini-meatballs-with-feta\" target=\"_blank\" rel=\"noopener\">Chicken–Zucchini Meatballs With Feta</a> + rice + cucumbers",
