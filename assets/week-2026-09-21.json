@@ -1,6 +1,6 @@
 {
   "week": "2026-09-21",
-  "deck": "Sep 21–27 · beef meatballs · Pizzalina Wed · slow-cooker chili · flank Sun",
+  "deck": "Sep 21–27",
   "slots": [
     {
       "day": "mon",
@@ -41,7 +41,7 @@
   "meals": {
     "korean-bbq-meatballs": {
       "title": "<a href=\"https://cooking.nytimes.com/recipes/1019763-korean-bbq-style-meatballs\" target=\"_blank\" rel=\"noopener\">Korean BBQ-Style Meatballs</a> + rice + broccoli",
-      "do": "Carryover from last week. Ground beef (two-beef week OK with Sun flank). Bake 425° ~15 min. Rice + broccoli. Optional mild gochujang glaze for adults only.",
+      "do": "Bake 425° ~15 min. Rice + broccoli.",
       "well": "4",
       "prep": [],
       "grocery": [
@@ -81,7 +81,7 @@
     },
     "pork-tenderloin-rub": {
       "title": "Mami’s pork tenderloin (dry rub) + rice + roasted veg",
-      "do": "Rub: garlic powder, oregano, cumin, thyme, Italian seasoning, salt. Sear then roast 450° to 145°F (~20 min after sear). Rice + carrots/broccoli.",
+      "do": "Sear, then roast 450° to 145°F. Rice + roasted veg.",
       "well": "4",
       "prep": [],
       "grocery": [
@@ -121,7 +121,7 @@
     },
     "pizzalina-pasta": {
       "title": "Pizzalina pasta (takeout)",
-      "do": "Pickup pasta from Pizzalina. Add a simple side salad or fruit at home if the plate needs it.",
+      "do": "Pickup. Pack salad or fruit if the plate needs it.",
       "well": "3",
       "prep": [],
       "grocery": [
@@ -131,104 +131,67 @@
         }
       ]
     },
-    "white-chicken-chili": {
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019905-slow-cooker-white-chicken-chili\" target=\"_blank\" rel=\"noopener\">Slow-Cooker White Chicken Chili</a> + bread + avocado",
-      "do": "NYT save. Mild for kids: use mild green chiles; skip jalapeño and cayenne. Slow cooker 4–6 hrs on low (or stovetop ~35 min). Bread + avocado. Comment tip: add beans after shredding so they don’t mush.",
+    "chicken-zucchini-meatballs": {
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1021328-chicken-zucchini-meatballs-with-feta\" target=\"_blank\" rel=\"noopener\">Chicken–Zucchini Meatballs With Feta</a> + rice + cucumbers",
+      "do": "Bake meatballs. Rice. Cucumbers with rice vinegar + salt.",
       "well": "4",
       "prep": [],
       "grocery": [
         {
-          "id": "g-chicken-thighs",
-          "text": "Boneless skinless chicken thighs ~2 lb (Thu)"
+          "id": "g-gchicken",
+          "text": "Ground chicken ~1 lb (Thu)"
         },
         {
-          "id": "g-onion-chili",
-          "text": "Yellow or red onion (Thu)"
+          "id": "g-zucchini",
+          "text": "Zucchini (Thu)"
         },
         {
-          "id": "g-garlic-chili",
+          "id": "g-feta",
+          "text": "Feta (Thu)"
+        },
+        {
+          "id": "g-breadcrumbs",
+          "text": "Breadcrumbs (Thu)"
+        },
+        {
+          "id": "g-egg",
+          "text": "Eggs (Thu)"
+        },
+        {
+          "id": "g-garlic-cz",
           "text": "Garlic (Thu)"
         },
         {
-          "id": "g-green-chiles",
-          "text": "Canned chopped green chiles mild 3×4 oz (Thu)"
+          "id": "g-rice-thu",
+          "text": "White rice (Thu)"
         },
         {
-          "id": "g-cumin",
-          "text": "Ground cumin (Thu)"
+          "id": "g-cukes-thu",
+          "text": "Cucumbers (Thu)"
         },
         {
-          "id": "g-onion-pow",
-          "text": "Onion powder (Thu)"
-        },
-        {
-          "id": "g-oregano",
-          "text": "Dried oregano (Thu)"
-        },
-        {
-          "id": "g-stock",
-          "text": "Chicken stock ~3 cups (Thu)"
-        },
-        {
-          "id": "g-beans",
-          "text": "Great Northern beans 2 cans (Thu)"
-        },
-        {
-          "id": "g-corn",
-          "text": "Frozen corn (Thu)"
-        },
-        {
-          "id": "g-lime-chili",
-          "text": "Lime (Thu)"
-        },
-        {
-          "id": "g-cilantro",
-          "text": "Cilantro (optional) (Thu)"
-        },
-        {
-          "id": "g-butter-chili",
-          "text": "Butter (Thu)"
-        },
-        {
-          "id": "g-bread",
-          "text": "Crusty bread or tortillas (Thu)"
-        },
-        {
-          "id": "g-avocado",
-          "text": "Avocado (Thu)"
-        },
-        {
-          "id": "g-sour-cream",
-          "text": "Sour cream (Thu)"
+          "id": "g-rv-thu",
+          "text": "Rice vinegar (Thu)"
         }
       ]
     },
-    "arigatou": {
-      "title": "Arigatou bentos (chicken/salmon teriyaki)",
-      "do": "Pickup. Kids love chicken + salmon teriyaki.",
-      "well": "4",
+    "sol-food": {
+      "title": "Sol Food",
+      "do": "Pickup or dine in.",
+      "well": "3",
       "prep": [],
       "grocery": []
     },
-    "creekside": {
-      "title": "Creekside Pizza",
-      "do": "Cucumbers + rice vinegar + salt while waiting. Start flank marinade tonight for Sun.",
+    "taco-janes": {
+      "title": "Taco Jane’s",
+      "do": "Pickup / dine out. Start flank marinade tonight.",
       "well": "3",
       "prep": [],
-      "grocery": [
-        {
-          "id": "g-cukes",
-          "text": "Cucumbers (Sat)"
-        },
-        {
-          "id": "g-rv",
-          "text": "Rice vinegar (Sat)"
-        }
-      ]
+      "grocery": []
     },
     "flank-steak": {
       "title": "Mami’s flank steak (marinade) + rice + salad",
-      "do": "Only beef night. Marinade overnight Sat: oil, soy, red wine vinegar, lemon, Worcestershire, dry mustard, garlic, pepper. Grill or broil. Rice + simple salad.",
+      "do": "Grill or broil. Rice + salad.",
       "well": "4",
       "prep": [
         {
@@ -285,9 +248,9 @@
     "korean-bbq-meatballs",
     "pork-tenderloin-rub",
     "pizzalina-pasta",
-    "white-chicken-chili",
-    "arigatou",
-    "creekside",
+    "chicken-zucchini-meatballs",
+    "sol-food",
+    "taco-janes",
     "flank-steak"
   ]
 }

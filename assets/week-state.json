@@ -1,13 +1,13 @@
 {
   "week": "2026-09-21",
-  "updatedAt": "2026-09-20T16:52:29Z",
+  "updatedAt": "2026-09-21T04:01:15Z",
   "order": [
     "korean-bbq-meatballs",
     "pork-tenderloin-rub",
     "pizzalina-pasta",
-    "white-chicken-chili",
-    "arigatou",
-    "creekside",
+    "chicken-zucchini-meatballs",
+    "sol-food",
+    "taco-janes",
     "flank-steak"
   ],
   "scores": {
@@ -26,17 +26,17 @@
       "likes": "",
       "ease": ""
     },
-    "white-chicken-chili": {
+    "chicken-zucchini-meatballs": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "arigatou": {
-      "well": "4",
+    "sol-food": {
+      "well": "3",
       "likes": "",
       "ease": ""
     },
-    "creekside": {
+    "taco-janes": {
       "well": "3",
       "likes": "",
       "ease": ""
