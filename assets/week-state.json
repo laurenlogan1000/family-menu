@@ -1,12 +1,12 @@
 {
   "week": "2026-09-21",
-  "updatedAt": "2026-09-21T04:38:44Z",
+  "updatedAt": "2026-09-25T14:23:47Z",
   "order": [
     "korean-bbq-meatballs",
     "pork-tenderloin-rub",
     "pizzalina-pasta",
-    "chicken-zucchini-meatballs",
-    "sol-food",
+    "meatballs-cooked-thu",
+    "asian-sauce-baked-salmon",
     "taco-janes",
     "flank-steak"
   ],
@@ -22,17 +22,17 @@
       "ease": ""
     },
     "pizzalina-pasta": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
-    "chicken-zucchini-meatballs": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
-    "sol-food": {
       "well": "3",
+      "likes": "",
+      "ease": ""
+    },
+    "meatballs-cooked-thu": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "asian-sauce-baked-salmon": {
+      "well": "4",
       "likes": "",
       "ease": ""
     },

@@ -1,6 +1,6 @@
 {
   "week": "2026-09-21",
-  "deck": "Sep 21–27",
+  "deck": "Sep 21\u201327",
   "slots": [
     {
       "day": "mon",
@@ -41,7 +41,7 @@
   "meals": {
     "korean-bbq-meatballs": {
       "title": "<a href=\"https://cooking.nytimes.com/recipes/1019763-korean-bbq-style-meatballs\" target=\"_blank\" rel=\"noopener\">Korean BBQ-Style Meatballs</a> + rice + broccoli",
-      "do": "Bake 425° ~15 min. Rice + broccoli.",
+      "do": "Bake 425\u00b0 ~15 min. Rice + broccoli.",
       "well": "4",
       "prep": [],
       "grocery": [
@@ -80,14 +80,14 @@
       ]
     },
     "pork-tenderloin-rub": {
-      "title": "Mami’s pork tenderloin (dry rub) + rice + roasted veg",
-      "do": "Sear, then roast 450° to 145°F. Rice + roasted veg.",
+      "title": "Mami\u2019s pork tenderloin (dry rub) + rice + roasted veg",
+      "do": "Sear, then roast 450\u00b0 to 145\u00b0F. Rice + roasted veg.",
       "well": "4",
       "prep": [],
       "grocery": [
         {
           "id": "g-pork",
-          "text": "Pork tenderloin ~1½ lb (Tue)"
+          "text": "Pork tenderloin ~1\u00bd lb (Tue)"
         },
         {
           "id": "g-garlic-pow",
@@ -120,81 +120,21 @@
       ]
     },
     "pizzalina-pasta": {
-      "title": "Pizzalina pasta (takeout)",
-      "do": "Pickup. Chopped cucumbers with rice vinegar + salt.",
+      "title": "Farmers market pizza",
+      "do": "Already done \u2014 farmers market.",
       "well": "4",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-cukes-wed",
-          "text": "Cucumbers (Wed)"
-        },
-        {
-          "id": "g-rv-wed",
-          "text": "Rice vinegar (Wed)"
-        }
-      ]
-    },
-    "chicken-zucchini-meatballs": {
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1021328-chicken-zucchini-meatballs-with-feta\" target=\"_blank\" rel=\"noopener\">Chicken–Zucchini Meatballs With Feta</a> + rice + cucumbers",
-      "do": "Bake meatballs. Rice. Cucumbers with rice vinegar + salt.",
-      "well": "4",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-gchicken",
-          "text": "Ground chicken ~1 lb (Thu)"
-        },
-        {
-          "id": "g-zucchini",
-          "text": "Zucchini (Thu)"
-        },
-        {
-          "id": "g-feta",
-          "text": "Feta (Thu)"
-        },
-        {
-          "id": "g-breadcrumbs",
-          "text": "Breadcrumbs (Thu)"
-        },
-        {
-          "id": "g-egg",
-          "text": "Eggs (Thu)"
-        },
-        {
-          "id": "g-garlic-cz",
-          "text": "Garlic (Thu)"
-        },
-        {
-          "id": "g-rice-thu",
-          "text": "White rice (Thu)"
-        },
-        {
-          "id": "g-cukes-thu",
-          "text": "Cucumbers (Thu)"
-        },
-        {
-          "id": "g-rv-thu",
-          "text": "Rice vinegar (Thu)"
-        }
-      ]
-    },
-    "sol-food": {
-      "title": "Sol Food",
-      "do": "Pickup or dine in.",
-      "well": "3",
       "prep": [],
       "grocery": []
     },
     "taco-janes": {
-      "title": "Taco Jane’s",
+      "title": "Taco Jane\u2019s",
       "do": "Pickup / dine out. Start flank marinade tonight.",
       "well": "3",
       "prep": [],
       "grocery": []
     },
     "flank-steak": {
-      "title": "Mami’s flank steak (marinade) + rice + salad",
+      "title": "Mami\u2019s flank steak (marinade) + rice + salad",
       "do": "Grill or broil. Rice + salad.",
       "well": "4",
       "prep": [
@@ -207,7 +147,7 @@
       "grocery": [
         {
           "id": "g-flank",
-          "text": "Flank steak ~1½–3 lb (Sun)"
+          "text": "Flank steak ~1\u00bd\u20133 lb (Sun)"
         },
         {
           "id": "g-soy-fl",
@@ -246,14 +186,64 @@
           "text": "Salad greens / tomatoes (Sun)"
         }
       ]
+    },
+    "asian-sauce-baked-salmon": {
+      "id": "asian-sauce-baked-salmon",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1014210-asian-sauce-baked-salmon\" target=\"_blank\" rel=\"noopener\">Asian-Sauce Baked Salmon</a> + rice + broccoli",
+      "do": "If frozen, quick-thaw in cold water. Mix sauce (soy + honey + garlic + ginger). Bake salmon. Rice. Steam broccoli.",
+      "well": "4",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-salmon-fri",
+          "text": "Salmon fillets ~1\u00bd lb (Fri)"
+        },
+        {
+          "id": "g-soy-fri",
+          "text": "Low-sodium soy (Fri)"
+        },
+        {
+          "id": "g-honey-fri",
+          "text": "Honey (Fri)"
+        },
+        {
+          "id": "g-garlic-fri",
+          "text": "Garlic (Fri)"
+        },
+        {
+          "id": "g-ginger-fri",
+          "text": "Fresh ginger (Fri)"
+        },
+        {
+          "id": "g-rice-fri",
+          "text": "Jasmine rice (Fri)"
+        },
+        {
+          "id": "g-broccoli-fri",
+          "text": "Broccoli (Fri)"
+        },
+        {
+          "id": "g-sesame-fri",
+          "text": "Sesame oil (Fri)"
+        }
+      ],
+      "protein": "fish"
+    },
+    "meatballs-cooked-thu": {
+      "id": "meatballs-cooked-thu",
+      "title": "Korean BBQ-Style Meatballs + rice + broccoli (cooked)",
+      "do": "Already cooked.",
+      "prep": [],
+      "grocery": [],
+      "protein": "beef"
     }
   },
   "order": [
     "korean-bbq-meatballs",
     "pork-tenderloin-rub",
     "pizzalina-pasta",
-    "chicken-zucchini-meatballs",
-    "sol-food",
+    "meatballs-cooked-thu",
+    "asian-sauce-baked-salmon",
     "taco-janes",
     "flank-steak"
   ]
