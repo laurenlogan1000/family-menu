@@ -1,0 +1,264 @@
+{
+  "week": "2026-09-27",
+  "deck": "Sep 27–Oct 3",
+  "slots": [
+    {
+      "day": "sun",
+      "date": "2026-09-27",
+      "label": "Sunday"
+    },
+    {
+      "day": "mon",
+      "date": "2026-09-28",
+      "label": "Monday"
+    },
+    {
+      "day": "tue",
+      "date": "2026-09-29",
+      "label": "Tuesday"
+    },
+    {
+      "day": "wed",
+      "date": "2026-09-30",
+      "label": "Wednesday"
+    },
+    {
+      "day": "thu",
+      "date": "2026-10-01",
+      "label": "Thursday"
+    },
+    {
+      "day": "fri",
+      "date": "2026-10-02",
+      "label": "Friday"
+    },
+    {
+      "day": "sat",
+      "date": "2026-10-03",
+      "label": "Saturday"
+    }
+  ],
+  "meals": {
+    "flank-steak": {
+      "id": "flank-steak",
+      "title": "Mami’s flank steak (marinade) + rice + salad",
+      "do": "Grill or broil. Rice + salad.",
+      "well": "4",
+      "protein": "beef",
+      "prep": [],
+      "grocery": []
+    },
+    "rotisserie": {
+      "id": "rotisserie",
+      "title": "Rotisserie chicken + sourdough + fruit or cut veg",
+      "do": "Text Chris / pickup rotisserie + sourdough (or MH Butter). Fruit or cut veg. Save carcass; simmer broth tonight for Fri chili.",
+      "well": "4",
+      "protein": "chicken",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-rotisserie",
+          "text": "Rotisserie chicken (Mon)"
+        },
+        {
+          "id": "g-sourdough",
+          "text": "Sourdough loaf (or text Chris / MH Butter) (Mon)"
+        },
+        {
+          "id": "g-fruit-side",
+          "text": "Fruit or cut veg for rotisserie night (Mon)"
+        }
+      ]
+    },
+    "roasted-tofu": {
+      "id": "roasted-tofu",
+      "title": "Roasted tofu + rice + broccoli (meatless)",
+      "do": "Press tofu. Roast 425° until crisp. Rice. Steam broccoli. Ponzu / sesame / shabu.",
+      "well": "4",
+      "protein": "meatless",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-tofu",
+          "text": "Firm tofu ~14–16 oz (Tue)"
+        },
+        {
+          "id": "g-broccoli-tue",
+          "text": "Broccoli (Tue)"
+        },
+        {
+          "id": "g-rice-tue",
+          "text": "White rice (Tue)"
+        },
+        {
+          "id": "g-asian-sauce",
+          "text": "Ponzu / sesame oil / shabu (Tue)"
+        },
+        {
+          "id": "g-tofu-oil",
+          "text": "Cornstarch or oil for roasting tofu (Tue)"
+        }
+      ]
+    },
+    "mama-huhu": {
+      "id": "mama-huhu",
+      "title": "Mama Huhu",
+      "do": "Pickup. Steamed carrots.",
+      "well": "3",
+      "protein": "out",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-carrots-wed",
+          "text": "Carrots for steaming (Wed)"
+        }
+      ]
+    },
+    "chicken-zucchini-meatballs": {
+      "id": "chicken-zucchini-meatballs",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1021328-chicken-zucchini-meatballs-with-feta\" target=\"_blank\" rel=\"noopener\">Chicken–Zucchini Meatballs With Feta</a> + rice",
+      "do": "Squeeze grated zucchini dry. Bake 425°. Go light on red-pepper flakes. Roast sliced zucchini on same sheet. Rice. Feta-lemon drizzle.",
+      "well": "4",
+      "protein": "chicken",
+      "prep": [
+        {
+          "kind": "thaw",
+          "nightsBefore": 1,
+          "item": "ground chicken"
+        }
+      ],
+      "grocery": [
+        {
+          "id": "g-ground-chicken",
+          "text": "Ground chicken ~1 lb (Thu)"
+        },
+        {
+          "id": "g-zucchini",
+          "text": "Zucchini ~1½ lb / 3 large (Thu)"
+        },
+        {
+          "id": "g-shallot",
+          "text": "Shallot (Thu)"
+        },
+        {
+          "id": "g-panko",
+          "text": "Panko (Thu)"
+        },
+        {
+          "id": "g-cumin-cz",
+          "text": "Ground cumin (Thu)"
+        },
+        {
+          "id": "g-herbs-cz",
+          "text": "Fresh mint, basil, parsley, or dill (Thu)"
+        },
+        {
+          "id": "g-feta",
+          "text": "Feta ~4 oz (Thu)"
+        },
+        {
+          "id": "g-lemon-cz",
+          "text": "Lemon (Thu)"
+        },
+        {
+          "id": "g-olive-cz",
+          "text": "Olive oil (Thu)"
+        },
+        {
+          "id": "g-rice-thu",
+          "text": "White rice (Thu)"
+        }
+      ]
+    },
+    "white-chicken-chili": {
+      "id": "white-chicken-chili",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019905-slow-cooker-white-chicken-chili\" target=\"_blank\" rel=\"noopener\">Slow-Cooker White Chicken Chili</a> + bread + avocado",
+      "do": "Mild green chiles; skip jalapeño and cayenne. Use Mon carcass broth (~3 cups). Slow cooker 4–6 hrs low (or stovetop ~35 min). Add beans after shredding. Bread + avocado.",
+      "well": "4",
+      "protein": "chicken",
+      "prep": [
+        {
+          "kind": "thaw",
+          "nightsBefore": 1,
+          "item": "chicken thighs"
+        }
+      ],
+      "grocery": [
+        {
+          "id": "g-chicken-thighs",
+          "text": "Boneless skinless chicken thighs ~2 lb (Fri)"
+        },
+        {
+          "id": "g-onion-chili",
+          "text": "Yellow or red onion (Fri)"
+        },
+        {
+          "id": "g-garlic-chili",
+          "text": "Garlic (Fri)"
+        },
+        {
+          "id": "g-green-chiles",
+          "text": "Canned chopped green chiles mild 3×4 oz (Fri)"
+        },
+        {
+          "id": "g-onion-pow",
+          "text": "Onion powder (Fri)"
+        },
+        {
+          "id": "g-oregano",
+          "text": "Dried oregano (Fri)"
+        },
+        {
+          "id": "g-beans",
+          "text": "Great Northern beans 2 cans (Fri)"
+        },
+        {
+          "id": "g-corn",
+          "text": "Frozen corn (Fri)"
+        },
+        {
+          "id": "g-lime-chili",
+          "text": "Lime (Fri)"
+        },
+        {
+          "id": "g-cilantro",
+          "text": "Cilantro (Fri)"
+        },
+        {
+          "id": "g-butter-chili",
+          "text": "Butter (Fri)"
+        },
+        {
+          "id": "g-bread",
+          "text": "Crusty bread or tortillas (Fri)"
+        },
+        {
+          "id": "g-avocado",
+          "text": "Avocado (Fri)"
+        },
+        {
+          "id": "g-sour-cream",
+          "text": "Sour cream (Fri)"
+        }
+      ]
+    },
+    "arigatou": {
+      "id": "arigatou",
+      "title": "Arigatou bentos (chicken/salmon teriyaki)",
+      "do": "Pickup.",
+      "well": "4",
+      "protein": "fish",
+      "prep": [],
+      "grocery": []
+    }
+  },
+  "order": [
+    "flank-steak",
+    "rotisserie",
+    "roasted-tofu",
+    "mama-huhu",
+    "chicken-zucchini-meatballs",
+    "white-chicken-chili",
+    "arigatou"
+  ]
+}
