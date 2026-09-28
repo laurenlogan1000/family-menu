@@ -142,62 +142,6 @@
         }
       ]
     },
-    "chicken-zucchini-meatballs": {
-      "id": "chicken-zucchini-meatballs",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1021328-chicken-zucchini-meatballs-with-feta\" target=\"_blank\" rel=\"noopener\">Chicken\u2013Zucchini Meatballs With Feta</a> + rice",
-      "do": "Squeeze grated zucchini dry. Bake 425\u00b0. Go light on red-pepper flakes. Roast sliced zucchini on same sheet. Rice. Feta-lemon drizzle.",
-      "well": "4",
-      "protein": "chicken",
-      "prep": [
-        {
-          "kind": "thaw",
-          "nightsBefore": 1,
-          "item": "ground chicken"
-        }
-      ],
-      "grocery": [
-        {
-          "id": "g-ground-chicken",
-          "text": "Ground chicken ~1 lb (Wed)"
-        },
-        {
-          "id": "g-zucchini",
-          "text": "Zucchini ~1\u00bd lb / 3 large (Wed)"
-        },
-        {
-          "id": "g-shallot",
-          "text": "Shallot (Wed)"
-        },
-        {
-          "id": "g-panko",
-          "text": "Panko (Wed)"
-        },
-        {
-          "id": "g-cumin-cz",
-          "text": "Ground cumin (Wed)"
-        },
-        {
-          "id": "g-herbs-cz",
-          "text": "Fresh mint, basil, parsley, or dill (Wed)"
-        },
-        {
-          "id": "g-feta",
-          "text": "Feta ~4 oz (Wed)"
-        },
-        {
-          "id": "g-lemon-cz",
-          "text": "Lemon (Wed)"
-        },
-        {
-          "id": "g-olive-cz",
-          "text": "Olive oil (Wed)"
-        },
-        {
-          "id": "g-rice-thu",
-          "text": "White rice (Wed)"
-        }
-      ]
-    },
     "roast-chicken": {
       "id": "roast-chicken",
       "title": "Roast chicken + pan veg + salad",
@@ -326,13 +270,61 @@
       "protein": "fish",
       "prep": [],
       "grocery": []
+    },
+    "asian-sauce-baked-salmon": {
+      "id": "asian-sauce-baked-salmon",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1014210-asian-sauce-baked-salmon\" target=\"_blank\" rel=\"noopener\">Asian-Sauce Baked Salmon</a> + rice + broccoli",
+      "do": "If frozen, quick-thaw in cold water. Mix sauce (soy + honey + garlic + ginger). Bake salmon. Rice. Steam broccoli.",
+      "well": "4",
+      "prep": [
+        {
+          "kind": "thaw",
+          "nightsBefore": 1,
+          "item": "salmon"
+        }
+      ],
+      "grocery": [
+        {
+          "id": "g-salmon-fri",
+          "text": "Salmon fillets ~1\u00bd lb (Wed)"
+        },
+        {
+          "id": "g-soy-fri",
+          "text": "Low-sodium soy (Wed)"
+        },
+        {
+          "id": "g-honey-fri",
+          "text": "Honey (Wed)"
+        },
+        {
+          "id": "g-garlic-fri",
+          "text": "Garlic (Wed)"
+        },
+        {
+          "id": "g-ginger-fri",
+          "text": "Fresh ginger (Wed)"
+        },
+        {
+          "id": "g-rice-fri",
+          "text": "Jasmine rice (Wed)"
+        },
+        {
+          "id": "g-broccoli-fri",
+          "text": "Broccoli (Wed)"
+        },
+        {
+          "id": "g-sesame-fri",
+          "text": "Sesame oil (Wed)"
+        }
+      ],
+      "protein": "fish"
     }
   },
   "order": [
     "mama-huhu",
     "chicken-quesadillas",
     "flank-steak",
-    "chicken-zucchini-meatballs",
+    "asian-sauce-baked-salmon",
     "roast-chicken",
     "white-chicken-chili",
     "arigatou"
