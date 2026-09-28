@@ -1,6 +1,6 @@
 {
   "week": "2026-09-27",
-  "updatedAt": "2026-09-28T03:21:50Z",
+  "updatedAt": "2026-09-28T03:22:13Z",
   "order": [
     "mama-huhu",
     "chicken-quesadillas",
@@ -8,7 +8,7 @@
     "asian-sauce-baked-salmon",
     "roast-chicken",
     "white-chicken-chili",
-    "arigatou"
+    "shake-shack"
   ],
   "scores": {
     "mama-huhu": {
@@ -41,8 +41,8 @@
       "likes": "",
       "ease": ""
     },
-    "arigatou": {
-      "well": "4",
+    "shake-shack": {
+      "well": "3",
       "likes": "",
       "ease": ""
     }

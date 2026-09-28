@@ -262,15 +262,6 @@
         }
       ]
     },
-    "arigatou": {
-      "id": "arigatou",
-      "title": "Arigatou bentos (chicken/salmon teriyaki)",
-      "do": "Pickup.",
-      "well": "4",
-      "protein": "fish",
-      "prep": [],
-      "grocery": []
-    },
     "asian-sauce-baked-salmon": {
       "id": "asian-sauce-baked-salmon",
       "title": "<a href=\"https://cooking.nytimes.com/recipes/1014210-asian-sauce-baked-salmon\" target=\"_blank\" rel=\"noopener\">Asian-Sauce Baked Salmon</a> + rice + broccoli",
@@ -318,6 +309,20 @@
         }
       ],
       "protein": "fish"
+    },
+    "shake-shack": {
+      "id": "shake-shack",
+      "title": "Shake Shack",
+      "do": "Pickup or eat outside. Carrot sticks or cut cucumbers.",
+      "well": "3",
+      "protein": "out",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-carrots-sat",
+          "text": "Carrots for sticks (Sat)"
+        }
+      ]
     }
   },
   "order": [
@@ -327,6 +332,6 @@
     "asian-sauce-baked-salmon",
     "roast-chicken",
     "white-chicken-chili",
-    "arigatou"
+    "shake-shack"
   ]
 }
