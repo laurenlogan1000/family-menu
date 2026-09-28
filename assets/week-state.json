@@ -1,11 +1,11 @@
 {
   "week": "2026-09-27",
-  "updatedAt": "2026-09-28T03:29:34Z",
+  "updatedAt": "2026-09-28T03:32:19Z",
   "order": [
     "mama-huhu",
     "chicken-quesadillas",
     "flank-steak",
-    "ginger-dill-salmon",
+    "sheet-pan-sesame-ginger-salmon",
     "roast-chicken",
     "white-chicken-chili",
     "olivers-pizza"
@@ -26,7 +26,7 @@
       "likes": "",
       "ease": ""
     },
-    "ginger-dill-salmon": {
+    "sheet-pan-sesame-ginger-salmon": {
       "well": "4",
       "likes": "",
       "ease": ""
