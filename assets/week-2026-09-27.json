@@ -145,7 +145,7 @@
     "roast-chicken": {
       "id": "roast-chicken",
       "title": "Roast chicken + pan veg + salad",
-      "do": "Roast whole chicken. Pan veg. Salad. Save carcass; simmer broth tonight for Fri chili.",
+      "do": "Roast whole chicken. Pan veg. Salad. Save carcass; simmer broth tonight for Fri lemony white bean soup.",
       "well": "4",
       "protein": "chicken",
       "prep": [
@@ -187,78 +187,6 @@
         {
           "id": "g-roast-salad",
           "text": "Green salad (Thu)"
-        }
-      ]
-    },
-    "white-chicken-chili": {
-      "id": "white-chicken-chili",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019905-slow-cooker-white-chicken-chili\" target=\"_blank\" rel=\"noopener\">Slow-Cooker White Chicken Chili</a> + bread + avocado",
-      "do": "Mild green chiles; skip jalape\u00f1o and cayenne. Use Thu carcass broth (~3 cups). Slow cooker 4\u20136 hrs low (or stovetop ~35 min). Shred leftover roast if you have it; add thighs as needed. Bread + avocado.",
-      "well": "4",
-      "protein": "chicken",
-      "prep": [
-        {
-          "kind": "thaw",
-          "nightsBefore": 1,
-          "item": "chicken thighs"
-        }
-      ],
-      "grocery": [
-        {
-          "id": "g-chicken-thighs",
-          "text": "Boneless skinless chicken thighs ~2 lb (Fri)"
-        },
-        {
-          "id": "g-onion-chili",
-          "text": "Yellow or red onion (Fri)"
-        },
-        {
-          "id": "g-garlic-chili",
-          "text": "Garlic (Fri)"
-        },
-        {
-          "id": "g-green-chiles",
-          "text": "Canned chopped green chiles mild 3\u00d74 oz (Fri)"
-        },
-        {
-          "id": "g-onion-pow",
-          "text": "Onion powder (Fri)"
-        },
-        {
-          "id": "g-oregano",
-          "text": "Dried oregano (Fri)"
-        },
-        {
-          "id": "g-beans",
-          "text": "Great Northern beans 2 cans (Fri)"
-        },
-        {
-          "id": "g-corn",
-          "text": "Frozen corn (Fri)"
-        },
-        {
-          "id": "g-lime-chili",
-          "text": "Lime (Fri)"
-        },
-        {
-          "id": "g-cilantro",
-          "text": "Cilantro (Fri)"
-        },
-        {
-          "id": "g-butter-chili",
-          "text": "Butter (Fri)"
-        },
-        {
-          "id": "g-bread",
-          "text": "Crusty bread or tortillas (Fri)"
-        },
-        {
-          "id": "g-avocado",
-          "text": "Avocado (Fri)"
-        },
-        {
-          "id": "g-sour-cream",
-          "text": "Sour cream (Fri)"
         }
       ]
     },
@@ -335,6 +263,75 @@
           "text": "White rice (Wed)"
         }
       ]
+    },
+    "lemony-white-bean-soup": {
+      "id": "lemony-white-bean-soup",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1021776-lemony-white-bean-soup-with-turkey-and-greens\" target=\"_blank\" rel=\"noopener\">Lemony White Bean Soup With Turkey and Greens</a> + bread",
+      "do": "Use Thu carcass broth (~4 cups). Brown onion + carrot; add turkey (or shred leftover roast), garlic, ginger, tomato paste, cumin. Go light on red-pepper flakes. Simmer with white beans; add kale. Lemon + herbs at the end. Bread.",
+      "well": "4",
+      "protein": "turkey",
+      "url": "https://cooking.nytimes.com/recipes/1021776-lemony-white-bean-soup-with-turkey-and-greens",
+      "prep": [
+        {
+          "kind": "thaw",
+          "nightsBefore": 1,
+          "item": "ground turkey"
+        }
+      ],
+      "grocery": [
+        {
+          "id": "g-turkey-fri",
+          "text": "Ground turkey ~\u00bd\u20131 lb (Fri)"
+        },
+        {
+          "id": "g-onion-fri",
+          "text": "Onion (Fri)"
+        },
+        {
+          "id": "g-carrot-fri",
+          "text": "Carrot (Fri)"
+        },
+        {
+          "id": "g-kale-fri",
+          "text": "Kale or sturdy greens 1 bunch (Fri)"
+        },
+        {
+          "id": "g-tomato-paste",
+          "text": "Tomato paste (Fri)"
+        },
+        {
+          "id": "g-cumin-fri",
+          "text": "Ground cumin (Fri)"
+        },
+        {
+          "id": "g-garlic-fri",
+          "text": "Garlic (Fri)"
+        },
+        {
+          "id": "g-ginger-fri",
+          "text": "Fresh ginger (Fri)"
+        },
+        {
+          "id": "g-beans-fri",
+          "text": "White beans 2 cans (Fri)"
+        },
+        {
+          "id": "g-lemon-fri",
+          "text": "Lemons (Fri)"
+        },
+        {
+          "id": "g-herbs-fri",
+          "text": "Parsley / dill / mint (Fri)"
+        },
+        {
+          "id": "g-bread-fri",
+          "text": "Crusty bread (Fri)"
+        },
+        {
+          "id": "g-olive-fri",
+          "text": "Olive oil (Fri)"
+        }
+      ]
     }
   },
   "order": [
@@ -343,7 +340,7 @@
     "flank-steak",
     "sheet-pan-sesame-ginger-salmon",
     "roast-chicken",
-    "white-chicken-chili",
+    "lemony-white-bean-soup",
     "olivers-pizza"
   ]
 }

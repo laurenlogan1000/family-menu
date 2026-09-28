@@ -1,18 +1,18 @@
 {
   "week": "2026-09-27",
-  "updatedAt": "2026-09-28T03:32:19Z",
+  "updatedAt": "2026-09-28T03:42:45Z",
   "order": [
     "mama-huhu",
     "chicken-quesadillas",
     "flank-steak",
     "sheet-pan-sesame-ginger-salmon",
     "roast-chicken",
-    "white-chicken-chili",
+    "lemony-white-bean-soup",
     "olivers-pizza"
   ],
   "scores": {
     "mama-huhu": {
-      "well": "4",
+      "well": "3",
       "likes": "",
       "ease": ""
     },
@@ -36,7 +36,7 @@
       "likes": "",
       "ease": ""
     },
-    "white-chicken-chili": {
+    "lemony-white-bean-soup": {
       "well": "4",
       "likes": "",
       "ease": ""
