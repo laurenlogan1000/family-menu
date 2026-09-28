@@ -1,11 +1,11 @@
 {
   "week": "2026-09-27",
-  "updatedAt": "2026-09-28T03:27:54Z",
+  "updatedAt": "2026-09-28T03:29:06Z",
   "order": [
     "mama-huhu",
     "chicken-quesadillas",
     "flank-steak",
-    "asian-sauce-baked-salmon",
+    "maple-miso-salmon",
     "roast-chicken",
     "white-chicken-chili",
     "olivers-pizza"
@@ -26,7 +26,7 @@
       "likes": "",
       "ease": ""
     },
-    "asian-sauce-baked-salmon": {
+    "maple-miso-salmon": {
       "well": "4",
       "likes": "",
       "ease": ""

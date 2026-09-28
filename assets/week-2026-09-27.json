@@ -262,10 +262,18 @@
         }
       ]
     },
-    "asian-sauce-baked-salmon": {
-      "id": "asian-sauce-baked-salmon",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1020765-sheet-pan-salmon-and-broccoli-with-sesame-and-ginger\" target=\"_blank\" rel=\"noopener\">Sheet-Pan Salmon and Broccoli With Sesame and Ginger</a> + rice",
-      "do": "Whisk sesame oil + soy + rice vinegar + honey + ginger + garlic. Roast broccoli, then glaze salmon on the sheet ~12 min at 425\u00b0. Lime, scallions, sesame seeds. Rice.",
+    "olivers-pizza": {
+      "id": "olivers-pizza",
+      "title": "Oliver\u2019s pizza",
+      "do": "Pickup. Get the salad too.",
+      "well": "4",
+      "protein": "out",
+      "prep": [],
+      "grocery": []
+    },
+    "maple-miso-salmon": {
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans\" target=\"_blank\" rel=\"noopener\">Maple\u2013miso sheet-pan salmon</a> + green beans + rice",
+      "do": "Marinate while oven heats: maple + miso + rice vinegar + soy + garlic. Sheet-pan with green beans ~12 min at 400\u00b0. Cilantro + lime. Rice. Skip red-pepper flakes for kids. Comment tip: a dab of Dijon in the marinade (\u201cMMM\u201d) is popular.",
       "well": "4",
       "prep": [
         {
@@ -276,72 +284,52 @@
       ],
       "grocery": [
         {
-          "id": "g-salmon-wed",
-          "text": "Salmon fillets ~1\u00bd lb (Wed)"
+          "id": "g-salmon",
+          "text": "Confirm freezer salmon (Wed)"
         },
         {
-          "id": "g-broccoli-wed",
-          "text": "Broccoli (Wed)"
+          "id": "g-green-beans",
+          "text": "Green beans ~1 lb (Wed)"
         },
         {
-          "id": "g-soy-wed",
-          "text": "Low-sodium soy (Wed)"
+          "id": "g-maple",
+          "text": "Maple syrup (Wed)"
         },
         {
-          "id": "g-honey-wed",
-          "text": "Honey (Wed)"
+          "id": "g-miso",
+          "text": "White or brown miso (Wed)"
         },
         {
-          "id": "g-ginger-wed",
-          "text": "Fresh ginger (Wed)"
-        },
-        {
-          "id": "g-garlic-wed",
-          "text": "Garlic (Wed)"
-        },
-        {
-          "id": "g-sesame-wed",
-          "text": "Toasted sesame oil (Wed)"
-        },
-        {
-          "id": "g-rv-wed",
+          "id": "g-rice-vinegar",
           "text": "Rice vinegar (Wed)"
         },
         {
-          "id": "g-scallion-wed",
-          "text": "Scallions (Wed)"
+          "id": "g-soy-sal",
+          "text": "Soy sauce (Wed)"
         },
         {
-          "id": "g-lime-wed",
+          "id": "g-lime-sal",
           "text": "Lime (Wed)"
         },
         {
-          "id": "g-sesame-seeds",
-          "text": "Sesame seeds (Wed)"
+          "id": "g-cilantro-sal",
+          "text": "Cilantro (Wed)"
         },
         {
-          "id": "g-rice-wed",
-          "text": "Jasmine rice (Wed)"
+          "id": "g-garlic-sal",
+          "text": "Garlic (Wed)"
         }
       ],
-      "protein": "fish",
-      "url": "https://cooking.nytimes.com/recipes/1020765-sheet-pan-salmon-and-broccoli-with-sesame-and-ginger"
-    },
-    "olivers-pizza": {
-      "id": "olivers-pizza",
-      "title": "Oliver\u2019s pizza",
-      "do": "Pickup. Get the salad too.",
-      "well": "4",
-      "protein": "out",
-      "prep": [],
-      "grocery": []
+      "id": "maple-miso-salmon",
+      "url": "https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans",
+      "protein": "fish"
     }
   },
   "order": [
     "mama-huhu",
     "chicken-quesadillas",
     "flank-steak",
-    "asian-sauce-baked-salmon",
+    "maple-miso-salmon",
     "roast-chicken",
     "white-chicken-chili",
     "olivers-pizza"
