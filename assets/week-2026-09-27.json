@@ -313,20 +313,11 @@
     "olivers-pizza": {
       "id": "olivers-pizza",
       "title": "Oliver\u2019s pizza",
-      "do": "Pickup. Chopped cucumbers with rice vinegar + salt.",
-      "well": "3",
+      "do": "Pickup. Get the salad too.",
+      "well": "4",
       "protein": "out",
       "prep": [],
-      "grocery": [
-        {
-          "id": "g-cukes-sat",
-          "text": "Cucumbers (Sat)"
-        },
-        {
-          "id": "g-rv-sat",
-          "text": "Rice vinegar (Sat)"
-        }
-      ]
+      "grocery": []
     }
   },
   "order": [
