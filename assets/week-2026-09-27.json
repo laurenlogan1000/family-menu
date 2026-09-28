@@ -1,6 +1,6 @@
 {
   "week": "2026-09-27",
-  "deck": "Sep 27–Oct 3",
+  "deck": "Sep 27\u2013Oct 3",
   "slots": [
     {
       "day": "sun",
@@ -41,7 +41,7 @@
   "meals": {
     "flank-steak": {
       "id": "flank-steak",
-      "title": "Mami’s flank steak (marinade) + rice + salad",
+      "title": "Mami\u2019s flank steak (marinade) + rice + salad",
       "do": "Grill or broil. Rice + salad.",
       "well": "4",
       "protein": "beef",
@@ -70,36 +70,6 @@
         }
       ]
     },
-    "roasted-tofu": {
-      "id": "roasted-tofu",
-      "title": "Roasted tofu + rice + broccoli (meatless)",
-      "do": "Press tofu. Roast 425° until crisp. Rice. Steam broccoli. Ponzu / sesame / shabu.",
-      "well": "4",
-      "protein": "meatless",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-tofu",
-          "text": "Firm tofu ~14–16 oz (Tue)"
-        },
-        {
-          "id": "g-broccoli-tue",
-          "text": "Broccoli (Tue)"
-        },
-        {
-          "id": "g-rice-tue",
-          "text": "White rice (Tue)"
-        },
-        {
-          "id": "g-asian-sauce",
-          "text": "Ponzu / sesame oil / shabu (Tue)"
-        },
-        {
-          "id": "g-tofu-oil",
-          "text": "Cornstarch or oil for roasting tofu (Tue)"
-        }
-      ]
-    },
     "mama-huhu": {
       "id": "mama-huhu",
       "title": "Mama Huhu",
@@ -116,8 +86,8 @@
     },
     "chicken-zucchini-meatballs": {
       "id": "chicken-zucchini-meatballs",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1021328-chicken-zucchini-meatballs-with-feta\" target=\"_blank\" rel=\"noopener\">Chicken–Zucchini Meatballs With Feta</a> + rice",
-      "do": "Squeeze grated zucchini dry. Bake 425°. Go light on red-pepper flakes. Roast sliced zucchini on same sheet. Rice. Feta-lemon drizzle.",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1021328-chicken-zucchini-meatballs-with-feta\" target=\"_blank\" rel=\"noopener\">Chicken\u2013Zucchini Meatballs With Feta</a> + rice",
+      "do": "Squeeze grated zucchini dry. Bake 425\u00b0. Go light on red-pepper flakes. Roast sliced zucchini on same sheet. Rice. Feta-lemon drizzle.",
       "well": "4",
       "protein": "chicken",
       "prep": [
@@ -134,7 +104,7 @@
         },
         {
           "id": "g-zucchini",
-          "text": "Zucchini ~1½ lb / 3 large (Thu)"
+          "text": "Zucchini ~1\u00bd lb / 3 large (Thu)"
         },
         {
           "id": "g-shallot",
@@ -173,7 +143,7 @@
     "white-chicken-chili": {
       "id": "white-chicken-chili",
       "title": "<a href=\"https://cooking.nytimes.com/recipes/1019905-slow-cooker-white-chicken-chili\" target=\"_blank\" rel=\"noopener\">Slow-Cooker White Chicken Chili</a> + bread + avocado",
-      "do": "Mild green chiles; skip jalapeño and cayenne. Use Mon carcass broth (~3 cups). Slow cooker 4–6 hrs low (or stovetop ~35 min). Add beans after shredding. Bread + avocado.",
+      "do": "Mild green chiles; skip jalape\u00f1o and cayenne. Use Mon carcass broth (~3 cups). Slow cooker 4\u20136 hrs low (or stovetop ~35 min). Add beans after shredding. Bread + avocado.",
       "well": "4",
       "protein": "chicken",
       "prep": [
@@ -198,7 +168,7 @@
         },
         {
           "id": "g-green-chiles",
-          "text": "Canned chopped green chiles mild 3×4 oz (Fri)"
+          "text": "Canned chopped green chiles mild 3\u00d74 oz (Fri)"
         },
         {
           "id": "g-onion-pow",
@@ -250,12 +220,46 @@
       "protein": "fish",
       "prep": [],
       "grocery": []
+    },
+    "chicken-quesadillas": {
+      "id": "chicken-quesadillas",
+      "title": "Homemade chicken quesadillas + salsa / guacamole + cut veg",
+      "do": "Shred leftover rotisserie chicken (or cook thighs). Warm tortillas with cheese + chicken. Salsa or guacamole. Cut cucumbers or carrots.",
+      "well": "4",
+      "protein": "chicken",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-tortillas-q",
+          "text": "Flour tortillas (Tue)"
+        },
+        {
+          "id": "g-cheese-q",
+          "text": "Shredded Mexican blend or cheddar ~8 oz (Tue)"
+        },
+        {
+          "id": "g-salsa-q",
+          "text": "Salsa (Tue)"
+        },
+        {
+          "id": "g-guac-q",
+          "text": "Guacamole or avocados (Tue)"
+        },
+        {
+          "id": "g-veg-q",
+          "text": "Cucumbers or carrots for cutting (Tue)"
+        },
+        {
+          "id": "g-sour-q",
+          "text": "Sour cream (Tue)"
+        }
+      ]
     }
   },
   "order": [
     "flank-steak",
     "rotisserie",
-    "roasted-tofu",
+    "chicken-quesadillas",
     "mama-huhu",
     "chicken-zucchini-meatballs",
     "white-chicken-chili",
