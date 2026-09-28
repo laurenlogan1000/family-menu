@@ -1,23 +1,18 @@
 {
   "week": "2026-09-27",
-  "updatedAt": "2026-09-28T00:26:11Z",
+  "updatedAt": "2026-09-28T03:19:25Z",
   "order": [
-    "flank-steak",
-    "rotisserie",
-    "chicken-quesadillas",
     "mama-huhu",
+    "chicken-quesadillas",
+    "flank-steak",
     "chicken-zucchini-meatballs",
+    "roast-chicken",
     "white-chicken-chili",
     "arigatou"
   ],
   "scores": {
-    "flank-steak": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
-    "rotisserie": {
-      "well": "4",
+    "mama-huhu": {
+      "well": "3",
       "likes": "",
       "ease": ""
     },
@@ -26,12 +21,17 @@
       "likes": "",
       "ease": ""
     },
-    "mama-huhu": {
-      "well": "3",
+    "flank-steak": {
+      "well": "4",
       "likes": "",
       "ease": ""
     },
     "chicken-zucchini-meatballs": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "roast-chicken": {
       "well": "4",
       "likes": "",
       "ease": ""

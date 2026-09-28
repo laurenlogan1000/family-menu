@@ -39,48 +39,106 @@
     }
   ],
   "meals": {
+    "mama-huhu": {
+      "id": "mama-huhu",
+      "title": "Mama Huhu",
+      "do": "Pickup.",
+      "well": "3",
+      "protein": "out",
+      "prep": [],
+      "grocery": []
+    },
+    "chicken-quesadillas": {
+      "id": "chicken-quesadillas",
+      "title": "Homemade chicken quesadillas + salsa / guacamole + cut veg",
+      "do": "Cook and shred chicken (or use leftovers). Warm tortillas with cheese + chicken. Salsa or guacamole. Cut cucumbers or carrots.",
+      "well": "4",
+      "protein": "chicken",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-chicken-q",
+          "text": "Boneless chicken ~1 lb (for shredding) (Mon)"
+        },
+        {
+          "id": "g-tortillas-q",
+          "text": "Flour tortillas (Mon)"
+        },
+        {
+          "id": "g-cheese-q",
+          "text": "Shredded Mexican blend or cheddar ~8 oz (Mon)"
+        },
+        {
+          "id": "g-salsa-q",
+          "text": "Salsa (Mon)"
+        },
+        {
+          "id": "g-guac-q",
+          "text": "Guacamole or avocados (Mon)"
+        },
+        {
+          "id": "g-veg-q",
+          "text": "Cucumbers or carrots for cutting (Mon)"
+        },
+        {
+          "id": "g-sour-q",
+          "text": "Sour cream (Mon)"
+        }
+      ]
+    },
     "flank-steak": {
       "id": "flank-steak",
       "title": "Mami\u2019s flank steak (marinade) + rice + salad",
       "do": "Grill or broil. Rice + salad.",
       "well": "4",
       "protein": "beef",
-      "prep": [],
-      "grocery": []
-    },
-    "rotisserie": {
-      "id": "rotisserie",
-      "title": "Rotisserie chicken + sourdough + fruit or cut veg",
-      "do": "Text Chris / pickup rotisserie + sourdough (or MH Butter). Fruit or cut veg. Save carcass; simmer broth tonight for Fri chili.",
-      "well": "4",
-      "protein": "chicken",
-      "prep": [],
-      "grocery": [
+      "prep": [
         {
-          "id": "g-rotisserie",
-          "text": "Rotisserie chicken (Mon)"
-        },
-        {
-          "id": "g-sourdough",
-          "text": "Sourdough loaf (or text Chris / MH Butter) (Mon)"
-        },
-        {
-          "id": "g-fruit-side",
-          "text": "Fruit or cut veg for rotisserie night (Mon)"
+          "kind": "marinate",
+          "nightsBefore": 1,
+          "item": "flank steak"
         }
-      ]
-    },
-    "mama-huhu": {
-      "id": "mama-huhu",
-      "title": "Mama Huhu",
-      "do": "Pickup. Steamed carrots.",
-      "well": "3",
-      "protein": "out",
-      "prep": [],
+      ],
       "grocery": [
         {
-          "id": "g-carrots-wed",
-          "text": "Carrots for steaming (Wed)"
+          "id": "g-flank",
+          "text": "Flank steak ~1\u00bd\u20133 lb (Tue)"
+        },
+        {
+          "id": "g-soy-fl",
+          "text": "Soy sauce (Tue)"
+        },
+        {
+          "id": "g-rvv",
+          "text": "Red wine vinegar (Tue)"
+        },
+        {
+          "id": "g-lemon-fl",
+          "text": "Lemon (Tue)"
+        },
+        {
+          "id": "g-worcestershire",
+          "text": "Worcestershire (Tue)"
+        },
+        {
+          "id": "g-dry-mustard",
+          "text": "Dry mustard (Tue)"
+        },
+        {
+          "id": "g-garlic-fl",
+          "text": "Garlic (Tue)"
+        },
+        {
+          "id": "g-veg-oil",
+          "text": "Vegetable oil (Tue)"
+        },
+        {
+          "id": "g-rice-sun",
+          "text": "White rice (Tue)"
+        },
+        {
+          "id": "g-salad",
+          "text": "Salad greens / tomatoes (Tue)"
         }
       ]
     },
@@ -100,50 +158,98 @@
       "grocery": [
         {
           "id": "g-ground-chicken",
-          "text": "Ground chicken ~1 lb (Thu)"
+          "text": "Ground chicken ~1 lb (Wed)"
         },
         {
           "id": "g-zucchini",
-          "text": "Zucchini ~1\u00bd lb / 3 large (Thu)"
+          "text": "Zucchini ~1\u00bd lb / 3 large (Wed)"
         },
         {
           "id": "g-shallot",
-          "text": "Shallot (Thu)"
+          "text": "Shallot (Wed)"
         },
         {
           "id": "g-panko",
-          "text": "Panko (Thu)"
+          "text": "Panko (Wed)"
         },
         {
           "id": "g-cumin-cz",
-          "text": "Ground cumin (Thu)"
+          "text": "Ground cumin (Wed)"
         },
         {
           "id": "g-herbs-cz",
-          "text": "Fresh mint, basil, parsley, or dill (Thu)"
+          "text": "Fresh mint, basil, parsley, or dill (Wed)"
         },
         {
           "id": "g-feta",
-          "text": "Feta ~4 oz (Thu)"
+          "text": "Feta ~4 oz (Wed)"
         },
         {
           "id": "g-lemon-cz",
-          "text": "Lemon (Thu)"
+          "text": "Lemon (Wed)"
         },
         {
           "id": "g-olive-cz",
-          "text": "Olive oil (Thu)"
+          "text": "Olive oil (Wed)"
         },
         {
           "id": "g-rice-thu",
-          "text": "White rice (Thu)"
+          "text": "White rice (Wed)"
+        }
+      ]
+    },
+    "roast-chicken": {
+      "id": "roast-chicken",
+      "title": "Roast chicken + pan veg + salad",
+      "do": "Roast whole chicken. Pan veg. Salad. Save carcass; simmer broth tonight for Fri chili.",
+      "well": "4",
+      "protein": "chicken",
+      "prep": [
+        {
+          "kind": "thaw",
+          "nightsBefore": 1,
+          "item": "whole chicken"
+        }
+      ],
+      "grocery": [
+        {
+          "id": "g-roast",
+          "text": "Whole chicken ~4 lb (Thu)"
+        },
+        {
+          "id": "g-roast-lemon",
+          "text": "Lemon (Thu)"
+        },
+        {
+          "id": "g-roast-thyme",
+          "text": "Fresh thyme or dried (Thu)"
+        },
+        {
+          "id": "g-roast-garlic",
+          "text": "Garlic (Thu)"
+        },
+        {
+          "id": "g-roast-butter",
+          "text": "Butter (Thu)"
+        },
+        {
+          "id": "g-roast-veg",
+          "text": "Carrots + onion for roasting pan (Thu)"
+        },
+        {
+          "id": "g-roast-bread",
+          "text": "Crusty bread or rice (Thu)"
+        },
+        {
+          "id": "g-roast-salad",
+          "text": "Green salad (Thu)"
         }
       ]
     },
     "white-chicken-chili": {
       "id": "white-chicken-chili",
       "title": "<a href=\"https://cooking.nytimes.com/recipes/1019905-slow-cooker-white-chicken-chili\" target=\"_blank\" rel=\"noopener\">Slow-Cooker White Chicken Chili</a> + bread + avocado",
-      "do": "Mild green chiles; skip jalape\u00f1o and cayenne. Use Mon carcass broth (~3 cups). Slow cooker 4\u20136 hrs low (or stovetop ~35 min). Add beans after shredding. Bread + avocado.",
+      "do": "Mild green chiles; skip jalape\u00f1o and cayenne. Use Thu carcass broth (~3 cups). Slow cooker 4\u20136 hrs low (or stovetop ~35 min). Shred leftover roast if you have it; add thighs as needed. Bread + avocado.",
       "well": "4",
       "protein": "chicken",
       "prep": [
@@ -220,48 +326,14 @@
       "protein": "fish",
       "prep": [],
       "grocery": []
-    },
-    "chicken-quesadillas": {
-      "id": "chicken-quesadillas",
-      "title": "Homemade chicken quesadillas + salsa / guacamole + cut veg",
-      "do": "Shred leftover rotisserie chicken (or cook thighs). Warm tortillas with cheese + chicken. Salsa or guacamole. Cut cucumbers or carrots.",
-      "well": "4",
-      "protein": "chicken",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-tortillas-q",
-          "text": "Flour tortillas (Tue)"
-        },
-        {
-          "id": "g-cheese-q",
-          "text": "Shredded Mexican blend or cheddar ~8 oz (Tue)"
-        },
-        {
-          "id": "g-salsa-q",
-          "text": "Salsa (Tue)"
-        },
-        {
-          "id": "g-guac-q",
-          "text": "Guacamole or avocados (Tue)"
-        },
-        {
-          "id": "g-veg-q",
-          "text": "Cucumbers or carrots for cutting (Tue)"
-        },
-        {
-          "id": "g-sour-q",
-          "text": "Sour cream (Tue)"
-        }
-      ]
     }
   },
   "order": [
-    "flank-steak",
-    "rotisserie",
-    "chicken-quesadillas",
     "mama-huhu",
+    "chicken-quesadillas",
+    "flank-steak",
     "chicken-zucchini-meatballs",
+    "roast-chicken",
     "white-chicken-chili",
     "arigatou"
   ]
