@@ -271,10 +271,13 @@
       "prep": [],
       "grocery": []
     },
-    "maple-miso-salmon": {
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans\" target=\"_blank\" rel=\"noopener\">Maple\u2013miso sheet-pan salmon</a> + green beans + rice",
-      "do": "Marinate while oven heats: maple + miso + rice vinegar + soy + garlic. Sheet-pan with green beans ~12 min at 400\u00b0. Cilantro + lime. Rice. Skip red-pepper flakes for kids. Comment tip: a dab of Dijon in the marinade (\u201cMMM\u201d) is popular.",
+    "ginger-dill-salmon": {
+      "id": "ginger-dill-salmon",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1021938-ginger-dill-salmon\" target=\"_blank\" rel=\"noopener\">Ginger-Dill Salmon</a> + rice + roasted broccoli",
+      "do": "Pat salmon dry. Season with salt, pepper, ginger. Roast. Dill + lemon at the end. Rice. Roast broccoli.",
       "well": "4",
+      "protein": "fish",
+      "url": "https://cooking.nytimes.com/recipes/1021938-ginger-dill-salmon",
       "prep": [
         {
           "kind": "thaw",
@@ -284,52 +287,41 @@
       ],
       "grocery": [
         {
-          "id": "g-salmon",
-          "text": "Confirm freezer salmon (Wed)"
+          "id": "g-salmon-wed",
+          "text": "Salmon fillets ~1\u00bd lb (Wed)"
         },
         {
-          "id": "g-green-beans",
-          "text": "Green beans ~1 lb (Wed)"
+          "id": "g-ginger-wed",
+          "text": "Fresh ginger (Wed)"
         },
         {
-          "id": "g-maple",
-          "text": "Maple syrup (Wed)"
+          "id": "g-dill-wed",
+          "text": "Fresh dill (Wed)"
         },
         {
-          "id": "g-miso",
-          "text": "White or brown miso (Wed)"
+          "id": "g-lemon-wed",
+          "text": "Lemon (Wed)"
         },
         {
-          "id": "g-rice-vinegar",
-          "text": "Rice vinegar (Wed)"
+          "id": "g-rice-wed",
+          "text": "White rice (Wed)"
         },
         {
-          "id": "g-soy-sal",
-          "text": "Soy sauce (Wed)"
+          "id": "g-broccoli-wed",
+          "text": "Broccoli (Wed)"
         },
         {
-          "id": "g-lime-sal",
-          "text": "Lime (Wed)"
-        },
-        {
-          "id": "g-cilantro-sal",
-          "text": "Cilantro (Wed)"
-        },
-        {
-          "id": "g-garlic-sal",
-          "text": "Garlic (Wed)"
+          "id": "g-olive-wed",
+          "text": "Olive oil (Wed)"
         }
-      ],
-      "id": "maple-miso-salmon",
-      "url": "https://cooking.nytimes.com/recipes/1019857-maple-and-miso-sheet-pan-salmon-with-green-beans",
-      "protein": "fish"
+      ]
     }
   },
   "order": [
     "mama-huhu",
     "chicken-quesadillas",
     "flank-steak",
-    "maple-miso-salmon",
+    "ginger-dill-salmon",
     "roast-chicken",
     "white-chicken-chili",
     "olivers-pizza"

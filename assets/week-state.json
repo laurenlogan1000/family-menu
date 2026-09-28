@@ -1,18 +1,18 @@
 {
   "week": "2026-09-27",
-  "updatedAt": "2026-09-28T03:29:06Z",
+  "updatedAt": "2026-09-28T03:29:34Z",
   "order": [
     "mama-huhu",
     "chicken-quesadillas",
     "flank-steak",
-    "maple-miso-salmon",
+    "ginger-dill-salmon",
     "roast-chicken",
     "white-chicken-chili",
     "olivers-pizza"
   ],
   "scores": {
     "mama-huhu": {
-      "well": "3",
+      "well": "4",
       "likes": "",
       "ease": ""
     },
@@ -26,7 +26,7 @@
       "likes": "",
       "ease": ""
     },
-    "maple-miso-salmon": {
+    "ginger-dill-salmon": {
       "well": "4",
       "likes": "",
       "ease": ""
