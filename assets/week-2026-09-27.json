@@ -310,17 +310,21 @@
       ],
       "protein": "fish"
     },
-    "shake-shack": {
-      "id": "shake-shack",
-      "title": "Shake Shack",
-      "do": "Pickup or eat outside. Carrot sticks or cut cucumbers.",
+    "olivers-pizza": {
+      "id": "olivers-pizza",
+      "title": "Oliver\u2019s pizza",
+      "do": "Pickup. Chopped cucumbers with rice vinegar + salt.",
       "well": "3",
       "protein": "out",
       "prep": [],
       "grocery": [
         {
-          "id": "g-carrots-sat",
-          "text": "Carrots for sticks (Sat)"
+          "id": "g-cukes-sat",
+          "text": "Cucumbers (Sat)"
+        },
+        {
+          "id": "g-rv-sat",
+          "text": "Rice vinegar (Sat)"
         }
       ]
     }
@@ -332,6 +336,6 @@
     "asian-sauce-baked-salmon",
     "roast-chicken",
     "white-chicken-chili",
-    "shake-shack"
+    "olivers-pizza"
   ]
 }
