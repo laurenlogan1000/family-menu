@@ -1,48 +1,48 @@
 {
-  "week": "2026-09-27",
-  "updatedAt": "2026-09-28T03:42:45Z",
+  "week": "2026-10-04",
+  "updatedAt": "2026-10-04T14:15:01Z",
   "order": [
-    "mama-huhu",
-    "chicken-quesadillas",
-    "flank-steak",
-    "sheet-pan-sesame-ginger-salmon",
-    "roast-chicken",
-    "lemony-white-bean-soup",
-    "olivers-pizza"
+    "sol-food",
+    "rotisserie-chicken",
+    "pork-tenderloin-rub",
+    "ginger-dill-salmon",
+    "chicken-zucchini-meatballs",
+    "white-chicken-chili",
+    "shake-shack"
   ],
   "scores": {
-    "mama-huhu": {
-      "well": "3",
-      "likes": "",
-      "ease": ""
-    },
-    "chicken-quesadillas": {
+    "sol-food": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "flank-steak": {
+    "rotisserie-chicken": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "sheet-pan-sesame-ginger-salmon": {
+    "pork-tenderloin-rub": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "roast-chicken": {
+    "ginger-dill-salmon": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "lemony-white-bean-soup": {
+    "chicken-zucchini-meatballs": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "olivers-pizza": {
+    "white-chicken-chili": {
       "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "shake-shack": {
+      "well": "2",
       "likes": "",
       "ease": ""
     }
