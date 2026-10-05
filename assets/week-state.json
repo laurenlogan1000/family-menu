@@ -1,27 +1,27 @@
 {
   "week": "2026-10-04",
-  "updatedAt": "2026-10-04T14:15:01Z",
+  "updatedAt": "2026-10-05T22:49:37Z",
   "order": [
-    "sol-food",
-    "rotisserie-chicken",
-    "pork-tenderloin-rub",
+    "chicken-noodle-soup",
+    "leftover-chicken-noodle-soup",
+    "mama-huhu",
     "ginger-dill-salmon",
-    "chicken-zucchini-meatballs",
-    "white-chicken-chili",
-    "shake-shack"
+    "rotisserie-chicken",
+    "comforts-cafe",
+    "sol-food"
   ],
   "scores": {
-    "sol-food": {
+    "chicken-noodle-soup": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "rotisserie-chicken": {
+    "leftover-chicken-noodle-soup": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "pork-tenderloin-rub": {
+    "mama-huhu": {
       "well": "4",
       "likes": "",
       "ease": ""
@@ -31,18 +31,18 @@
       "likes": "",
       "ease": ""
     },
-    "chicken-zucchini-meatballs": {
+    "rotisserie-chicken": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "white-chicken-chili": {
+    "comforts-cafe": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "shake-shack": {
-      "well": "2",
+    "sol-food": {
+      "well": "4",
       "likes": "",
       "ease": ""
     }
