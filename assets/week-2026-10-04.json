@@ -167,5 +167,20 @@
     "rotisserie-chicken",
     "comforts-cafe",
     "sol-food"
+  ],
+  "shops": [
+    {
+      "id": "tuesday",
+      "title": "Tuesday shop",
+      "days": [
+        "sun",
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri",
+        "sat"
+      ]
+    }
   ]
 }
