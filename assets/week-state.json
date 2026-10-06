@@ -1,14 +1,14 @@
 {
   "week": "2026-10-04",
-  "updatedAt": "2026-10-05T22:49:37Z",
+  "updatedAt": "2026-10-06T03:15:10Z",
   "order": [
     "chicken-noodle-soup",
     "leftover-chicken-noodle-soup",
     "mama-huhu",
     "ginger-dill-salmon",
-    "rotisserie-chicken",
-    "comforts-cafe",
-    "sol-food"
+    "chicken-quesadillas",
+    "shrimp-scampi",
+    "arigatou"
   ],
   "scores": {
     "chicken-noodle-soup": {
@@ -31,17 +31,17 @@
       "likes": "",
       "ease": ""
     },
-    "rotisserie-chicken": {
+    "chicken-quesadillas": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "comforts-cafe": {
+    "shrimp-scampi": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "sol-food": {
+    "arigatou": {
       "well": "4",
       "likes": "",
       "ease": ""

@@ -109,49 +109,92 @@
         }
       ]
     },
-    "rotisserie-chicken": {
-      "id": "rotisserie-chicken",
-      "title": "Rotisserie chicken + rice + steamed broccoli",
-      "do": "Warm rotisserie chicken. Rice. Steam broccoli.",
+    "chicken-quesadillas": {
+      "id": "chicken-quesadillas",
+      "title": "Homemade chicken quesadillas + salsa + carrot sticks",
+      "do": "Shred rotisserie chicken. Tortillas + cheese + chicken; crisp in skillet. Salsa + sour cream. Carrot sticks.",
       "well": "4",
       "protein": "chicken",
       "prep": [],
       "grocery": [
         {
-          "id": "g-rotisserie-1005",
+          "id": "g-rotisserie-q-1005",
           "text": "Rotisserie chicken (Thu)"
         },
         {
-          "id": "g-rice-thu-1005",
-          "text": "White rice (Thu)"
+          "id": "g-tortillas-q-1005",
+          "text": "Flour tortillas (Thu)"
         },
         {
-          "id": "g-broccoli-thu-1005",
-          "text": "Broccoli, 2 heads (Thu)"
+          "id": "g-cheese-q-1005",
+          "text": "Shredded Mexican blend or cheddar ~8 oz (Thu)"
+        },
+        {
+          "id": "g-salsa-q-1005",
+          "text": "Salsa (Thu)"
+        },
+        {
+          "id": "g-sour-q-1005",
+          "text": "Sour cream (Thu)"
+        },
+        {
+          "id": "g-carrots-q-1005",
+          "text": "Carrots (Thu)"
         }
       ]
     },
-    "comforts-cafe": {
-      "id": "comforts-cafe",
-      "title": "Comforts Cafe trays + cucumbers",
-      "do": "Pickup. Chopped cucumbers with rice vinegar + salt.",
+    "shrimp-scampi": {
+      "id": "shrimp-scampi",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/9101-classic-shrimp-scampi\" target=\"_blank\" rel=\"noopener\">Classic Shrimp Scampi</a> + linguine + steamed broccoli",
+      "do": "Boil linguine. Melt butter + olive oil; garlic 1 min. Add broth, salt, pepper; skip red-pepper flakes; reduce 2 min. Shrimp 2\u20134 min until pink. Stir in parsley + lemon juice. Toss with linguine. Steam broccoli.",
       "well": "4",
-      "protein": "out",
-      "prep": [],
+      "protein": "fish",
+      "url": "https://cooking.nytimes.com/recipes/9101-classic-shrimp-scampi",
+      "prep": [
+        {
+          "kind": "thaw",
+          "nightsBefore": 1,
+          "item": "shrimp"
+        }
+      ],
       "grocery": [
         {
-          "id": "g-cucumbers-fri-1005",
-          "text": "Cucumbers, 2 (Fri)"
+          "id": "g-shrimp-fri-1005",
+          "text": "Frozen large shrimp, peeled, ~1\u00be lb (Fri)"
         },
         {
-          "id": "g-rice-vinegar-fri-1005",
-          "text": "Rice vinegar (Fri)"
+          "id": "g-linguine-fri-1005",
+          "text": "Linguine 1 lb (Fri)"
+        },
+        {
+          "id": "g-butter-fri-1005",
+          "text": "Butter (Fri)"
+        },
+        {
+          "id": "g-garlic-fri-1005",
+          "text": "Garlic (Fri)"
+        },
+        {
+          "id": "g-broth-fri-1005",
+          "text": "Chicken broth, small carton (Fri)"
+        },
+        {
+          "id": "g-parsley-fri-1005",
+          "text": "Parsley, 1 bunch (Fri)"
+        },
+        {
+          "id": "g-lemon-fri-1005",
+          "text": "Lemon (Fri)"
+        },
+        {
+          "id": "g-broccoli-fri-1005",
+          "text": "Broccoli, 2 heads (Fri)"
         }
       ]
     },
-    "sol-food": {
-      "id": "sol-food",
-      "title": "Sol Food",
+    "arigatou": {
+      "id": "arigatou",
+      "title": "Arigatou bentos",
       "do": "Pickup.",
       "well": "4",
       "protein": "out",
@@ -164,9 +207,9 @@
     "leftover-chicken-noodle-soup",
     "mama-huhu",
     "ginger-dill-salmon",
-    "rotisserie-chicken",
-    "comforts-cafe",
-    "sol-food"
+    "chicken-quesadillas",
+    "shrimp-scampi",
+    "arigatou"
   ],
   "shops": [
     {
