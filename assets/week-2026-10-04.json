@@ -112,7 +112,7 @@
     "chicken-quesadillas": {
       "id": "chicken-quesadillas",
       "title": "Homemade chicken quesadillas + salsa + carrot sticks",
-      "do": "Shred rotisserie chicken. Tortillas + cheese + chicken; crisp in skillet. Salsa + sour cream. Carrot sticks.",
+      "do": "Shred rotisserie chicken. Tortillas + cheese + chicken; crisp in skillet. Salsa + sour cream. Carrot sticks. Save carcass; simmer for broth.",
       "well": "4",
       "protein": "chicken",
       "prep": [],
@@ -143,63 +143,90 @@
         }
       ]
     },
-    "shrimp-scampi": {
-      "id": "shrimp-scampi",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/9101-classic-shrimp-scampi\" target=\"_blank\" rel=\"noopener\">Classic Shrimp Scampi</a> + linguine + steamed broccoli",
-      "do": "Boil linguine. Melt butter + olive oil; garlic 1 min. Add broth, salt, pepper; skip red-pepper flakes; reduce 2 min. Shrimp 2\u20134 min until pink. Stir in parsley + lemon juice. Toss with linguine. Steam broccoli.",
+    "white-chicken-chili": {
+      "id": "white-chicken-chili",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019905-slow-cooker-white-chicken-chili\" target=\"_blank\" rel=\"noopener\">Slow-Cooker White Chicken Chili</a> + avocado + cucumber slices",
+      "do": "Melt butter; onion 8 min; garlic 1 min. Add mild green chiles, cumin, onion powder, oregano; skip jalape\u00f1o + cayenne. Add 3 cups carcass broth, beans, shredded rotisserie chicken; simmer 20 min. Stir in corn; 10 min. Lime + cilantro. Avocado + sour cream. Cucumber slices.",
       "well": "4",
-      "protein": "fish",
-      "url": "https://cooking.nytimes.com/recipes/9101-classic-shrimp-scampi",
-      "prep": [
-        {
-          "kind": "thaw",
-          "nightsBefore": 1,
-          "item": "shrimp"
-        }
-      ],
+      "protein": "chicken",
+      "url": "https://cooking.nytimes.com/recipes/1019905-slow-cooker-white-chicken-chili",
+      "prep": [],
       "grocery": [
         {
-          "id": "g-shrimp-fri-1005",
-          "text": "Frozen large shrimp, peeled, ~1\u00be lb (Fri)"
-        },
-        {
-          "id": "g-linguine-fri-1005",
-          "text": "Linguine 1 lb (Fri)"
+          "id": "g-rotisserie-chili-1005",
+          "text": "Rotisserie chicken, 2nd (Fri)"
         },
         {
           "id": "g-butter-fri-1005",
           "text": "Butter (Fri)"
         },
         {
+          "id": "g-onion-chili-1005",
+          "text": "Yellow onion, 1 large (Fri)"
+        },
+        {
           "id": "g-garlic-fri-1005",
-          "text": "Garlic (Fri)"
+          "text": "Garlic, 1 head (Fri)"
         },
         {
-          "id": "g-broth-fri-1005",
-          "text": "Chicken broth, small carton (Fri)"
+          "id": "g-green-chiles-1005",
+          "text": "Canned chopped green chiles, mild, 3\u00d74 oz (Fri)"
         },
         {
-          "id": "g-parsley-fri-1005",
-          "text": "Parsley, 1 bunch (Fri)"
+          "id": "g-cumin-chili-1005",
+          "text": "Ground cumin (Fri)"
         },
         {
-          "id": "g-lemon-fri-1005",
-          "text": "Lemon (Fri)"
+          "id": "g-onion-pow-1005",
+          "text": "Onion powder (Fri)"
         },
         {
-          "id": "g-broccoli-fri-1005",
-          "text": "Broccoli, 2 heads (Fri)"
+          "id": "g-oregano-chili-1005",
+          "text": "Dried oregano (Fri)"
+        },
+        {
+          "id": "g-beans-1005",
+          "text": "Great Northern beans, 2\u00d714 oz cans (Fri)"
+        },
+        {
+          "id": "g-corn-1005",
+          "text": "Frozen corn (Fri)"
+        },
+        {
+          "id": "g-cilantro-1005",
+          "text": "Cilantro, 1 bunch (Fri)"
+        },
+        {
+          "id": "g-lime-chili-1005",
+          "text": "Lime (Fri)"
+        },
+        {
+          "id": "g-avocado-1005",
+          "text": "Avocados, 2 (Fri)"
+        },
+        {
+          "id": "g-sour-chili-1005",
+          "text": "Sour cream (Fri)"
+        },
+        {
+          "id": "g-cucumbers-chili-1005",
+          "text": "Cucumbers, 2 (Fri)"
         }
       ]
     },
-    "arigatou": {
-      "id": "arigatou",
-      "title": "Arigatou bentos",
-      "do": "Pickup.",
-      "well": "4",
+    "creekside-pizza": {
+      "id": "creekside-pizza",
+      "title": "Creekside Pizza + peas and carrots",
+      "do": "Pickup. Steam frozen peas and carrots.",
+      "well": "3",
       "protein": "out",
       "prep": [],
-      "grocery": []
+      "grocery": [
+        {
+          "id": "g-peas-carrots-sat-1005",
+          "text": "Frozen peas and carrots (Sat)"
+        }
+      ]
     }
   },
   "order": [
@@ -208,8 +235,8 @@
     "mama-huhu",
     "ginger-dill-salmon",
     "chicken-quesadillas",
-    "shrimp-scampi",
-    "arigatou"
+    "white-chicken-chili",
+    "creekside-pizza"
   ],
   "shops": [
     {

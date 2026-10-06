@@ -1,14 +1,14 @@
 {
   "week": "2026-10-04",
-  "updatedAt": "2026-10-06T03:15:10Z",
+  "updatedAt": "2026-10-06T04:17:42Z",
   "order": [
     "chicken-noodle-soup",
     "leftover-chicken-noodle-soup",
     "mama-huhu",
     "ginger-dill-salmon",
     "chicken-quesadillas",
-    "shrimp-scampi",
-    "arigatou"
+    "white-chicken-chili",
+    "creekside-pizza"
   ],
   "scores": {
     "chicken-noodle-soup": {
@@ -36,13 +36,13 @@
       "likes": "",
       "ease": ""
     },
-    "shrimp-scampi": {
+    "white-chicken-chili": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "arigatou": {
-      "well": "4",
+    "creekside-pizza": {
+      "well": "3",
       "likes": "",
       "ease": ""
     }
