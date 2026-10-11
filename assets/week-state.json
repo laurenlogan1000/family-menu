@@ -1,47 +1,47 @@
 {
-  "week": "2026-10-04",
-  "updatedAt": "2026-10-06T04:17:42Z",
+  "week": "2026-10-11",
+  "updatedAt": "2026-10-11T14:15:00Z",
   "order": [
-    "chicken-noodle-soup",
-    "leftover-chicken-noodle-soup",
-    "mama-huhu",
-    "ginger-dill-salmon",
-    "chicken-quesadillas",
-    "white-chicken-chili",
-    "creekside-pizza"
+    "rotisserie-chicken",
+    "lemony-white-bean-soup",
+    "shrimp-scampi",
+    "pork-tenderloin-rub",
+    "crisp-gnocchi",
+    "flank-steak",
+    "taco-janes"
   ],
   "scores": {
-    "chicken-noodle-soup": {
+    "rotisserie-chicken": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "leftover-chicken-noodle-soup": {
+    "lemony-white-bean-soup": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "mama-huhu": {
+    "shrimp-scampi": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "ginger-dill-salmon": {
+    "pork-tenderloin-rub": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "chicken-quesadillas": {
+    "crisp-gnocchi": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "white-chicken-chili": {
+    "flank-steak": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "creekside-pizza": {
+    "taco-janes": {
       "well": "3",
       "likes": "",
       "ease": ""
