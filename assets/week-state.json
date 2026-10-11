@@ -1,8 +1,8 @@
 {
   "week": "2026-10-11",
-  "updatedAt": "2026-10-11T14:24:09Z",
+  "updatedAt": "2026-10-11T15:47:28Z",
   "order": [
-    "pizzalina-pasta",
+    "white-chicken-chili",
     "rotisserie-chicken",
     "coconut-miso-salmon-curry",
     "chicken-quesadillas",
@@ -11,8 +11,8 @@
     "taco-janes"
   ],
   "scores": {
-    "pizzalina-pasta": {
-      "well": "3",
+    "white-chicken-chili": {
+      "well": "4",
       "likes": "",
       "ease": ""
     },

@@ -39,20 +39,6 @@
     }
   ],
   "meals": {
-    "pizzalina-pasta": {
-      "id": "pizzalina-pasta",
-      "title": "Pizzalina pasta + steamed green beans",
-      "do": "Pickup. Steam green beans.",
-      "well": "3",
-      "protein": "out",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-pizzalina-pasta-0-1011b",
-          "text": "Green beans, 1 lb (Sun)"
-        }
-      ]
-    },
     "rotisserie-chicken": {
       "id": "rotisserie-chicken",
       "title": "Rotisserie chicken + sourdough + roasted broccoli",
@@ -303,10 +289,89 @@
           "text": "Carrots, 1 lb (Sat)"
         }
       ]
+    },
+    "white-chicken-chili": {
+      "id": "white-chicken-chili",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019905-slow-cooker-white-chicken-chili\" target=\"_blank\" rel=\"noopener\">White Chicken Chili</a> + avocado + cucumber slices",
+      "do": "Melt butter; onion 8 min; garlic 1 min. Add mild green chiles, cumin, onion powder, oregano; skip jalapeño + cayenne. Add 3 cups chicken broth, beans, shredded rotisserie chicken; simmer 20 min. Stir in corn; 10 min. Lime + cilantro. Avocado + sour cream. Slice cucumbers.",
+      "well": "4",
+      "protein": "chicken",
+      "prep": [],
+      "url": "https://cooking.nytimes.com/recipes/1019905-slow-cooker-white-chicken-chili",
+      "grocery": [
+        {
+          "id": "g-white-chicken-chili-0-1011c",
+          "text": "Rotisserie chicken (Sun)"
+        },
+        {
+          "id": "g-white-chicken-chili-1-1011c",
+          "text": "Chicken broth, 32 oz carton (Sun)"
+        },
+        {
+          "id": "g-white-chicken-chili-2-1011c",
+          "text": "Butter (Sun)"
+        },
+        {
+          "id": "g-white-chicken-chili-3-1011c",
+          "text": "Yellow onion, 1 large (Sun)"
+        },
+        {
+          "id": "g-white-chicken-chili-4-1011c",
+          "text": "Garlic, 1 head (Sun)"
+        },
+        {
+          "id": "g-white-chicken-chili-5-1011c",
+          "text": "Canned chopped green chiles, mild, 3×4 oz (Sun)"
+        },
+        {
+          "id": "g-white-chicken-chili-6-1011c",
+          "text": "Ground cumin (Sun)"
+        },
+        {
+          "id": "g-white-chicken-chili-7-1011c",
+          "text": "Onion powder (Sun)"
+        },
+        {
+          "id": "g-white-chicken-chili-8-1011c",
+          "text": "Dried oregano (Sun)"
+        },
+        {
+          "id": "g-white-chicken-chili-9-1011c",
+          "text": "Great Northern beans, 2×14 oz cans (Sun)"
+        },
+        {
+          "id": "g-white-chicken-chili-10-1011c",
+          "text": "Frozen corn (Sun)"
+        },
+        {
+          "id": "g-white-chicken-chili-11-1011c",
+          "text": "Fresh cilantro, 1 bunch (Sun)"
+        },
+        {
+          "id": "g-white-chicken-chili-12-1011c",
+          "text": "Limes, 2 (Sun)"
+        },
+        {
+          "id": "g-white-chicken-chili-13-1011c",
+          "text": "Avocados, 2 (Sun)"
+        },
+        {
+          "id": "g-white-chicken-chili-14-1011c",
+          "text": "Sour cream (Sun)"
+        },
+        {
+          "id": "g-white-chicken-chili-15-1011c",
+          "text": "Cucumbers, 2 (Sun)"
+        },
+        {
+          "id": "g-white-chicken-chili-16-1011c",
+          "text": "Kosher salt (Sun)"
+        }
+      ]
     }
   },
   "order": [
-    "pizzalina-pasta",
+    "white-chicken-chili",
     "rotisserie-chicken",
     "coconut-miso-salmon-curry",
     "chicken-quesadillas",
