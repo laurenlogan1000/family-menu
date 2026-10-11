@@ -140,36 +140,6 @@
       ],
       "url": "https://cooking.nytimes.com/recipes/1020045-coconut-miso-salmon-curry"
     },
-    "chicken-quesadillas": {
-      "id": "chicken-quesadillas",
-      "title": "Homemade chicken quesadillas + salsa + bell pepper strips",
-      "do": "Shred Mon rotisserie chicken. Tortillas + cheese + chicken; crisp in skillet, 2–3 min per side. Salsa + sour cream. Slice bell peppers.",
-      "well": "4",
-      "protein": "chicken",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-chicken-quesadillas-0-1011b",
-          "text": "Flour tortillas (Wed)"
-        },
-        {
-          "id": "g-chicken-quesadillas-1-1011b",
-          "text": "Shredded Mexican blend or cheddar, 8 oz (Wed)"
-        },
-        {
-          "id": "g-chicken-quesadillas-2-1011b",
-          "text": "Salsa (Wed)"
-        },
-        {
-          "id": "g-chicken-quesadillas-3-1011b",
-          "text": "Sour cream (Wed)"
-        },
-        {
-          "id": "g-chicken-quesadillas-4-1011b",
-          "text": "Bell peppers, 2 (Wed)"
-        }
-      ]
-    },
     "oregano-garlic-chicken": {
       "id": "oregano-garlic-chicken",
       "title": "<a href=\"https://cooking.nytimes.com/recipes/1026280-oregano-garlic-chicken-with-big-croutons\" target=\"_blank\" rel=\"noopener\">Oregano-Garlic Chicken With Big Croutons</a> + salad greens",
@@ -368,13 +338,43 @@
           "text": "Kosher salt (Sun)"
         }
       ]
+    },
+    "pesto-pasta": {
+      "id": "pesto-pasta",
+      "title": "Pesto pasta + rotisserie chicken + peas + cherry tomatoes",
+      "do": "Boil pasta; add frozen peas for last 2 min. Drain; toss with pesto. Shred Mon rotisserie chicken; stir in with halved cherry tomatoes. Warm through. Parmesan.",
+      "well": "4",
+      "protein": "chicken",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-pesto-pasta-0-1011d",
+          "text": "Penne or rotini, 1 lb (Wed)"
+        },
+        {
+          "id": "g-pesto-pasta-1-1011d",
+          "text": "Basil pesto, 2 jars (6–7 oz) (Wed)"
+        },
+        {
+          "id": "g-pesto-pasta-2-1011d",
+          "text": "Frozen peas, 1 bag (Wed)"
+        },
+        {
+          "id": "g-pesto-pasta-3-1011d",
+          "text": "Cherry tomatoes, 1 pint (Wed)"
+        },
+        {
+          "id": "g-pesto-pasta-4-1011d",
+          "text": "Parmesan (Wed)"
+        }
+      ]
     }
   },
   "order": [
     "white-chicken-chili",
     "rotisserie-chicken",
     "coconut-miso-salmon-curry",
-    "chicken-quesadillas",
+    "pesto-pasta",
     "oregano-garlic-chicken",
     "crisp-gnocchi",
     "taco-janes"

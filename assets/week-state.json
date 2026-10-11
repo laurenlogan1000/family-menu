@@ -1,11 +1,11 @@
 {
   "week": "2026-10-11",
-  "updatedAt": "2026-10-11T15:47:28Z",
+  "updatedAt": "2026-10-11T23:38:43Z",
   "order": [
     "white-chicken-chili",
     "rotisserie-chicken",
     "coconut-miso-salmon-curry",
-    "chicken-quesadillas",
+    "pesto-pasta",
     "oregano-garlic-chicken",
     "crisp-gnocchi",
     "taco-janes"
@@ -26,7 +26,7 @@
       "likes": "",
       "ease": ""
     },
-    "chicken-quesadillas": {
+    "pesto-pasta": {
       "well": "4",
       "likes": "",
       "ease": ""
