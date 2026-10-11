@@ -1,42 +1,42 @@
 {
   "week": "2026-10-11",
-  "updatedAt": "2026-10-11T14:15:00Z",
+  "updatedAt": "2026-10-11T14:24:09Z",
   "order": [
+    "pizzalina-pasta",
     "rotisserie-chicken",
-    "lemony-white-bean-soup",
-    "shrimp-scampi",
-    "pork-tenderloin-rub",
+    "coconut-miso-salmon-curry",
+    "chicken-quesadillas",
+    "oregano-garlic-chicken",
     "crisp-gnocchi",
-    "flank-steak",
     "taco-janes"
   ],
   "scores": {
+    "pizzalina-pasta": {
+      "well": "3",
+      "likes": "",
+      "ease": ""
+    },
     "rotisserie-chicken": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "lemony-white-bean-soup": {
+    "coconut-miso-salmon-curry": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "shrimp-scampi": {
+    "chicken-quesadillas": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "pork-tenderloin-rub": {
+    "oregano-garlic-chicken": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
     "crisp-gnocchi": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
-    "flank-steak": {
       "well": "4",
       "likes": "",
       "ease": ""
