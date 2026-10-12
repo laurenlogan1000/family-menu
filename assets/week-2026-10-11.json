@@ -339,33 +339,21 @@
         }
       ]
     },
-    "pesto-pasta": {
-      "id": "pesto-pasta",
-      "title": "Pesto pasta + rotisserie chicken + peas + cherry tomatoes",
-      "do": "Boil pasta; add frozen peas for last 2 min. Drain; toss with pesto. Shred Mon rotisserie chicken; stir in with halved cherry tomatoes. Warm through. Parmesan.",
+    "rotisserie-leftover": {
+      "id": "rotisserie-leftover",
+      "title": "Leftover rotisserie chicken + rice + green beans",
+      "do": "Microwave Mon leftover chicken until hot. Microwave rice pouches. Microwave steam-in-bag green beans.",
       "well": "4",
       "protein": "chicken",
       "prep": [],
       "grocery": [
         {
-          "id": "g-pesto-pasta-0-1011d",
-          "text": "Penne or rotini, 1 lb (Wed)"
+          "id": "g-rotisserie-leftover-0-1011e",
+          "text": "Microwave rice pouches, 2 (Wed)"
         },
         {
-          "id": "g-pesto-pasta-1-1011d",
-          "text": "Basil pesto, 2 jars (6–7 oz) (Wed)"
-        },
-        {
-          "id": "g-pesto-pasta-2-1011d",
-          "text": "Frozen peas, 1 bag (Wed)"
-        },
-        {
-          "id": "g-pesto-pasta-3-1011d",
-          "text": "Cherry tomatoes, 1 pint (Wed)"
-        },
-        {
-          "id": "g-pesto-pasta-4-1011d",
-          "text": "Parmesan (Wed)"
+          "id": "g-rotisserie-leftover-1-1011e",
+          "text": "Steam-in-bag green beans, 2 bags (Wed)"
         }
       ]
     }
@@ -374,7 +362,7 @@
     "white-chicken-chili",
     "rotisserie-chicken",
     "coconut-miso-salmon-curry",
-    "pesto-pasta",
+    "rotisserie-leftover",
     "oregano-garlic-chicken",
     "crisp-gnocchi",
     "taco-janes"
