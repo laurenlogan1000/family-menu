@@ -1,11 +1,11 @@
 {
   "week": "2026-10-11",
-  "updatedAt": "2026-10-12T00:04:04Z",
+  "updatedAt": "2026-10-15T21:54:49Z",
   "order": [
     "white-chicken-chili",
     "rotisserie-chicken",
     "coconut-miso-salmon-curry",
-    "rotisserie-leftover",
+    "pacific-catch",
     "oregano-garlic-chicken",
     "crisp-gnocchi",
     "taco-janes"
@@ -26,8 +26,8 @@
       "likes": "",
       "ease": ""
     },
-    "rotisserie-leftover": {
-      "well": "4",
+    "pacific-catch": {
+      "well": "3",
       "likes": "",
       "ease": ""
     },

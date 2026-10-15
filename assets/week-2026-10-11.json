@@ -67,7 +67,7 @@
     },
     "coconut-miso-salmon-curry": {
       "id": "coconut-miso-salmon-curry",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1020045-coconut-miso-salmon-curry\" target=\"_blank\" rel=\"noopener\">Coconut-Miso Salmon Curry</a> + rice + cucumber slices",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1020045-coconut-miso-salmon-curry\">Coconut-Miso Salmon Curry</a> + rice + cucumber slices",
       "do": "Cook onion, ginger, garlic in oil 3 min. Add miso; cook 2 min. Add coconut milk + 3 cups water; boil 5 min. Add salmon in 2-inch pieces; simmer 5 min. Off heat: spinach + lime juice. Rice. Top with basil + cilantro. Slice cucumbers; rice vinegar + salt.",
       "well": "4",
       "protein": "fish",
@@ -142,7 +142,7 @@
     },
     "oregano-garlic-chicken": {
       "id": "oregano-garlic-chicken",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1026280-oregano-garlic-chicken-with-big-croutons\" target=\"_blank\" rel=\"noopener\">Oregano-Garlic Chicken With Big Croutons</a> + salad greens",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1026280-oregano-garlic-chicken-with-big-croutons\">Oregano-Garlic Chicken With Big Croutons</a> + salad greens",
       "do": "Oven 425°. Pat chicken dry; salt, pepper, olive oil; thighs skin-side down. Roast 15 min. Flip; nestle torn bread chunks around chicken; drizzle oil. Roast 15–20 min. Warm sliced garlic, ⅓ cup olive oil, raisins, salt until garlic sizzles; off heat. Add ⅓ cup carcass broth; simmer. Stir in vinegar + oregano. Spoon over chicken + croutons. Toss salad greens with lemon + olive oil.",
       "well": "4",
       "protein": "chicken",
@@ -201,7 +201,7 @@
     },
     "crisp-gnocchi": {
       "id": "crisp-gnocchi",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1020453-crisp-gnocchi-with-brussels-sprouts-and-brown-butter\" target=\"_blank\" rel=\"noopener\">Crisp Gnocchi With Brussels Sprouts and Brown Butter</a> + sliced apples",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1020453-crisp-gnocchi-with-brussels-sprouts-and-brown-butter\">Crisp Gnocchi With Brussels Sprouts and Brown Butter</a> + sliced apples",
       "do": "Halve Brussels sprouts; peel lemon zest. Sear sprouts cut-side down in oil 3–5 min; remove. Crisp gnocchi in oil, covered, 2–4 min. Add butter + honey; cook until golden, 1–2 min. Toss in sprouts. Parmesan. Slice apples.",
       "well": "4",
       "protein": "meatless",
@@ -262,7 +262,7 @@
     },
     "white-chicken-chili": {
       "id": "white-chicken-chili",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019905-slow-cooker-white-chicken-chili\" target=\"_blank\" rel=\"noopener\">White Chicken Chili</a> + avocado + cucumber slices",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019905-slow-cooker-white-chicken-chili\">White Chicken Chili</a> + avocado + cucumber slices",
       "do": "Melt butter; onion 8 min; garlic 1 min. Add mild green chiles, cumin, onion powder, oregano; skip jalapeño + cayenne. Add 3 cups chicken broth, beans, shredded rotisserie chicken; simmer 20 min. Stir in corn; 10 min. Lime + cilantro. Avocado + sour cream. Slice cucumbers.",
       "well": "4",
       "protein": "chicken",
@@ -339,12 +339,12 @@
         }
       ]
     },
-    "rotisserie-leftover": {
-      "id": "rotisserie-leftover",
-      "title": "Leftover rotisserie chicken + rice + green beans",
-      "do": "Microwave Mon leftover chicken until hot. Microwave rice pouches. Microwave steam-in-bag green beans.",
-      "well": "4",
-      "protein": "chicken",
+    "pacific-catch": {
+      "id": "pacific-catch",
+      "title": "Pacific Catch",
+      "do": "Pickup.",
+      "well": "3",
+      "protein": "out",
       "prep": [],
       "grocery": [
         {
@@ -362,7 +362,7 @@
     "white-chicken-chili",
     "rotisserie-chicken",
     "coconut-miso-salmon-curry",
-    "rotisserie-leftover",
+    "pacific-catch",
     "oregano-garlic-chicken",
     "crisp-gnocchi",
     "taco-janes"
