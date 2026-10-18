@@ -105,8 +105,8 @@
     },
     "baked-cod-cracker": {
       "id": "baked-cod-cracker",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1022936-baked-cod-with-buttery-cracker-topping\">Baked Cod With Buttery Cracker Topping</a> + rice + peas",
-      "do": "Oven 425°. Crush crackers in a bowl; stir in 4 Tbsp melted butter, chives, parsley, lemon zest, onion powder, garlic powder. Put cod in ovenproof skillet; drizzle 1 Tbsp melted butter; salt + pepper. Mound crumbs on top. Roast 10–16 min, about 10 min per inch, until it flakes. Squeeze lemon over; sprinkle paprika. Rice. Steam frozen peas; butter + salt.",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1022936-baked-cod-with-buttery-cracker-topping\">Baked Cod With Buttery Cracker Topping</a> + rice + <a href=\"https://cooking.nytimes.com/recipes/1015707-lemon-garlic-kale-salad\">Lemon-Garlic Kale Salad</a>",
+      "do": "Oven 425°. Crush crackers in a bowl; stir in 4 Tbsp melted butter, chives, parsley, lemon zest, onion powder, garlic powder. Put cod in ovenproof skillet; drizzle 1 Tbsp melted butter; salt + pepper. Mound crumbs on top. Roast 10–16 min, about 10 min per inch, until it flakes. Squeeze lemon over; sprinkle paprika. Rice. Toss kale with lemon, garlic, olive oil, salt; massage.",
       "well": "4",
       "protein": "fish",
       "prep": [],
@@ -156,8 +156,24 @@
           "text": "Jasmine rice (Tue)"
         },
         {
-          "id": "g-baked-cod-cracker-11-1018a",
-          "text": "Frozen peas, 1 bag (Tue)"
+          "id": "g-kale-salad-0-1020",
+          "text": "Kale, 2 bunches (Tue)"
+        },
+        {
+          "id": "g-kale-salad-1-1020",
+          "text": "Lemons, 2 more for kale salad (Tue)"
+        },
+        {
+          "id": "g-kale-salad-2-1020",
+          "text": "Garlic, 1 head (Tue)"
+        },
+        {
+          "id": "g-kale-salad-3-1020",
+          "text": "Olive oil (Tue)"
+        },
+        {
+          "id": "g-kale-salad-4-1020",
+          "text": "Parmesan (Tue)"
         }
       ],
       "url": "https://cooking.nytimes.com/recipes/1022936-baked-cod-with-buttery-cracker-topping"
