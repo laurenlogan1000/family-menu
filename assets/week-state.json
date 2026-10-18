@@ -1,48 +1,48 @@
 {
-  "week": "2026-10-11",
-  "updatedAt": "2026-10-15T21:54:49Z",
+  "week": "2026-10-18",
+  "updatedAt": "2026-10-18T14:20:00Z",
   "order": [
-    "white-chicken-chili",
-    "rotisserie-chicken",
-    "coconut-miso-salmon-curry",
-    "pacific-catch",
-    "oregano-garlic-chicken",
-    "crisp-gnocchi",
-    "taco-janes"
+    "mami-pork-tenderloin",
+    "chicken-zucchini-meatballs",
+    "baked-cod-cracker",
+    "arigatou",
+    "mami-flank-steak",
+    "roasted-tomato-white-bean-stew",
+    "sol-food"
   ],
   "scores": {
-    "white-chicken-chili": {
+    "mami-pork-tenderloin": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "rotisserie-chicken": {
+    "chicken-zucchini-meatballs": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "coconut-miso-salmon-curry": {
+    "baked-cod-cracker": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "pacific-catch": {
-      "well": "3",
-      "likes": "",
-      "ease": ""
-    },
-    "oregano-garlic-chicken": {
+    "arigatou": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "crisp-gnocchi": {
+    "mami-flank-steak": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "taco-janes": {
-      "well": "3",
+    "roasted-tomato-white-bean-stew": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "sol-food": {
+      "well": "4",
       "likes": "",
       "ease": ""
     }
