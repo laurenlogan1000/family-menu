@@ -44,65 +44,6 @@
     }
   ],
   "meals": {
-    "chicken-zucchini-meatballs": {
-      "id": "chicken-zucchini-meatballs",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1021328-chicken-zucchini-meatballs-with-feta\">Chicken-Zucchini Meatballs With Feta</a> + orzo",
-      "do": "Oven 425°. Slice 2 zucchini ½ inch; salt. Grate 3rd zucchini + ½ shallot into a bowl; add panko, cumin, ½ tsp salt; skip red-pepper flakes. Mix in ground chicken + chopped dill. Form 16 meatballs on oiled sheet; roast 10 min. Pat sliced zucchini dry; oil; add to sheet; bake 15–20 min. Boil orzo; butter + salt. Chop other ½ shallot; stir in lemon juice, salt, crumbled feta, ¼ cup olive oil. Spoon over meatballs.",
-      "well": "4",
-      "protein": "chicken",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-chicken-zucchini-meatballs-0-1018a",
-          "text": "Zucchini, 3 large (Mon)"
-        },
-        {
-          "id": "g-chicken-zucchini-meatballs-1-1018a",
-          "text": "Shallot, 1 large (Mon)"
-        },
-        {
-          "id": "g-chicken-zucchini-meatballs-2-1018a",
-          "text": "Panko (Mon)"
-        },
-        {
-          "id": "g-chicken-zucchini-meatballs-3-1018a",
-          "text": "Ground cumin (Mon)"
-        },
-        {
-          "id": "g-chicken-zucchini-meatballs-4-1018a",
-          "text": "Ground chicken, 1 lb (Mon)"
-        },
-        {
-          "id": "g-chicken-zucchini-meatballs-5-1018a",
-          "text": "Fresh dill, 1 bunch (Mon)"
-        },
-        {
-          "id": "g-chicken-zucchini-meatballs-6-1018a",
-          "text": "Lemon, 1 large (Mon)"
-        },
-        {
-          "id": "g-chicken-zucchini-meatballs-7-1018a",
-          "text": "Feta, 4 oz (Mon)"
-        },
-        {
-          "id": "g-chicken-zucchini-meatballs-8-1018a",
-          "text": "Extra-virgin olive oil (Mon)"
-        },
-        {
-          "id": "g-chicken-zucchini-meatballs-9-1018a",
-          "text": "Orzo, 1 lb (Mon)"
-        },
-        {
-          "id": "g-chicken-zucchini-meatballs-10-1018a",
-          "text": "Butter (Mon)"
-        },
-        {
-          "id": "g-chicken-zucchini-meatballs-11-1018a",
-          "text": "Kosher salt and black pepper (Mon)"
-        }
-      ],
-      "url": "https://cooking.nytimes.com/recipes/1021328-chicken-zucchini-meatballs-with-feta"
-    },
     "baked-cod-cracker": {
       "id": "baked-cod-cracker",
       "title": "<a href=\"https://cooking.nytimes.com/recipes/1022936-baked-cod-with-buttery-cracker-topping\">Baked Cod With Buttery Cracker Topping</a> + rice + <a href=\"https://cooking.nytimes.com/recipes/1015707-lemon-garlic-kale-salad\">Lemon-Garlic Kale Salad</a>",
@@ -435,11 +376,70 @@
       "protein": "out",
       "prep": [],
       "grocery": []
+    },
+    "tomato-basil-chicken": {
+      "id": "tomato-basil-chicken",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1027093-tomato-basil-chicken-breasts\">Tomato Basil Chicken</a> + rice + steamed broccoli",
+      "do": "Salt, pepper and flour-dredge chicken. Brown in 4 Tbsp butter + 2 Tbsp oil, 4 min per side; plate. Cook shallots 2 min; add tomatoes + ⅔ cup water; simmer 3 min. Stir in 2 Tbsp capers, 2 Tbsp butter, 1 tsp vinegar; spoon over chicken; basil. Rice; steam broccoli.",
+      "well": "4",
+      "protein": "chicken",
+      "url": "https://cooking.nytimes.com/recipes/1027093-tomato-basil-chicken-breasts",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-tomato-basil-chicken-0-1019",
+          "text": "Boneless skinless chicken breasts, 1½ lb (Mon)"
+        },
+        {
+          "id": "g-tomato-basil-chicken-1-1019",
+          "text": "All-purpose flour (Mon)"
+        },
+        {
+          "id": "g-tomato-basil-chicken-2-1019",
+          "text": "Butter (Mon)"
+        },
+        {
+          "id": "g-tomato-basil-chicken-3-1019",
+          "text": "Olive oil (Mon)"
+        },
+        {
+          "id": "g-tomato-basil-chicken-4-1019",
+          "text": "Shallots, 2 (Mon)"
+        },
+        {
+          "id": "g-tomato-basil-chicken-5-1019",
+          "text": "Assorted tomatoes, 1½ lb (Mon)"
+        },
+        {
+          "id": "g-tomato-basil-chicken-6-1019",
+          "text": "Capers (Mon)"
+        },
+        {
+          "id": "g-tomato-basil-chicken-7-1019",
+          "text": "Red wine vinegar (Mon)"
+        },
+        {
+          "id": "g-tomato-basil-chicken-8-1019",
+          "text": "Fresh basil (Mon)"
+        },
+        {
+          "id": "g-tomato-basil-chicken-9-1019",
+          "text": "White rice (Mon)"
+        },
+        {
+          "id": "g-tomato-basil-chicken-10-1019",
+          "text": "Broccoli, 2 crowns (Mon)"
+        },
+        {
+          "id": "g-tomato-basil-chicken-11-1019",
+          "text": "Kosher salt and black pepper (Mon)"
+        }
+      ]
     }
   },
   "order": [
     "italian-wedding-soup",
-    "chicken-zucchini-meatballs",
+    "tomato-basil-chicken",
     "baked-cod-cracker",
     "creekside-pizza",
     "mami-flank-steak",
