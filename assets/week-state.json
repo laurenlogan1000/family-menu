@@ -1,18 +1,18 @@
 {
   "week": "2026-10-19",
-  "updatedAt": "2026-10-18T14:34:49Z",
+  "updatedAt": "2026-10-18T18:33:18Z",
   "order": [
-    "mami-pork-tenderloin",
+    "italian-wedding-soup",
     "chicken-zucchini-meatballs",
     "baked-cod-cracker",
-    "arigatou",
+    "creekside-pizza",
     "mami-flank-steak",
     "roasted-tomato-white-bean-stew",
     "sol-food",
     "rotisserie-chicken"
   ],
   "scores": {
-    "mami-pork-tenderloin": {
+    "italian-wedding-soup": {
       "well": "4",
       "likes": "",
       "ease": ""
@@ -27,8 +27,8 @@
       "likes": "",
       "ease": ""
     },
-    "arigatou": {
-      "well": "4",
+    "creekside-pizza": {
+      "well": "3",
       "likes": "",
       "ease": ""
     },

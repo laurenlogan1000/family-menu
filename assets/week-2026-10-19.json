@@ -44,60 +44,6 @@
     }
   ],
   "meals": {
-    "mami-pork-tenderloin": {
-      "id": "mami-pork-tenderloin",
-      "title": "Mami’s Pork Tenderloin + roasted baby potatoes + green beans",
-      "do": "Oven 450°. Halve baby potatoes; toss with olive oil + salt; roast 30–35 min. Mix garlic powder, oregano, cumin, thyme, Italian seasoning, salt; rub all over pork. Sear in oiled oven-safe skillet, about 10 min per side. Roast 20 min to 145°; rest 5 min; slice. Steam green beans; butter + salt.",
-      "well": "4",
-      "protein": "pork",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-mami-pork-tenderloin-0-1018a",
-          "text": "Pork tenderloin, 1½ lb (Sun)"
-        },
-        {
-          "id": "g-mami-pork-tenderloin-1-1018a",
-          "text": "Garlic powder (Sun)"
-        },
-        {
-          "id": "g-mami-pork-tenderloin-2-1018a",
-          "text": "Dried oregano (Sun)"
-        },
-        {
-          "id": "g-mami-pork-tenderloin-3-1018a",
-          "text": "Ground cumin (Sun)"
-        },
-        {
-          "id": "g-mami-pork-tenderloin-4-1018a",
-          "text": "Dried thyme (Sun)"
-        },
-        {
-          "id": "g-mami-pork-tenderloin-5-1018a",
-          "text": "Italian seasoning (Sun)"
-        },
-        {
-          "id": "g-mami-pork-tenderloin-6-1018a",
-          "text": "Kosher salt (Sun)"
-        },
-        {
-          "id": "g-mami-pork-tenderloin-7-1018a",
-          "text": "Olive oil (Sun)"
-        },
-        {
-          "id": "g-mami-pork-tenderloin-8-1018a",
-          "text": "Baby potatoes, 1½ lb (Sun)"
-        },
-        {
-          "id": "g-mami-pork-tenderloin-9-1018a",
-          "text": "Green beans, 1 lb (Sun)"
-        },
-        {
-          "id": "g-mami-pork-tenderloin-10-1018a",
-          "text": "Butter (Sun)"
-        }
-      ]
-    },
     "chicken-zucchini-meatballs": {
       "id": "chicken-zucchini-meatballs",
       "title": "<a href=\"https://cooking.nytimes.com/recipes/1021328-chicken-zucchini-meatballs-with-feta\">Chicken-Zucchini Meatballs With Feta</a> + orzo",
@@ -215,15 +161,6 @@
         }
       ],
       "url": "https://cooking.nytimes.com/recipes/1022936-baked-cod-with-buttery-cracker-topping"
-    },
-    "arigatou": {
-      "id": "arigatou",
-      "title": "Arigatou bentos",
-      "do": "Pickup.",
-      "well": "4",
-      "protein": "out",
-      "prep": [],
-      "grocery": []
     },
     "mami-flank-steak": {
       "id": "mami-flank-steak",
@@ -390,13 +327,93 @@
           "text": "Steam-in-bag green beans, 2 bags (Sun)"
         }
       ]
+    },
+    "italian-wedding-soup": {
+      "id": "italian-wedding-soup",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019925-italian-wedding-soup-with-turkey-meatballs\">Italian Wedding Soup With Turkey Meatballs</a> + crusty bread",
+      "do": "Boil 12 cups broth + 2 Tbsp olive oil. Mix turkey, panko, parsley, egg, garlic, salt, pepper, ½ cup Parmesan; roll 20 small meatballs onto oiled foil. Broil 3–4 min per side. Cook pasta in broth until al dente; lower to simmer. Add meatballs; simmer 3–5 min. Off heat: stir in spinach + lemon zest. Parmesan + lemon squeeze. Warm bread.",
+      "well": "4",
+      "protein": "turkey",
+      "url": "https://cooking.nytimes.com/recipes/1019925-italian-wedding-soup-with-turkey-meatballs",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-italian-wedding-soup-0-1018",
+          "text": "Chicken broth, 3×32 oz cartons (Sun)"
+        },
+        {
+          "id": "g-italian-wedding-soup-1-1018",
+          "text": "Lean ground turkey, 1 lb (Sun)"
+        },
+        {
+          "id": "g-italian-wedding-soup-2-1018",
+          "text": "Panko (Sun)"
+        },
+        {
+          "id": "g-italian-wedding-soup-3-1018",
+          "text": "Flat-leaf parsley, 1 bunch (Sun)"
+        },
+        {
+          "id": "g-italian-wedding-soup-4-1018",
+          "text": "Eggs (Sun)"
+        },
+        {
+          "id": "g-italian-wedding-soup-5-1018",
+          "text": "Garlic, 1 head (Sun)"
+        },
+        {
+          "id": "g-italian-wedding-soup-6-1018",
+          "text": "Parmesan (Sun)"
+        },
+        {
+          "id": "g-italian-wedding-soup-7-1018",
+          "text": "Orzo or ditalini, 8 oz (Sun)"
+        },
+        {
+          "id": "g-italian-wedding-soup-8-1018",
+          "text": "Baby spinach, 5 oz (Sun)"
+        },
+        {
+          "id": "g-italian-wedding-soup-9-1018",
+          "text": "Lemon (Sun)"
+        },
+        {
+          "id": "g-italian-wedding-soup-10-1018",
+          "text": "Fresh dill (Sun)"
+        },
+        {
+          "id": "g-italian-wedding-soup-11-1018",
+          "text": "Olive oil (Sun)"
+        },
+        {
+          "id": "g-italian-wedding-soup-12-1018",
+          "text": "Kosher salt (Sun)"
+        },
+        {
+          "id": "g-italian-wedding-soup-13-1018",
+          "text": "Black pepper (Sun)"
+        },
+        {
+          "id": "g-italian-wedding-soup-14-1018",
+          "text": "Crusty bread loaf (Sun)"
+        }
+      ]
+    },
+    "creekside-pizza": {
+      "id": "creekside-pizza",
+      "title": "Creekside Pizza + salads",
+      "do": "Pickup. Get salads too.",
+      "well": "3",
+      "protein": "out",
+      "prep": [],
+      "grocery": []
     }
   },
   "order": [
-    "mami-pork-tenderloin",
+    "italian-wedding-soup",
     "chicken-zucchini-meatballs",
     "baked-cod-cracker",
-    "arigatou",
+    "creekside-pizza",
     "mami-flank-steak",
     "roasted-tomato-white-bean-stew",
     "sol-food",
