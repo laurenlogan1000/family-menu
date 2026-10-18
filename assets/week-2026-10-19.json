@@ -377,69 +377,40 @@
       "prep": [],
       "grocery": []
     },
-    "tomato-basil-chicken": {
-      "id": "tomato-basil-chicken",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1027093-tomato-basil-chicken-breasts\">Tomato Basil Chicken</a> + rice + steamed broccoli",
-      "do": "Salt, pepper and flour-dredge chicken. Brown in 4 Tbsp butter + 2 Tbsp oil, 4 min per side; plate. Cook shallots 2 min; add tomatoes + ⅔ cup water; simmer 3 min. Stir in 2 Tbsp capers, 2 Tbsp butter, 1 tsp vinegar; spoon over chicken; basil. Rice; steam broccoli.",
-      "well": "4",
+    "chicken-burgers": {
+      "id": "chicken-burgers",
+      "title": "Chicken burgers + sliced cucumbers",
+      "do": "Grill or pan-cook chicken burgers. Buns, lettuce, tomato. Slice cucumbers.",
+      "well": "3",
       "protein": "chicken",
-      "url": "https://cooking.nytimes.com/recipes/1027093-tomato-basil-chicken-breasts",
       "prep": [],
       "grocery": [
         {
-          "id": "g-tomato-basil-chicken-0-1019",
-          "text": "Boneless skinless chicken breasts, 1½ lb (Mon)"
+          "id": "g-chicken-burgers-0-1019",
+          "text": "Chicken burger patties, store-bought, 1 pack (4–6) (Mon)"
         },
         {
-          "id": "g-tomato-basil-chicken-1-1019",
-          "text": "All-purpose flour (Mon)"
+          "id": "g-chicken-burgers-1-1019",
+          "text": "Hamburger buns (Mon)"
         },
         {
-          "id": "g-tomato-basil-chicken-2-1019",
-          "text": "Butter (Mon)"
+          "id": "g-chicken-burgers-2-1019",
+          "text": "Lettuce, 1 head (Mon)"
         },
         {
-          "id": "g-tomato-basil-chicken-3-1019",
-          "text": "Olive oil (Mon)"
+          "id": "g-chicken-burgers-3-1019",
+          "text": "Tomato, 1 large (Mon)"
         },
         {
-          "id": "g-tomato-basil-chicken-4-1019",
-          "text": "Shallots, 2 (Mon)"
-        },
-        {
-          "id": "g-tomato-basil-chicken-5-1019",
-          "text": "Assorted tomatoes, 1½ lb (Mon)"
-        },
-        {
-          "id": "g-tomato-basil-chicken-6-1019",
-          "text": "Capers (Mon)"
-        },
-        {
-          "id": "g-tomato-basil-chicken-7-1019",
-          "text": "Red wine vinegar (Mon)"
-        },
-        {
-          "id": "g-tomato-basil-chicken-8-1019",
-          "text": "Fresh basil (Mon)"
-        },
-        {
-          "id": "g-tomato-basil-chicken-9-1019",
-          "text": "White rice (Mon)"
-        },
-        {
-          "id": "g-tomato-basil-chicken-10-1019",
-          "text": "Broccoli, 2 crowns (Mon)"
-        },
-        {
-          "id": "g-tomato-basil-chicken-11-1019",
-          "text": "Kosher salt and black pepper (Mon)"
+          "id": "g-chicken-burgers-4-1019",
+          "text": "Cucumbers, 2 (Mon)"
         }
       ]
     }
   },
   "order": [
     "italian-wedding-soup",
-    "tomato-basil-chicken",
+    "chicken-burgers",
     "baked-cod-cracker",
     "creekside-pizza",
     "mami-flank-steak",

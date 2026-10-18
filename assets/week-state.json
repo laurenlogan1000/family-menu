@@ -1,9 +1,9 @@
 {
   "week": "2026-10-19",
-  "updatedAt": "2026-10-18T18:46:24Z",
+  "updatedAt": "2026-10-18T19:26:03Z",
   "order": [
     "italian-wedding-soup",
-    "tomato-basil-chicken",
+    "chicken-burgers",
     "baked-cod-cracker",
     "creekside-pizza",
     "mami-flank-steak",
@@ -17,8 +17,8 @@
       "likes": "",
       "ease": ""
     },
-    "tomato-basil-chicken": {
-      "well": "4",
+    "chicken-burgers": {
+      "well": "3",
       "likes": "",
       "ease": ""
     },
