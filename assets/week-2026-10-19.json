@@ -180,8 +180,8 @@
     },
     "mami-flank-steak": {
       "id": "mami-flank-steak",
-      "title": "Mami’s Flank Steak + couscous + roasted broccoli",
-      "do": "Heat broiler or grill. Pull steak from marinade; pat dry. Cook 5–6 min per side to 130°; rest 10 min; slice thin across the grain. Roast broccoli 425°, 20 min. Couscous: boil 1¼ cups water + butter + salt; stir in couscous; cover 5 min; fluff.",
+      "title": "Mami’s Flank Steak + couscous + <a href=\"https://cooking.nytimes.com/recipes/1014449-julienne-carrot-salad\">Julienne Carrot Salad</a>",
+      "do": "Heat broiler or grill. Pull steak from marinade; pat dry. Cook 5–6 min per side to 130°; rest 10 min; slice thin across the grain. Couscous: boil 1¼ cups water + butter + salt; stir in couscous; cover 5 min; fluff. Julienne carrots; salt. Stir shallot, lemon juice, garlic, olive oil, salt, pepper; toss with carrots; rest 5–10 min. Chives.",
       "well": "4",
       "protein": "beef",
       "prep": [
@@ -237,16 +237,28 @@
           "text": "Butter (Thu)"
         },
         {
-          "id": "g-mami-flank-steak-11-1018a",
-          "text": "Broccoli, 2 crowns (Thu)"
-        },
-        {
           "id": "g-mami-flank-steak-12-1018a",
           "text": "Olive oil (Thu)"
         },
         {
           "id": "g-mami-flank-steak-13-1018a",
           "text": "Kosher salt (Thu)"
+        },
+        {
+          "id": "g-carrot-salad-0-1022",
+          "text": "Carrots, 1 lb (Thu)"
+        },
+        {
+          "id": "g-carrot-salad-1-1022",
+          "text": "Shallot, 1 small (Thu)"
+        },
+        {
+          "id": "g-carrot-salad-2-1022",
+          "text": "Lemon, 1 more for carrot salad (Thu)"
+        },
+        {
+          "id": "g-carrot-salad-3-1022",
+          "text": "Fresh chives (Thu)"
         }
       ]
     },
