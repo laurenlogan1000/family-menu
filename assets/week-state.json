@@ -1,6 +1,6 @@
 {
-  "week": "2026-10-18",
-  "updatedAt": "2026-10-18T14:20:00Z",
+  "week": "2026-10-19",
+  "updatedAt": "2026-10-18T14:34:49Z",
   "order": [
     "mami-pork-tenderloin",
     "chicken-zucchini-meatballs",
@@ -8,7 +8,8 @@
     "arigatou",
     "mami-flank-steak",
     "roasted-tomato-white-bean-stew",
-    "sol-food"
+    "sol-food",
+    "rotisserie-chicken"
   ],
   "scores": {
     "mami-pork-tenderloin": {
@@ -42,6 +43,11 @@
       "ease": ""
     },
     "sol-food": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "rotisserie-chicken": {
       "well": "4",
       "likes": "",
       "ease": ""
