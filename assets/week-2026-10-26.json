@@ -39,104 +39,6 @@
     }
   ],
   "meals": {
-    "roasted-tomato-white-bean-stew": {
-      "id": "roasted-tomato-white-bean-stew",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1020926-roasted-tomato-and-white-bean-stew\">Roasted Tomato and White Bean Stew</a> + sourdough + salad greens",
-      "do": "Oven 425°; toss tomatoes with ¼ cup olive oil, thyme, salt + pepper; roast 20–25 min until collapsed. Mix chopped parsley + lemon zest. Cook sliced onion + garlic in 2 Tbsp olive oil 4–5 min (skip red-pepper flakes); add beans + 1½ cups broth; simmer; smash ½ cup beans. Stir in roasted tomatoes + juices; simmer 5–10 min; top with parsley-lemon + olive oil. Toast sourdough; toss salad greens with olive oil + lemon juice.",
-      "well": "4",
-      "protein": "meatless",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-roasted-tomato-white-bean-stew-0-1026a",
-          "text": "Cherry or grape tomatoes, 2×10 oz (Mon)"
-        },
-        {
-          "id": "g-roasted-tomato-white-bean-stew-1-1026a",
-          "text": "Fresh thyme (Mon)"
-        },
-        {
-          "id": "g-roasted-tomato-white-bean-stew-2-1026a",
-          "text": "Flat-leaf parsley, 1 bunch (Mon)"
-        },
-        {
-          "id": "g-roasted-tomato-white-bean-stew-3-1026a",
-          "text": "Lemons, 2 (Mon)"
-        },
-        {
-          "id": "g-roasted-tomato-white-bean-stew-4-1026a",
-          "text": "Yellow onion, 1 medium (Mon)"
-        },
-        {
-          "id": "g-roasted-tomato-white-bean-stew-5-1026a",
-          "text": "Garlic, 1 head (Mon)"
-        },
-        {
-          "id": "g-roasted-tomato-white-bean-stew-6-1026a",
-          "text": "Cannellini or butter beans, 2×15 oz cans (Mon)"
-        },
-        {
-          "id": "g-roasted-tomato-white-bean-stew-7-1026a",
-          "text": "Chicken or vegetable broth, 32 oz carton (Mon)"
-        },
-        {
-          "id": "g-roasted-tomato-white-bean-stew-8-1026a",
-          "text": "Sourdough loaf (MH Butter) (Mon)"
-        },
-        {
-          "id": "g-roasted-tomato-white-bean-stew-9-1026a",
-          "text": "Salad greens, 5 oz (Mon)"
-        }
-      ],
-      "url": "https://cooking.nytimes.com/recipes/1020926-roasted-tomato-and-white-bean-stew"
-    },
-    "shrimp-asparagus-stir-fry": {
-      "id": "shrimp-asparagus-stir-fry",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1025275-quick-shrimp-and-asparagus-stir-fry\">Quick Shrimp and Asparagus Stir-Fry</a> + rice",
-      "do": "Cook rice. Rinse frozen shrimp under cold water 3–4 min; salt generously, rest 1 min, rinse, pat dry. Wok or big skillet on high; coat with oil; onion + garlic + pinch of salt 1–2 min; skip chile. Add shrimp 1–2 min until curled; add asparagus, 3 Tbsp soy sauce, 1½ tsp sugar; stir-fry 1–3 min until just tender (2 batches if crowded). Off heat: stir in butter.",
-      "well": "4",
-      "protein": "fish",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-shrimp-asparagus-stir-fry-0-1026a",
-          "text": "Frozen peeled, deveined shrimp (16–20 count), 1½ lb (Tue)"
-        },
-        {
-          "id": "g-shrimp-asparagus-stir-fry-1-1026a",
-          "text": "Sweet onion, 1 (Tue)"
-        },
-        {
-          "id": "g-shrimp-asparagus-stir-fry-2-1026a",
-          "text": "Garlic, 1 head (Tue)"
-        },
-        {
-          "id": "g-shrimp-asparagus-stir-fry-3-1026a",
-          "text": "Asparagus, 2 bunches (Tue)"
-        },
-        {
-          "id": "g-shrimp-asparagus-stir-fry-4-1026a",
-          "text": "Soy sauce (Tue)"
-        },
-        {
-          "id": "g-shrimp-asparagus-stir-fry-5-1026a",
-          "text": "Sugar (Tue)"
-        },
-        {
-          "id": "g-shrimp-asparagus-stir-fry-6-1026a",
-          "text": "Butter (Tue)"
-        },
-        {
-          "id": "g-shrimp-asparagus-stir-fry-7-1026a",
-          "text": "Canola or grapeseed oil (Tue)"
-        },
-        {
-          "id": "g-shrimp-asparagus-stir-fry-8-1026a",
-          "text": "Jasmine rice (Tue)"
-        }
-      ],
-      "url": "https://cooking.nytimes.com/recipes/1025275-quick-shrimp-and-asparagus-stir-fry"
-    },
     "comforts-cafe": {
       "id": "comforts-cafe",
       "title": "Comforts Cafe + green beans",
@@ -351,11 +253,67 @@
           "text": "Cucumbers, 2 (Fri)"
         }
       ]
+    },
+    "roast-chicken": {
+      "id": "roast-chicken",
+      "title": "Roast chicken + roasted potatoes + green beans",
+      "do": "Oven 425°. Pat chicken dry; salt + pepper inside and out. Roast breast-up with halved potatoes (olive oil + salt) 1¼–1½ hr, until thigh reads 165°; add green beans (olive oil + salt) for the last 15 min. Rest 15 min; carve. Cook rice for Tue; chill. Save leftover chicken for Tue fried rice.",
+      "well": "4",
+      "protein": "chicken",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-roast-chicken-0-1026d",
+          "text": "Whole chicken, 4–5 lb (Mon)"
+        },
+        {
+          "id": "g-roast-chicken-1-1026d",
+          "text": "Yellow potatoes, 2 lb (Mon)"
+        },
+        {
+          "id": "g-roast-chicken-2-1026d",
+          "text": "Green beans, 1 lb (Mon)"
+        },
+        {
+          "id": "g-roast-chicken-3-1026d",
+          "text": "Jasmine rice (Mon)"
+        }
+      ]
+    },
+    "chicken-fried-rice": {
+      "id": "chicken-fried-rice",
+      "title": "Chicken fried rice (leftover roast chicken)",
+      "do": "Scramble 3 eggs in oil; set aside. Stir-fry day-old rice, shredded chicken and frozen peas and carrots on high, 5 min. Add eggs, soy sauce and scallions; toss.",
+      "well": "4",
+      "protein": "chicken",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-chicken-fried-rice-0-1026d",
+          "text": "Eggs, 1 dozen (Tue)"
+        },
+        {
+          "id": "g-chicken-fried-rice-1-1026d",
+          "text": "Frozen peas and carrots, 1 bag (Tue)"
+        },
+        {
+          "id": "g-chicken-fried-rice-2-1026d",
+          "text": "Scallions, 1 bunch (Tue)"
+        },
+        {
+          "id": "g-chicken-fried-rice-3-1026d",
+          "text": "Soy sauce (Tue)"
+        },
+        {
+          "id": "g-chicken-fried-rice-4-1026d",
+          "text": "Canola or vegetable oil (Tue)"
+        }
+      ]
     }
   },
   "order": [
-    "roasted-tomato-white-bean-stew",
-    "shrimp-asparagus-stir-fry",
+    "roast-chicken",
+    "chicken-fried-rice",
     "comforts-cafe",
     "mami-picadillo",
     "pacific-catch",

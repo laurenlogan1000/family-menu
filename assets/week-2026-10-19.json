@@ -223,28 +223,6 @@
       "prep": [],
       "grocery": []
     },
-    "rotisserie-chicken": {
-      "id": "rotisserie-chicken",
-      "title": "Rotisserie chicken + rice + green beans",
-      "do": "Warm rotisserie chicken. Microwave rice pouches. Microwave steam-in-bag green beans.",
-      "well": "4",
-      "protein": "chicken",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-rotisserie-chicken-0-1025",
-          "text": "Rotisserie chicken (Sun)"
-        },
-        {
-          "id": "g-rotisserie-chicken-1-1025",
-          "text": "Microwave rice pouches, 2 (Sun)"
-        },
-        {
-          "id": "g-rotisserie-chicken-2-1025",
-          "text": "Steam-in-bag green beans, 2 bags (Sun)"
-        }
-      ]
-    },
     "italian-wedding-soup": {
       "id": "italian-wedding-soup",
       "title": "<a href=\"https://cooking.nytimes.com/recipes/1019925-italian-wedding-soup-with-turkey-meatballs\">Italian Wedding Soup With Turkey Meatballs</a> + crusty bread",
@@ -342,6 +320,15 @@
           "text": "Cucumbers, 2 (Mon)"
         }
       ]
+    },
+    "mas-masa": {
+      "id": "mas-masa",
+      "title": "Mas Masa",
+      "do": "Dine out.",
+      "well": "4",
+      "protein": "out",
+      "prep": [],
+      "grocery": []
     }
   },
   "order": [
@@ -352,7 +339,7 @@
     "mami-flank-steak",
     "roasted-tomato-white-bean-stew",
     "sol-food",
-    "rotisserie-chicken"
+    "mas-masa"
   ],
   "shops": [
     {

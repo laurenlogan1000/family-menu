@@ -1,9 +1,9 @@
 {
   "week": "2026-10-26",
-  "updatedAt": "2026-10-25T17:26:06Z",
+  "updatedAt": "2026-10-25T17:53:19Z",
   "order": [
-    "roasted-tomato-white-bean-stew",
-    "shrimp-asparagus-stir-fry",
+    "roast-chicken",
+    "chicken-fried-rice",
     "comforts-cafe",
     "mami-picadillo",
     "pacific-catch",
@@ -11,12 +11,12 @@
     "grilled-chicken-skewers"
   ],
   "scores": {
-    "roasted-tomato-white-bean-stew": {
+    "roast-chicken": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "shrimp-asparagus-stir-fry": {
+    "chicken-fried-rice": {
       "well": "4",
       "likes": "",
       "ease": ""
@@ -31,6 +31,11 @@
       "likes": "",
       "ease": ""
     },
+    "pacific-catch": {
+      "well": "3",
+      "likes": "",
+      "ease": ""
+    },
     "mami-muffaletta": {
       "well": "3",
       "likes": "",
@@ -38,11 +43,6 @@
     },
     "grilled-chicken-skewers": {
       "well": "4",
-      "likes": "",
-      "ease": ""
-    },
-    "pacific-catch": {
-      "well": "3",
       "likes": "",
       "ease": ""
     }
