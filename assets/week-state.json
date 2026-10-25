@@ -1,53 +1,47 @@
 {
-  "week": "2026-10-19",
-  "updatedAt": "2026-10-18T19:26:03Z",
+  "week": "2026-10-26",
+  "updatedAt": "2026-10-25T14:30:00Z",
   "order": [
-    "italian-wedding-soup",
-    "chicken-burgers",
-    "baked-cod-cracker",
-    "creekside-pizza",
-    "mami-flank-steak",
     "roasted-tomato-white-bean-stew",
-    "sol-food",
-    "rotisserie-chicken"
+    "shrimp-asparagus-stir-fry",
+    "comforts-cafe",
+    "mami-picadillo",
+    "tasty-delicious",
+    "mami-muffaletta",
+    "grilled-chicken-skewers"
   ],
   "scores": {
-    "italian-wedding-soup": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
-    "chicken-burgers": {
-      "well": "3",
-      "likes": "",
-      "ease": ""
-    },
-    "baked-cod-cracker": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
-    "creekside-pizza": {
-      "well": "3",
-      "likes": "",
-      "ease": ""
-    },
-    "mami-flank-steak": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
     "roasted-tomato-white-bean-stew": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "sol-food": {
+    "shrimp-asparagus-stir-fry": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "rotisserie-chicken": {
+    "comforts-cafe": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "mami-picadillo": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "tasty-delicious": {
+      "well": "3",
+      "likes": "",
+      "ease": ""
+    },
+    "mami-muffaletta": {
+      "well": "3",
+      "likes": "",
+      "ease": ""
+    },
+    "grilled-chicken-skewers": {
       "well": "4",
       "likes": "",
       "ease": ""
