@@ -205,20 +205,6 @@
         }
       ]
     },
-    "tasty-delicious": {
-      "id": "tasty-delicious",
-      "title": "Tasty Delicious + cucumbers",
-      "do": "Pickup. Slice cucumbers; rice vinegar + salt.",
-      "well": "3",
-      "protein": "out",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-tasty-delicious-0-1026a",
-          "text": "Cucumbers, 2 (Fri)"
-        }
-      ]
-    },
     "mami-muffaletta": {
       "id": "mami-muffaletta",
       "title": "Mami’s Muffaletta + carrot sticks",
@@ -351,6 +337,20 @@
         }
       ],
       "url": "https://cooking.nytimes.com/recipes/1021082-grilled-chicken-skewers-with-tarragon-and-yogurt"
+    },
+    "pizzalina-pasta": {
+      "id": "pizzalina-pasta",
+      "title": "Pizzalina pasta + cucumbers",
+      "do": "Pickup. Slice cucumbers; rice vinegar + salt.",
+      "well": "3",
+      "protein": "out",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-pizzalina-pasta-0-1026b",
+          "text": "Cucumbers, 2 (Fri)"
+        }
+      ]
     }
   },
   "order": [
@@ -358,7 +358,7 @@
     "shrimp-asparagus-stir-fry",
     "comforts-cafe",
     "mami-picadillo",
-    "tasty-delicious",
+    "pizzalina-pasta",
     "mami-muffaletta",
     "grilled-chicken-skewers"
   ],
