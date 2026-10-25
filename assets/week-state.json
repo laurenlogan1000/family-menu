@@ -1,12 +1,12 @@
 {
   "week": "2026-10-26",
-  "updatedAt": "2026-10-25T17:17:43Z",
+  "updatedAt": "2026-10-25T17:26:06Z",
   "order": [
     "roasted-tomato-white-bean-stew",
     "shrimp-asparagus-stir-fry",
     "comforts-cafe",
     "mami-picadillo",
-    "pizzalina-pasta",
+    "pacific-catch",
     "mami-muffaletta",
     "grilled-chicken-skewers"
   ],
@@ -41,7 +41,7 @@
       "likes": "",
       "ease": ""
     },
-    "pizzalina-pasta": {
+    "pacific-catch": {
       "well": "3",
       "likes": "",
       "ease": ""

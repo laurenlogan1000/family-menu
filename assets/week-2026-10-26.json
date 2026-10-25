@@ -338,16 +338,16 @@
       ],
       "url": "https://cooking.nytimes.com/recipes/1021082-grilled-chicken-skewers-with-tarragon-and-yogurt"
     },
-    "pizzalina-pasta": {
-      "id": "pizzalina-pasta",
-      "title": "Pizzalina pasta + cucumbers",
+    "pacific-catch": {
+      "id": "pacific-catch",
+      "title": "Pacific Catch + cucumbers",
       "do": "Pickup. Slice cucumbers; rice vinegar + salt.",
       "well": "3",
       "protein": "out",
       "prep": [],
       "grocery": [
         {
-          "id": "g-pizzalina-pasta-0-1026b",
+          "id": "g-pacific-catch-0-1026c",
           "text": "Cucumbers, 2 (Fri)"
         }
       ]
@@ -358,7 +358,7 @@
     "shrimp-asparagus-stir-fry",
     "comforts-cafe",
     "mami-picadillo",
-    "pizzalina-pasta",
+    "pacific-catch",
     "mami-muffaletta",
     "grilled-chicken-skewers"
   ],
