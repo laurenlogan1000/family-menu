@@ -1,16 +1,21 @@
 {
   "week": "2026-10-26",
-  "updatedAt": "2026-10-25T17:53:19Z",
+  "updatedAt": "2026-10-26T23:21:02Z",
   "order": [
+    "mas-masa",
     "roast-chicken",
     "chicken-fried-rice",
+    "salmon-bowls",
     "comforts-cafe",
-    "mami-picadillo",
-    "pacific-catch",
-    "mami-muffaletta",
+    "creekside-pizza",
     "grilled-chicken-skewers"
   ],
   "scores": {
+    "mas-masa": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
     "roast-chicken": {
       "well": "4",
       "likes": "",
@@ -21,22 +26,17 @@
       "likes": "",
       "ease": ""
     },
+    "salmon-bowls": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
     "comforts-cafe": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "mami-picadillo": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
-    "pacific-catch": {
-      "well": "3",
-      "likes": "",
-      "ease": ""
-    },
-    "mami-muffaletta": {
+    "creekside-pizza": {
       "well": "3",
       "likes": "",
       "ease": ""

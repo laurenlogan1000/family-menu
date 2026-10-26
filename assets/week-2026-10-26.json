@@ -39,137 +39,149 @@
     }
   ],
   "meals": {
-    "comforts-cafe": {
-      "id": "comforts-cafe",
-      "title": "Comforts Cafe + green beans",
-      "do": "Pickup. Steam green beans; butter + salt.",
+    "mas-masa": {
+      "id": "mas-masa",
+      "title": "Mas Masa",
+      "do": "Dine out.",
       "well": "4",
       "protein": "out",
       "prep": [],
-      "grocery": [
-        {
-          "id": "g-comforts-cafe-0-1026a",
-          "text": "Green beans, 1 lb (Wed)"
-        },
-        {
-          "id": "g-comforts-cafe-1-1026a",
-          "text": "Butter (Wed)"
-        }
-      ]
+      "grocery": []
     },
-    "mami-picadillo": {
-      "id": "mami-picadillo",
-      "title": "Mami’s Picadillo + rice + peas",
-      "do": "Cook rice. Sauté diced onion, green pepper, garlic in 3 Tbsp olive oil until onion wilts. Add beef; cook until browned. Add capers, salt, pepper, tomato sauce, ½ cup wine; cover; simmer on low 20–25 min. Steam peas; butter + salt.",
+    "roast-chicken": {
+      "id": "roast-chicken",
+      "title": "Roast chicken + roasted potatoes + green beans",
+      "do": "Oven 425°. Pat chicken dry; salt + pepper inside and out. Roast breast-up with halved potatoes (olive oil + salt) 1¼–1½ hr, until thigh reads 165°; add green beans (olive oil + salt) for the last 15 min. Rest 15 min; carve. Optional sauce: simmer ½ cup soy sauce, juice of 2 oranges, juice of 1 lime, 1 Tbsp Dijon, 1 garlic clove, 1 tsp ground ginger and scallions ~10 min until it thickens. Cook rice for Wed; chill. Save leftover chicken.",
       "well": "4",
-      "protein": "beef",
+      "protein": "chicken",
       "prep": [],
       "grocery": [
         {
-          "id": "g-mami-picadillo-0-1026a",
-          "text": "Ground beef, 1½ lb (Thu)"
+          "id": "g-roast-chicken-0-1026e",
+          "text": "Whole chicken, 4–5 lb (Tue)"
         },
         {
-          "id": "g-mami-picadillo-1-1026a",
-          "text": "Green bell pepper, 1 (Thu)"
+          "id": "g-roast-chicken-1-1026e",
+          "text": "Yellow potatoes, 2 lb (Tue)"
         },
         {
-          "id": "g-mami-picadillo-2-1026a",
-          "text": "Yellow onion, 1 (Thu)"
+          "id": "g-roast-chicken-2-1026e",
+          "text": "Green beans, 1 lb (Tue)"
         },
         {
-          "id": "g-mami-picadillo-3-1026a",
-          "text": "Garlic, 1 head (Thu)"
+          "id": "g-roast-chicken-3-1026e",
+          "text": "Oranges, 2 (Tue)"
         },
         {
-          "id": "g-mami-picadillo-4-1026a",
-          "text": "Capers (nonpareil), 1 jar (Thu)"
+          "id": "g-roast-chicken-4-1026e",
+          "text": "Lime, 1 (Tue)"
         },
         {
-          "id": "g-mami-picadillo-5-1026a",
-          "text": "Tomato sauce, 8 oz can (Thu)"
+          "id": "g-roast-chicken-5-1026e",
+          "text": "Dijon mustard (Tue)"
         },
         {
-          "id": "g-mami-picadillo-6-1026a",
-          "text": "Dry white wine (Thu)"
+          "id": "g-roast-chicken-6-1026e",
+          "text": "Garlic, 1 head (Tue)"
         },
         {
-          "id": "g-mami-picadillo-7-1026a",
-          "text": "Jasmine rice (Thu)"
+          "id": "g-roast-chicken-7-1026e",
+          "text": "Soy sauce (Tue, Wed, Thu)"
         },
         {
-          "id": "g-mami-picadillo-8-1026a",
-          "text": "Frozen peas, 1 bag (Thu)"
+          "id": "g-roast-chicken-8-1026e",
+          "text": "Scallions, 2 bunches (Tue, Wed, Thu)"
         },
         {
-          "id": "g-mami-picadillo-9-1026a",
-          "text": "Butter (Thu)"
+          "id": "g-roast-chicken-9-1026e",
+          "text": "Jasmine rice (Tue)"
         }
       ]
     },
-    "mami-muffaletta": {
-      "id": "mami-muffaletta",
-      "title": "Mami’s Muffaletta + carrot sticks",
-      "do": "Split bread horizontally; scoop out some center; spread relish on both cut sides. Layer salami, mortadella, ham, provolone; close; secure with toothpicks; cut into wedges. Carrot sticks.",
-      "well": "3",
-      "protein": "pork",
+    "chicken-fried-rice": {
+      "id": "chicken-fried-rice",
+      "title": "Chicken fried rice (leftover roast chicken)",
+      "do": "Scramble 3 eggs in oil; set aside. Stir-fry day-old rice, shredded chicken and frozen peas and carrots on high, 5 min. Add eggs, soy sauce and scallions; toss. Move salmon fillet to fridge to thaw.",
+      "well": "4",
+      "protein": "chicken",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-chicken-fried-rice-0-1026e",
+          "text": "Eggs, 1 dozen (Wed)"
+        },
+        {
+          "id": "g-chicken-fried-rice-1-1026e",
+          "text": "Frozen peas and carrots, 1 bag (Wed)"
+        },
+        {
+          "id": "g-chicken-fried-rice-2-1026e",
+          "text": "Canola or vegetable oil (Wed, Thu)"
+        }
+      ]
+    },
+    "salmon-bowls": {
+      "id": "salmon-bowls",
+      "title": "Salmon bowls over couscous + cucumber, avocado, edamame (dressing from <a href=\"https://cooking.nytimes.com/recipes/1022255-sesame-salmon-bowls\">Sesame Salmon Bowls</a>)",
+      "do": "Couscous: boil 1½ cups water + salt; stir in 1 cup couscous; cover 5 min; fluff. Oven 425°; rub salmon with ½ tsp sesame oil + salt; roast 10–12 min until it flakes; break into chunks. Microwave edamame. Whisk ¼ cup soy sauce, 3 Tbsp white vinegar, 2 Tbsp canola oil, 2 Tbsp chopped scallions, 2 Tbsp minced ginger, ¼ tsp sesame oil. Bowls: couscous, salmon, sliced cucumber, avocado, edamame, scallions; drizzle dressing.",
+      "well": "4",
+      "protein": "fish",
       "prep": [
         {
-          "kind": "marinate",
-          "item": "olive relish (3 minced garlic cloves, 1 cup minced pimento-stuffed olives, 1 cup minced Kalamata olives, ½ cup chopped roasted red peppers, ¼ cup olive oil, 3 Tbsp chopped parsley, 2 Tbsp white wine vinegar; stand overnight)",
+          "kind": "thaw",
+          "item": "salmon fillet in fridge",
           "nightsBefore": 1
         }
       ],
       "grocery": [
         {
-          "id": "g-mami-muffaletta-0-1026a",
-          "text": "Pimento-stuffed green olives, 1 jar (1 cup) (Sat)"
+          "id": "g-salmon-bowls-0-1026e",
+          "text": "Couscous, 10 oz (Thu)"
         },
         {
-          "id": "g-mami-muffaletta-1-1026a",
-          "text": "Pitted Kalamata olives, 1 jar (1 cup) (Sat)"
+          "id": "g-salmon-bowls-1-1026e",
+          "text": "English cucumber, 1 (Thu)"
         },
         {
-          "id": "g-mami-muffaletta-2-1026a",
-          "text": "Roasted red peppers, 1 jar (Sat)"
+          "id": "g-salmon-bowls-2-1026e",
+          "text": "Avocados, 2 (Thu)"
         },
         {
-          "id": "g-mami-muffaletta-3-1026a",
-          "text": "Garlic, 1 head (Sat)"
+          "id": "g-salmon-bowls-3-1026e",
+          "text": "Frozen shelled edamame, 1 bag (Thu)"
         },
         {
-          "id": "g-mami-muffaletta-4-1026a",
-          "text": "Flat-leaf parsley, 1 bunch (Sat)"
+          "id": "g-salmon-bowls-4-1026e",
+          "text": "Fresh ginger, 2-inch piece (Thu)"
         },
         {
-          "id": "g-mami-muffaletta-5-1026a",
-          "text": "Round Italian or French loaf, 1 large (Sat)"
-        },
-        {
-          "id": "g-mami-muffaletta-6-1026a",
-          "text": "Genoa salami, ⅓ lb (Sat)"
-        },
-        {
-          "id": "g-mami-muffaletta-7-1026a",
-          "text": "Mortadella, ⅓ lb (Sat)"
-        },
-        {
-          "id": "g-mami-muffaletta-8-1026a",
-          "text": "Prosciutto or smoked ham, ⅓ lb (Sat)"
-        },
-        {
-          "id": "g-mami-muffaletta-9-1026a",
-          "text": "Provolone or Havarti, ½ lb (Sat)"
-        },
-        {
-          "id": "g-mami-muffaletta-10-1026a",
-          "text": "Toothpicks (Sat)"
-        },
-        {
-          "id": "g-mami-muffaletta-11-1026a",
-          "text": "Carrots, 1 lb (Sat)"
+          "id": "g-salmon-bowls-5-1026e",
+          "text": "Toasted sesame oil (Thu)"
         }
       ]
+    },
+    "comforts-cafe": {
+      "id": "comforts-cafe",
+      "title": "Comforts Cafe + cucumbers",
+      "do": "Pickup. Slice cucumbers; rice vinegar + salt.",
+      "well": "4",
+      "protein": "out",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-comforts-cafe-0-1026e",
+          "text": "Cucumbers, 2 (Fri)"
+        }
+      ]
+    },
+    "creekside-pizza": {
+      "id": "creekside-pizza",
+      "title": "Creekside Pizza + salads",
+      "do": "Pickup. Get salads too.",
+      "well": "3",
+      "protein": "out",
+      "prep": [],
+      "grocery": []
     },
     "grilled-chicken-skewers": {
       "id": "grilled-chicken-skewers",
@@ -239,85 +251,15 @@
         }
       ],
       "url": "https://cooking.nytimes.com/recipes/1021082-grilled-chicken-skewers-with-tarragon-and-yogurt"
-    },
-    "pacific-catch": {
-      "id": "pacific-catch",
-      "title": "Pacific Catch + cucumbers",
-      "do": "Pickup. Slice cucumbers; rice vinegar + salt.",
-      "well": "3",
-      "protein": "out",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-pacific-catch-0-1026c",
-          "text": "Cucumbers, 2 (Fri)"
-        }
-      ]
-    },
-    "roast-chicken": {
-      "id": "roast-chicken",
-      "title": "Roast chicken + roasted potatoes + green beans",
-      "do": "Oven 425°. Pat chicken dry; salt + pepper inside and out. Roast breast-up with halved potatoes (olive oil + salt) 1¼–1½ hr, until thigh reads 165°; add green beans (olive oil + salt) for the last 15 min. Rest 15 min; carve. Cook rice for Tue; chill. Save leftover chicken for Tue fried rice.",
-      "well": "4",
-      "protein": "chicken",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-roast-chicken-0-1026d",
-          "text": "Whole chicken, 4–5 lb (Mon)"
-        },
-        {
-          "id": "g-roast-chicken-1-1026d",
-          "text": "Yellow potatoes, 2 lb (Mon)"
-        },
-        {
-          "id": "g-roast-chicken-2-1026d",
-          "text": "Green beans, 1 lb (Mon)"
-        },
-        {
-          "id": "g-roast-chicken-3-1026d",
-          "text": "Jasmine rice (Mon)"
-        }
-      ]
-    },
-    "chicken-fried-rice": {
-      "id": "chicken-fried-rice",
-      "title": "Chicken fried rice (leftover roast chicken)",
-      "do": "Scramble 3 eggs in oil; set aside. Stir-fry day-old rice, shredded chicken and frozen peas and carrots on high, 5 min. Add eggs, soy sauce and scallions; toss.",
-      "well": "4",
-      "protein": "chicken",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-chicken-fried-rice-0-1026d",
-          "text": "Eggs, 1 dozen (Tue)"
-        },
-        {
-          "id": "g-chicken-fried-rice-1-1026d",
-          "text": "Frozen peas and carrots, 1 bag (Tue)"
-        },
-        {
-          "id": "g-chicken-fried-rice-2-1026d",
-          "text": "Scallions, 1 bunch (Tue)"
-        },
-        {
-          "id": "g-chicken-fried-rice-3-1026d",
-          "text": "Soy sauce (Tue)"
-        },
-        {
-          "id": "g-chicken-fried-rice-4-1026d",
-          "text": "Canola or vegetable oil (Tue)"
-        }
-      ]
     }
   },
   "order": [
+    "mas-masa",
     "roast-chicken",
     "chicken-fried-rice",
+    "salmon-bowls",
     "comforts-cafe",
-    "mami-picadillo",
-    "pacific-catch",
-    "mami-muffaletta",
+    "creekside-pizza",
     "grilled-chicken-skewers"
   ],
   "shops": [

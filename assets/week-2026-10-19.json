@@ -321,10 +321,10 @@
         }
       ]
     },
-    "mas-masa": {
-      "id": "mas-masa",
-      "title": "Mas Masa",
-      "do": "Dine out.",
+    "mama-huhu": {
+      "id": "mama-huhu",
+      "title": "Mama Huhu",
+      "do": "Order in.",
       "well": "4",
       "protein": "out",
       "prep": [],
@@ -339,7 +339,7 @@
     "mami-flank-steak",
     "roasted-tomato-white-bean-stew",
     "sol-food",
-    "mas-masa"
+    "mama-huhu"
   ],
   "shops": [
     {
