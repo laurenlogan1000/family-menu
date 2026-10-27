@@ -50,50 +50,50 @@
     },
     "roast-chicken": {
       "id": "roast-chicken",
-      "title": "Roast chicken + roasted potatoes + green beans",
-      "do": "Oven 425°. Pat chicken dry; salt + pepper inside and out. Roast breast-up with halved potatoes (olive oil + salt) 1¼–1½ hr, until thigh reads 165°; add green beans (olive oil + salt) for the last 15 min. Rest 15 min; carve. Optional sauce: simmer ½ cup soy sauce, juice of 2 oranges, juice of 1 lime, 1 Tbsp Dijon, 1 garlic clove, 1 tsp ground ginger and scallions ~10 min until it thickens. Cook rice for Wed; chill. Save leftover chicken.",
+      "title": "Roast chicken with carrots and onions",
+      "do": "Oven 425°. Pat chicken dry; salt + pepper inside and out. Roast breast-up in one pan with carrots and onion wedges (olive oil + salt) 1¼–1½ hr, until thigh reads 165°. Rest 15 min; carve. Optional sauce: simmer ½ cup soy sauce, juice of 2 oranges, juice of 1 lime, 1 Tbsp Dijon, 1 garlic clove, 1 tsp ground ginger and scallions ~10 min until it thickens. Cook rice for Wed; chill. Save leftover chicken.",
       "well": "4",
       "protein": "chicken",
       "prep": [],
       "grocery": [
         {
-          "id": "g-roast-chicken-0-1026e",
+          "id": "g-roast-chicken-0-1026f",
           "text": "Whole chicken, 4–5 lb (Tue)"
         },
         {
-          "id": "g-roast-chicken-1-1026e",
-          "text": "Yellow potatoes, 2 lb (Tue)"
+          "id": "g-roast-chicken-1-1026f",
+          "text": "Carrots, 1 lb (Tue)"
         },
         {
-          "id": "g-roast-chicken-2-1026e",
-          "text": "Green beans, 1 lb (Tue)"
+          "id": "g-roast-chicken-2-1026f",
+          "text": "Yellow onions, 2 (Tue)"
         },
         {
-          "id": "g-roast-chicken-3-1026e",
+          "id": "g-roast-chicken-3-1026f",
           "text": "Oranges, 2 (Tue)"
         },
         {
-          "id": "g-roast-chicken-4-1026e",
+          "id": "g-roast-chicken-4-1026f",
           "text": "Lime, 1 (Tue)"
         },
         {
-          "id": "g-roast-chicken-5-1026e",
+          "id": "g-roast-chicken-5-1026f",
           "text": "Dijon mustard (Tue)"
         },
         {
-          "id": "g-roast-chicken-6-1026e",
+          "id": "g-roast-chicken-6-1026f",
           "text": "Garlic, 1 head (Tue)"
         },
         {
-          "id": "g-roast-chicken-7-1026e",
+          "id": "g-roast-chicken-7-1026f",
           "text": "Soy sauce (Tue, Wed, Thu)"
         },
         {
-          "id": "g-roast-chicken-8-1026e",
+          "id": "g-roast-chicken-8-1026f",
           "text": "Scallions, 2 bunches (Tue, Wed, Thu)"
         },
         {
-          "id": "g-roast-chicken-9-1026e",
+          "id": "g-roast-chicken-9-1026f",
           "text": "Jasmine rice (Tue)"
         }
       ]
@@ -122,8 +122,8 @@
     },
     "salmon-bowls": {
       "id": "salmon-bowls",
-      "title": "Salmon bowls over couscous + cucumber, avocado, edamame (dressing from <a href=\"https://cooking.nytimes.com/recipes/1022255-sesame-salmon-bowls\">Sesame Salmon Bowls</a>)",
-      "do": "Couscous: boil 1½ cups water + salt; stir in 1 cup couscous; cover 5 min; fluff. Oven 425°; rub salmon with ½ tsp sesame oil + salt; roast 10–12 min until it flakes; break into chunks. Microwave edamame. Whisk ¼ cup soy sauce, 3 Tbsp white vinegar, 2 Tbsp canola oil, 2 Tbsp chopped scallions, 2 Tbsp minced ginger, ¼ tsp sesame oil. Bowls: couscous, salmon, sliced cucumber, avocado, edamame, scallions; drizzle dressing.",
+      "title": "Glazed salmon over greens + cucumber, edamame, scallions (dressing from <a href=\"https://cooking.nytimes.com/recipes/1022255-sesame-salmon-bowls\">Sesame Salmon Bowls</a>)",
+      "do": "Whisk ¼ cup soy sauce, 3 Tbsp white vinegar, 2 Tbsp canola oil, 2 Tbsp chopped scallions, 2 Tbsp minced ginger, ¼ tsp sesame oil. Oven 425°; rub salmon with ½ tsp sesame oil + salt; roast 10–12 min until it flakes, brushing with 2 Tbsp dressing for the last 2 min. Microwave edamame. Bowls: greens, salmon chunks, sliced cucumber, edamame, scallions; drizzle dressing.",
       "well": "4",
       "protein": "fish",
       "prep": [
@@ -135,27 +135,23 @@
       ],
       "grocery": [
         {
-          "id": "g-salmon-bowls-0-1026e",
-          "text": "Couscous, 10 oz (Thu)"
+          "id": "g-salmon-bowls-0-1026f",
+          "text": "Mixed greens or romaine, 1 large container (Thu)"
         },
         {
-          "id": "g-salmon-bowls-1-1026e",
+          "id": "g-salmon-bowls-1-1026f",
           "text": "English cucumber, 1 (Thu)"
         },
         {
-          "id": "g-salmon-bowls-2-1026e",
-          "text": "Avocados, 2 (Thu)"
-        },
-        {
-          "id": "g-salmon-bowls-3-1026e",
+          "id": "g-salmon-bowls-2-1026f",
           "text": "Frozen shelled edamame, 1 bag (Thu)"
         },
         {
-          "id": "g-salmon-bowls-4-1026e",
+          "id": "g-salmon-bowls-3-1026f",
           "text": "Fresh ginger, 2-inch piece (Thu)"
         },
         {
-          "id": "g-salmon-bowls-5-1026e",
+          "id": "g-salmon-bowls-4-1026f",
           "text": "Toasted sesame oil (Thu)"
         }
       ]
