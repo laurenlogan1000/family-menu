@@ -1,10 +1,10 @@
 {
   "week": "2026-10-26",
-  "updatedAt": "2026-10-27T02:09:22Z",
+  "updatedAt": "2026-10-28T06:07:11Z",
   "order": [
     "mas-masa",
-    "roast-chicken",
-    "chicken-fried-rice",
+    "grilled-sausages-peppers",
+    "breakfast-for-dinner",
     "salmon-bowls",
     "comforts-cafe",
     "creekside-pizza",
@@ -16,13 +16,13 @@
       "likes": "",
       "ease": ""
     },
-    "roast-chicken": {
-      "well": "4",
+    "grilled-sausages-peppers": {
+      "well": "3",
       "likes": "",
       "ease": ""
     },
-    "chicken-fried-rice": {
-      "well": "4",
+    "breakfast-for-dinner": {
+      "well": "3",
       "likes": "",
       "ease": ""
     },

@@ -48,78 +48,6 @@
       "prep": [],
       "grocery": []
     },
-    "roast-chicken": {
-      "id": "roast-chicken",
-      "title": "Roast chicken with carrots and onions",
-      "do": "Oven 425°. Pat chicken dry; salt + pepper inside and out. Roast breast-up in one pan with carrots and onion wedges (olive oil + salt) 1¼–1½ hr, until thigh reads 165°. Rest 15 min; carve. Optional sauce: simmer ½ cup soy sauce, juice of 2 oranges, juice of 1 lime, 1 Tbsp Dijon, 1 garlic clove, 1 tsp ground ginger and scallions ~10 min until it thickens. Cook rice for Wed; chill. Save leftover chicken.",
-      "well": "4",
-      "protein": "chicken",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-roast-chicken-0-1026f",
-          "text": "Whole chicken, 4–5 lb (Tue)"
-        },
-        {
-          "id": "g-roast-chicken-1-1026f",
-          "text": "Carrots, 1 lb (Tue)"
-        },
-        {
-          "id": "g-roast-chicken-2-1026f",
-          "text": "Yellow onions, 2 (Tue)"
-        },
-        {
-          "id": "g-roast-chicken-3-1026f",
-          "text": "Oranges, 2 (Tue)"
-        },
-        {
-          "id": "g-roast-chicken-4-1026f",
-          "text": "Lime, 1 (Tue)"
-        },
-        {
-          "id": "g-roast-chicken-5-1026f",
-          "text": "Dijon mustard (Tue)"
-        },
-        {
-          "id": "g-roast-chicken-6-1026f",
-          "text": "Garlic, 1 head (Tue)"
-        },
-        {
-          "id": "g-roast-chicken-7-1026f",
-          "text": "Soy sauce (Tue, Wed, Thu)"
-        },
-        {
-          "id": "g-roast-chicken-8-1026f",
-          "text": "Scallions, 2 bunches (Tue, Wed, Thu)"
-        },
-        {
-          "id": "g-roast-chicken-9-1026f",
-          "text": "Jasmine rice (Tue)"
-        }
-      ]
-    },
-    "chicken-fried-rice": {
-      "id": "chicken-fried-rice",
-      "title": "Chicken fried rice (leftover roast chicken)",
-      "do": "Scramble 3 eggs in oil; set aside. Stir-fry day-old rice, shredded chicken and frozen peas and carrots on high, 5 min. Add eggs, soy sauce and scallions; toss. Move salmon fillet to fridge to thaw.",
-      "well": "4",
-      "protein": "chicken",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-chicken-fried-rice-0-1026e",
-          "text": "Eggs, 1 dozen (Wed)"
-        },
-        {
-          "id": "g-chicken-fried-rice-1-1026e",
-          "text": "Frozen peas and carrots, 1 bag (Wed)"
-        },
-        {
-          "id": "g-chicken-fried-rice-2-1026e",
-          "text": "Canola or vegetable oil (Wed, Thu)"
-        }
-      ]
-    },
     "salmon-bowls": {
       "id": "salmon-bowls",
       "title": "Glazed salmon over greens + cucumber, edamame, scallions (dressing from <a href=\"https://cooking.nytimes.com/recipes/1022255-sesame-salmon-bowls\">Sesame Salmon Bowls</a>)",
@@ -135,23 +63,35 @@
       ],
       "grocery": [
         {
-          "id": "g-salmon-bowls-0-1026f",
+          "id": "g-salmon-bowls-0-1026g",
+          "text": "Soy sauce (Thu)"
+        },
+        {
+          "id": "g-salmon-bowls-1-1026g",
+          "text": "Scallions, 2 bunches (Thu)"
+        },
+        {
+          "id": "g-salmon-bowls-2-1026g",
+          "text": "Canola or vegetable oil (Thu)"
+        },
+        {
+          "id": "g-salmon-bowls-3-1026g",
           "text": "Mixed greens or romaine, 1 large container (Thu)"
         },
         {
-          "id": "g-salmon-bowls-1-1026f",
+          "id": "g-salmon-bowls-4-1026g",
           "text": "English cucumber, 1 (Thu)"
         },
         {
-          "id": "g-salmon-bowls-2-1026f",
+          "id": "g-salmon-bowls-5-1026g",
           "text": "Frozen shelled edamame, 1 bag (Thu)"
         },
         {
-          "id": "g-salmon-bowls-3-1026f",
+          "id": "g-salmon-bowls-6-1026g",
           "text": "Fresh ginger, 2-inch piece (Thu)"
         },
         {
-          "id": "g-salmon-bowls-4-1026f",
+          "id": "g-salmon-bowls-7-1026g",
           "text": "Toasted sesame oil (Thu)"
         }
       ]
@@ -247,12 +187,55 @@
         }
       ],
       "url": "https://cooking.nytimes.com/recipes/1021082-grilled-chicken-skewers-with-tarragon-and-yogurt"
+    },
+    "grilled-sausages-peppers": {
+      "id": "grilled-sausages-peppers",
+      "title": "Grilled sausages and peppers",
+      "do": "Grill sausages and peppers.",
+      "well": "3",
+      "protein": "pork",
+      "prep": [],
+      "grocery": []
+    },
+    "breakfast-for-dinner": {
+      "id": "breakfast-for-dinner",
+      "title": "Breakfast for dinner: French toast, scrambled eggs, arugula salad (for Lauren), tomatoes and fruit for the kids",
+      "do": "Make French toast. Scramble eggs. Toss arugula salad. Slice tomatoes; cut fruit. Move salmon fillet to fridge to thaw.",
+      "well": "3",
+      "protein": "eggs",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-breakfast-for-dinner-0-1026g",
+          "text": "Eggs, 1 dozen (Wed)"
+        },
+        {
+          "id": "g-breakfast-for-dinner-1-1026g",
+          "text": "Sliced bread, 1 loaf (Wed)"
+        },
+        {
+          "id": "g-breakfast-for-dinner-2-1026g",
+          "text": "Milk (Wed)"
+        },
+        {
+          "id": "g-breakfast-for-dinner-3-1026g",
+          "text": "Arugula (Wed)"
+        },
+        {
+          "id": "g-breakfast-for-dinner-4-1026g",
+          "text": "Tomatoes (Wed)"
+        },
+        {
+          "id": "g-breakfast-for-dinner-5-1026g",
+          "text": "Fruit (Wed)"
+        }
+      ]
     }
   },
   "order": [
     "mas-masa",
-    "roast-chicken",
-    "chicken-fried-rice",
+    "grilled-sausages-peppers",
+    "breakfast-for-dinner",
     "salmon-bowls",
     "comforts-cafe",
     "creekside-pizza",
