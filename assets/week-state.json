@@ -1,6 +1,6 @@
 {
   "week": "2026-10-26",
-  "updatedAt": "2026-10-28T06:07:11Z",
+  "updatedAt": "2026-10-28T06:12:41Z",
   "order": [
     "mas-masa",
     "grilled-sausages-peppers",
@@ -8,7 +8,7 @@
     "salmon-bowls",
     "comforts-cafe",
     "creekside-pizza",
-    "grilled-chicken-skewers"
+    "slow-cooker-chicken-creamed-corn"
   ],
   "scores": {
     "mas-masa": {
@@ -41,7 +41,7 @@
       "likes": "",
       "ease": ""
     },
-    "grilled-chicken-skewers": {
+    "slow-cooker-chicken-creamed-corn": {
       "well": "4",
       "likes": "",
       "ease": ""

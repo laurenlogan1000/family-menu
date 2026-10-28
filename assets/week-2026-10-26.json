@@ -119,75 +119,6 @@
       "prep": [],
       "grocery": []
     },
-    "grilled-chicken-skewers": {
-      "id": "grilled-chicken-skewers",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1021082-grilled-chicken-skewers-with-tarragon-and-yogurt\">Grilled Chicken Skewers With Tarragon and Yogurt</a> + pita + grilled veggie skewers",
-      "do": "Pull chicken 1 hr before; soak wooden skewers 15 min. Thread chicken; thread zucchini, red bell pepper, red onion on separate skewers; oil + salt. Grill chicken over high heat 3–5 min until it releases; flip. Melt butter + salt; add lime juice + tarragon; baste chicken; grill scallions + veggie skewers alongside 8 min until chicken is cooked through. Grill pitas 1 min; top with chicken, scallions, herb butter, reserved yogurt, lime, more herbs.",
-      "well": "4",
-      "protein": "chicken",
-      "prep": [
-        {
-          "kind": "marinate",
-          "item": "chicken thighs (halved, salted) in yogurt marinade (2½ cups Greek yogurt, ¼ cup lime juice, 1 Tbsp olive oil, 2½ tsp salt, 1 crushed garlic clove; save 1 cup for serving; add grated ginger + 2 tsp cumin seeds to the bag)",
-          "nightsBefore": 1
-        }
-      ],
-      "grocery": [
-        {
-          "id": "g-grilled-chicken-skewers-0-1026a",
-          "text": "Boneless, skinless chicken thighs, 2½ lb (Sun)"
-        },
-        {
-          "id": "g-grilled-chicken-skewers-1-1026a",
-          "text": "Full-fat Greek yogurt, 24 oz (Sun)"
-        },
-        {
-          "id": "g-grilled-chicken-skewers-2-1026a",
-          "text": "Limes, 4 (Sun)"
-        },
-        {
-          "id": "g-grilled-chicken-skewers-3-1026a",
-          "text": "Garlic, 1 head (Sun)"
-        },
-        {
-          "id": "g-grilled-chicken-skewers-4-1026a",
-          "text": "Fresh ginger, 2-inch piece (Sun)"
-        },
-        {
-          "id": "g-grilled-chicken-skewers-5-1026a",
-          "text": "Scallions, 8 (Sun)"
-        },
-        {
-          "id": "g-grilled-chicken-skewers-6-1026a",
-          "text": "Pita breads, 6 (Sun)"
-        },
-        {
-          "id": "g-grilled-chicken-skewers-7-1026a",
-          "text": "Butter, ½ stick (Sun)"
-        },
-        {
-          "id": "g-grilled-chicken-skewers-8-1026a",
-          "text": "Fresh tarragon or mint (Sun)"
-        },
-        {
-          "id": "g-grilled-chicken-skewers-9-1026a",
-          "text": "Zucchini, 2 (Sun)"
-        },
-        {
-          "id": "g-grilled-chicken-skewers-10-1026a",
-          "text": "Red bell pepper, 1 (Sun)"
-        },
-        {
-          "id": "g-grilled-chicken-skewers-11-1026a",
-          "text": "Red onion, 1 (Sun)"
-        },
-        {
-          "id": "g-grilled-chicken-skewers-12-1026a",
-          "text": "Wooden skewers (Sun)"
-        }
-      ],
-      "url": "https://cooking.nytimes.com/recipes/1021082-grilled-chicken-skewers-with-tarragon-and-yogurt"
-    },
     "grilled-sausages-peppers": {
       "id": "grilled-sausages-peppers",
       "title": "Grilled sausages and peppers",
@@ -230,6 +161,56 @@
           "text": "Fruit (Wed)"
         }
       ]
+    },
+    "slow-cooker-chicken-creamed-corn": {
+      "id": "slow-cooker-chicken-creamed-corn",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1027175-slow-cooker-chicken-and-creamed-corn\">Slow-Cooker Chicken and Creamed Corn</a> (optional: over buttered toast or biscuits)",
+      "do": "Start by ~1:30pm for 6pm dinner. Cut kernels off 3 ears; refrigerate kernels; put cobs in the slow cooker. Add chicken, chopped garlic, celery, bell pepper, shallot; butter on top; 1 Tbsp kosher salt, ½ tsp cayenne, black pepper. Cook on low 4–4½ hr. Discard cobs; shred chicken. Stir in kernels, sour cream, sliced scallions, lime juice; season to taste.",
+      "well": "4",
+      "protein": "chicken",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-sc-chicken-corn-0-1026h",
+          "text": "Corn, 3 ears (Sun)"
+        },
+        {
+          "id": "g-sc-chicken-corn-1-1026h",
+          "text": "Boneless, skinless chicken thighs, 2 lb (Sun)"
+        },
+        {
+          "id": "g-sc-chicken-corn-2-1026h",
+          "text": "Garlic, 4 cloves (Sun)"
+        },
+        {
+          "id": "g-sc-chicken-corn-3-1026h",
+          "text": "Celery, 2 stalks (Sun)"
+        },
+        {
+          "id": "g-sc-chicken-corn-4-1026h",
+          "text": "Red bell pepper, 1 (Sun)"
+        },
+        {
+          "id": "g-sc-chicken-corn-5-1026h",
+          "text": "Shallot, 1 (Sun)"
+        },
+        {
+          "id": "g-sc-chicken-corn-6-1026h",
+          "text": "Unsalted butter, 2 Tbsp (Sun)"
+        },
+        {
+          "id": "g-sc-chicken-corn-7-1026h",
+          "text": "Sour cream, 1 cup / 8 oz (Sun)"
+        },
+        {
+          "id": "g-sc-chicken-corn-8-1026h",
+          "text": "Scallions, 3 (Sun)"
+        },
+        {
+          "id": "g-sc-chicken-corn-9-1026h",
+          "text": "Lime, 1 (Sun)"
+        }
+      ]
     }
   },
   "order": [
@@ -239,7 +220,7 @@
     "salmon-bowls",
     "comforts-cafe",
     "creekside-pizza",
-    "grilled-chicken-skewers"
+    "slow-cooker-chicken-creamed-corn"
   ],
   "shops": [
     {
