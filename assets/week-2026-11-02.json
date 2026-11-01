@@ -51,13 +51,13 @@
     "grilled-steaks-broccoli": {
       "id": "grilled-steaks-broccoli",
       "title": "Grilled steaks + <a href=\"https://cooking.nytimes.com/recipes/1017454-grilled-broccoli\">Grilled Broccoli</a> + crusty bread",
-      "do": "Heat grill to high. Whisk 3 Tbsp soy sauce + 3 Tbsp balsamic + 1 Tbsp olive oil; toss with broccoli florets; salt lightly. Salt + pepper steaks; grill 4–6 min per side to 130°F; rest 5 min; slice. Grill broccoli in a basket, tossing, 10–12 min until crisp at the edges; drizzle olive oil; top with parsley. Warm bread.",
+      "do": "Steaks grilled to 130°F with soy-balsamic grilled broccoli and warm crusty bread; about 30 min.",
       "well": "4",
       "protein": "beef",
       "prep": [
         {
           "kind": "thaw",
-          "item": "steaks (freezer → fridge)",
+          "item": "steaks from freezer to fridge",
           "nightsBefore": 1
         }
       ],
@@ -212,7 +212,7 @@
     "ginger-dill-salmon": {
       "id": "ginger-dill-salmon",
       "title": "<a href=\"https://cooking.nytimes.com/recipes/1021938-ginger-dill-salmon\">Ginger-Dill Salmon</a> + citrus-radish salad + avocado",
-      "do": "Oven 325°; parchment-lined sheet pan. Pat salmon dry; salt + pepper. Stir 6 Tbsp dill, grated ginger, 2 Tbsp olive oil, salt + pepper; spread half on salmon; bake 15–20 min until it flakes. Cut peel off grapefruit and oranges; squeeze peels into the remaining dill-ginger; slice fruit into half-moons; add with juices, radish wedges and salt. Plate salmon in pieces with citrus salad and avocado quarters; spoon juices over; pepper + olive oil.",
+      "do": "Salmon roasted with ginger and dill, with a grapefruit-orange-radish salad and avocado; about 25 min.",
       "well": "4",
       "protein": "fish",
       "prep": [],
