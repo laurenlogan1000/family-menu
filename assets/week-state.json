@@ -1,8 +1,8 @@
 {
   "week": "2026-11-02",
-  "updatedAt": "2026-11-01T15:30:00Z",
+  "updatedAt": "2026-11-01T20:35:57Z",
   "order": [
-    "roasted-tomato-white-bean-stew",
+    "chicken-breast-pasta",
     "shrimp-asparagus-stir-fry",
     "souvla",
     "grilled-steaks-broccoli",
@@ -11,8 +11,8 @@
     "pr-chicken-fricassee"
   ],
   "scores": {
-    "roasted-tomato-white-bean-stew": {
-      "well": "4",
+    "chicken-breast-pasta": {
+      "well": "3",
       "likes": "",
       "ease": ""
     },
