@@ -39,53 +39,6 @@
     }
   ],
   "meals": {
-    "shrimp-asparagus-stir-fry": {
-      "id": "shrimp-asparagus-stir-fry",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1025275-quick-shrimp-and-asparagus-stir-fry\">Quick Shrimp and Asparagus Stir-Fry</a> + rice",
-      "do": "Cook rice. Rinse frozen shrimp under cold water 3–4 min; salt generously, rest 1 min, rinse, pat dry. Wok or big skillet on high; coat with oil; onion + garlic + pinch of salt 1–2 min; skip chile. Add shrimp 1–2 min until curled; add asparagus, 3 Tbsp soy sauce, 1½ tsp sugar; stir-fry 1–3 min until just tender (2 batches if crowded). Off heat: stir in butter.",
-      "well": "4",
-      "protein": "fish",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-shrimp-asparagus-stir-fry-0-1102a",
-          "text": "Frozen peeled, deveined shrimp (16–20 count), 1½ lb (Tue)"
-        },
-        {
-          "id": "g-shrimp-asparagus-stir-fry-1-1102a",
-          "text": "Sweet onion, 1 (Tue)"
-        },
-        {
-          "id": "g-shrimp-asparagus-stir-fry-2-1102a",
-          "text": "Garlic, 1 head (Tue)"
-        },
-        {
-          "id": "g-shrimp-asparagus-stir-fry-3-1102a",
-          "text": "Asparagus, 2 bunches (Tue)"
-        },
-        {
-          "id": "g-shrimp-asparagus-stir-fry-4-1102a",
-          "text": "Soy sauce (Tue)"
-        },
-        {
-          "id": "g-shrimp-asparagus-stir-fry-5-1102a",
-          "text": "Sugar (Tue)"
-        },
-        {
-          "id": "g-shrimp-asparagus-stir-fry-6-1102a",
-          "text": "Butter (Tue)"
-        },
-        {
-          "id": "g-shrimp-asparagus-stir-fry-7-1102a",
-          "text": "Canola or grapeseed oil (Tue)"
-        },
-        {
-          "id": "g-shrimp-asparagus-stir-fry-8-1102a",
-          "text": "Jasmine rice (Tue)"
-        }
-      ],
-      "url": "https://cooking.nytimes.com/recipes/1025275-quick-shrimp-and-asparagus-stir-fry"
-    },
     "souvla": {
       "id": "souvla",
       "title": "Souvla + Greek salad",
@@ -255,11 +208,49 @@
           "text": "Pasta, 1 lb (Mon)"
         }
       ]
+    },
+    "ginger-dill-salmon": {
+      "id": "ginger-dill-salmon",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1021938-ginger-dill-salmon\">Ginger-Dill Salmon</a> + citrus-radish salad + avocado",
+      "do": "Oven 325°; parchment-lined sheet pan. Pat salmon dry; salt + pepper. Stir 6 Tbsp dill, grated ginger, 2 Tbsp olive oil, salt + pepper; spread half on salmon; bake 15–20 min until it flakes. Cut peel off grapefruit and oranges; squeeze peels into the remaining dill-ginger; slice fruit into half-moons; add with juices, radish wedges and salt. Plate salmon in pieces with citrus salad and avocado quarters; spoon juices over; pepper + olive oil.",
+      "well": "4",
+      "protein": "fish",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-ginger-dill-salmon-0-1102c",
+          "text": "Salmon fillet, 1½ lb (Tue)"
+        },
+        {
+          "id": "g-ginger-dill-salmon-1-1102c",
+          "text": "Fresh dill, 6 Tbsp chopped (1 large bunch) (Tue)"
+        },
+        {
+          "id": "g-ginger-dill-salmon-2-1102c",
+          "text": "Fresh ginger, 2-inch piece (Tue)"
+        },
+        {
+          "id": "g-ginger-dill-salmon-3-1102c",
+          "text": "Grapefruit, 1 (Tue)"
+        },
+        {
+          "id": "g-ginger-dill-salmon-4-1102c",
+          "text": "Oranges, 2 (Tue)"
+        },
+        {
+          "id": "g-ginger-dill-salmon-5-1102c",
+          "text": "Radishes, 6 small (Tue)"
+        },
+        {
+          "id": "g-ginger-dill-salmon-6-1102c",
+          "text": "Avocado, 1 (Tue)"
+        }
+      ]
     }
   },
   "order": [
     "chicken-breast-pasta",
-    "shrimp-asparagus-stir-fry",
+    "ginger-dill-salmon",
     "souvla",
     "grilled-steaks-broccoli",
     "rotisserie-chicken",
