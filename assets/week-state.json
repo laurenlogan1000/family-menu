@@ -1,47 +1,47 @@
 {
-  "week": "2026-11-02",
-  "updatedAt": "2026-11-01T21:30:05Z",
+  "week": "2026-11-09",
+  "updatedAt": "2026-11-08T15:25:51Z",
   "order": [
-    "chicken-breast-pasta",
-    "ginger-dill-salmon",
-    "souvla",
-    "grilled-steaks-broccoli",
-    "rotisserie-chicken",
-    "taco-janes",
-    "pr-chicken-fricassee"
+    "breakfast-for-dinner",
+    "roast-chicken",
+    "mama-huhu",
+    "italian-wedding-soup-turkey-meatballs",
+    "sheet-pan-sausages-honey-mustard",
+    "pacific-catch",
+    "mami-flank-steak"
   ],
   "scores": {
-    "chicken-breast-pasta": {
+    "breakfast-for-dinner": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "roast-chicken": {
       "well": "3",
       "likes": "",
       "ease": ""
     },
-    "ginger-dill-salmon": {
+    "mama-huhu": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "souvla": {
+    "italian-wedding-soup-turkey-meatballs": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "grilled-steaks-broccoli": {
+    "sheet-pan-sausages-honey-mustard": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "rotisserie-chicken": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
-    "taco-janes": {
+    "pacific-catch": {
       "well": "3",
       "likes": "",
       "ease": ""
     },
-    "pr-chicken-fricassee": {
+    "mami-flank-steak": {
       "well": "4",
       "likes": "",
       "ease": ""

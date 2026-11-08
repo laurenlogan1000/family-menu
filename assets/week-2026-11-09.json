@@ -1,0 +1,303 @@
+{
+  "week": "2026-11-09",
+  "deck": "Nov 9–15",
+  "slots": [
+    {
+      "day": "mon",
+      "date": "2026-11-09",
+      "label": "Monday"
+    },
+    {
+      "day": "tue",
+      "date": "2026-11-10",
+      "label": "Tuesday"
+    },
+    {
+      "day": "wed",
+      "date": "2026-11-11",
+      "label": "Wednesday"
+    },
+    {
+      "day": "thu",
+      "date": "2026-11-12",
+      "label": "Thursday"
+    },
+    {
+      "day": "fri",
+      "date": "2026-11-13",
+      "label": "Friday"
+    },
+    {
+      "day": "sat",
+      "date": "2026-11-14",
+      "label": "Saturday"
+    },
+    {
+      "day": "sun",
+      "date": "2026-11-15",
+      "label": "Sunday"
+    }
+  ],
+  "meals": {
+    "breakfast-for-dinner": {
+      "id": "breakfast-for-dinner",
+      "title": "Breakfast for dinner: French toast, scrambled eggs, arugula salad (for Lauren), tomatoes and fruit for the kids",
+      "do": "Make French toast and scrambled eggs. Arugula salad for Lauren; tomatoes and fruit for the kids.",
+      "well": "4",
+      "protein": "meatless",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-breakfast-for-dinner-0-1109a",
+          "text": "Eggs, 1 dozen (Mon)"
+        },
+        {
+          "id": "g-breakfast-for-dinner-1-1109a",
+          "text": "Sliced bread, 1 loaf (Mon)"
+        },
+        {
+          "id": "g-breakfast-for-dinner-2-1109a",
+          "text": "Milk (Mon)"
+        },
+        {
+          "id": "g-breakfast-for-dinner-3-1109a",
+          "text": "Arugula (Mon)"
+        },
+        {
+          "id": "g-breakfast-for-dinner-4-1109a",
+          "text": "Tomatoes (Mon)"
+        },
+        {
+          "id": "g-breakfast-for-dinner-5-1109a",
+          "text": "Fruit (Mon)"
+        }
+      ]
+    },
+    "roast-chicken": {
+      "id": "roast-chicken",
+      "title": "Roast chicken with carrots and onions",
+      "do": "Roast the whole chicken in one pan with carrots and onions. After dinner, simmer the carcass for broth for Thursday.",
+      "well": "3",
+      "protein": "chicken",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-roast-chicken-0-1109a",
+          "text": "Whole chicken, 4–5 lb (Tue)"
+        },
+        {
+          "id": "g-roast-chicken-1-1109a",
+          "text": "Carrots, 1 lb (Tue)"
+        },
+        {
+          "id": "g-roast-chicken-2-1109a",
+          "text": "Yellow onions, 2 (Tue)"
+        }
+      ]
+    },
+    "mama-huhu": {
+      "id": "mama-huhu",
+      "title": "Mama Huhu + chopped cucumbers",
+      "do": "Pickup. Chop cucumbers; toss with rice vinegar and salt.",
+      "well": "4",
+      "protein": "out",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-mama-huhu-0-1109a",
+          "text": "Cucumbers, 2 (Wed)"
+        }
+      ]
+    },
+    "italian-wedding-soup-turkey-meatballs": {
+      "id": "italian-wedding-soup-turkey-meatballs",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019925-italian-wedding-soup-with-turkey-meatballs\">Italian Wedding Soup With Turkey Meatballs</a> + crusty bread",
+      "do": "Turkey meatball wedding soup with greens and pasta, about 45 min. Use 1½ lb ground turkey and scale the meatball mix; use Tuesday’s carcass broth. Roll smaller meatballs for the kids.",
+      "well": "4",
+      "protein": "chicken",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-italian-wedding-soup-turkey-meatballs-0-1109a",
+          "text": "Lean ground turkey, 1½ lb (Thu)"
+        },
+        {
+          "id": "g-italian-wedding-soup-turkey-meatballs-1-1109a",
+          "text": "Panko (Thu)"
+        },
+        {
+          "id": "g-italian-wedding-soup-turkey-meatballs-2-1109a",
+          "text": "Flat-leaf parsley, 1 bunch (Thu)"
+        },
+        {
+          "id": "g-italian-wedding-soup-turkey-meatballs-3-1109a",
+          "text": "Eggs, 2 (Thu)"
+        },
+        {
+          "id": "g-italian-wedding-soup-turkey-meatballs-4-1109a",
+          "text": "Garlic, 1 head (Thu)"
+        },
+        {
+          "id": "g-italian-wedding-soup-turkey-meatballs-5-1109a",
+          "text": "Parmesan (Thu)"
+        },
+        {
+          "id": "g-italian-wedding-soup-turkey-meatballs-6-1109a",
+          "text": "Orzo or ditalini, 8 oz (Thu)"
+        },
+        {
+          "id": "g-italian-wedding-soup-turkey-meatballs-7-1109a",
+          "text": "Baby spinach, 5 oz (Thu)"
+        },
+        {
+          "id": "g-italian-wedding-soup-turkey-meatballs-8-1109a",
+          "text": "Lemon (Thu)"
+        },
+        {
+          "id": "g-italian-wedding-soup-turkey-meatballs-9-1109a",
+          "text": "Fresh dill (Thu)"
+        },
+        {
+          "id": "g-italian-wedding-soup-turkey-meatballs-10-1109a",
+          "text": "Crusty bread loaf (Thu)"
+        }
+      ],
+      "url": "https://cooking.nytimes.com/recipes/1019925-italian-wedding-soup-with-turkey-meatballs"
+    },
+    "sheet-pan-sausages-honey-mustard": {
+      "id": "sheet-pan-sausages-honey-mustard",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1020747-sheet-pan-sausages-and-brussels-sprouts-with-honey-mustard\">Sheet-Pan Sausages and Brussels Sprouts With Honey Mustard</a>",
+      "do": "Sheet-pan sausages with honey mustard, Brussels sprouts, and potatoes; about 30 min. Use sweet Italian sausage or bratwurst; skip the mustard seeds and nuts. Double the honey-mustard glaze.",
+      "well": "4",
+      "protein": "pork",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-sheet-pan-sausages-honey-mustard-0-1109a",
+          "text": "Sweet Italian sausage or bratwurst, 1–1½ lb (Fri)"
+        },
+        {
+          "id": "g-sheet-pan-sausages-honey-mustard-1-1109a",
+          "text": "Brussels sprouts, 1 lb (Fri)"
+        },
+        {
+          "id": "g-sheet-pan-sausages-honey-mustard-2-1109a",
+          "text": "Small potatoes (baby Yukon gold or red), 1 lb (Fri)"
+        },
+        {
+          "id": "g-sheet-pan-sausages-honey-mustard-3-1109a",
+          "text": "Honey (Fri)"
+        },
+        {
+          "id": "g-sheet-pan-sausages-honey-mustard-4-1109a",
+          "text": "Dijon mustard (Fri)"
+        }
+      ],
+      "url": "https://cooking.nytimes.com/recipes/1020747-sheet-pan-sausages-and-brussels-sprouts-with-honey-mustard"
+    },
+    "pacific-catch": {
+      "id": "pacific-catch",
+      "title": "Pacific Catch",
+      "do": "Pickup.",
+      "well": "3",
+      "protein": "out",
+      "prep": [],
+      "grocery": []
+    },
+    "mami-flank-steak": {
+      "id": "mami-flank-steak",
+      "title": "Mami’s flank steak + <a href=\"https://cooking.nytimes.com/recipes/1018129-glazed-grilled-carrots\">Glazed Grilled Carrots</a> + crusty bread",
+      "do": "Mami’s flank steak grilled with glazed grilled carrots and warm crusty bread; about 30 min. Turn the carrots often so they don’t burn.",
+      "well": "4",
+      "protein": "beef",
+      "prep": [
+        {
+          "kind": "marinate",
+          "item": "flank steak in Mami’s marinade (¼ cup vegetable oil, ⅓ cup soy sauce, ¼ cup red wine vinegar, 2 Tbsp lemon juice, 1 Tbsp Worcestershire, 1 tsp dry mustard, 3 minced garlic cloves, ¼ tsp pepper; turn once)",
+          "nightsBefore": 1
+        }
+      ],
+      "grocery": [
+        {
+          "id": "g-mami-flank-steak-0-1109a",
+          "text": "Flank steak, 3 lb (Sun)"
+        },
+        {
+          "id": "g-mami-flank-steak-1-1109a",
+          "text": "Vegetable oil (Sun)"
+        },
+        {
+          "id": "g-mami-flank-steak-2-1109a",
+          "text": "Soy sauce (Sun)"
+        },
+        {
+          "id": "g-mami-flank-steak-3-1109a",
+          "text": "Lemons (Sun)"
+        },
+        {
+          "id": "g-mami-flank-steak-4-1109a",
+          "text": "Worcestershire sauce (Sun)"
+        },
+        {
+          "id": "g-mami-flank-steak-5-1109a",
+          "text": "Garlic, 1 head (Sun)"
+        },
+        {
+          "id": "g-mami-flank-steak-6-1109a",
+          "text": "Carrots, 10 medium (Sun)"
+        },
+        {
+          "id": "g-mami-flank-steak-7-1109a",
+          "text": "Dark brown sugar (Sun)"
+        },
+        {
+          "id": "g-mami-flank-steak-8-1109a",
+          "text": "Fresh rosemary (Sun)"
+        },
+        {
+          "id": "g-mami-flank-steak-9-1109a",
+          "text": "Fresh ginger (Sun)"
+        },
+        {
+          "id": "g-mami-flank-steak-10-1109a",
+          "text": "Green onions (Sun)"
+        },
+        {
+          "id": "g-mami-flank-steak-11-1109a",
+          "text": "Crusty bread loaf (Sun)"
+        }
+      ],
+      "url": "https://cooking.nytimes.com/recipes/1018129-glazed-grilled-carrots"
+    }
+  },
+  "order": [
+    "breakfast-for-dinner",
+    "roast-chicken",
+    "mama-huhu",
+    "italian-wedding-soup-turkey-meatballs",
+    "sheet-pan-sausages-honey-mustard",
+    "pacific-catch",
+    "mami-flank-steak"
+  ],
+  "shops": [
+    {
+      "id": "sunday",
+      "title": "Sunday shop",
+      "days": [
+        "mon",
+        "tue",
+        "wed",
+        "thu"
+      ]
+    },
+    {
+      "id": "thursday",
+      "title": "Thursday shop",
+      "days": [
+        "fri",
+        "sat",
+        "sun"
+      ]
+    }
+  ]
+}
