@@ -1,22 +1,22 @@
 {
   "week": "2026-11-09",
-  "updatedAt": "2026-11-08T15:25:51Z",
+  "updatedAt": "2026-11-11T04:23:39Z",
   "order": [
-    "breakfast-for-dinner",
     "roast-chicken",
+    "leftover-chicken-quesadillas",
     "mama-huhu",
-    "italian-wedding-soup-turkey-meatballs",
-    "sheet-pan-sausages-honey-mustard",
+    "ponzu-salmon",
+    "olivers-pizza",
     "pacific-catch",
     "mami-flank-steak"
   ],
   "scores": {
-    "breakfast-for-dinner": {
-      "well": "4",
+    "roast-chicken": {
+      "well": "3",
       "likes": "",
       "ease": ""
     },
-    "roast-chicken": {
+    "leftover-chicken-quesadillas": {
       "well": "3",
       "likes": "",
       "ease": ""
@@ -26,13 +26,13 @@
       "likes": "",
       "ease": ""
     },
-    "italian-wedding-soup-turkey-meatballs": {
+    "ponzu-salmon": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "sheet-pan-sausages-honey-mustard": {
-      "well": "4",
+    "olivers-pizza": {
+      "well": "3",
       "likes": "",
       "ease": ""
     },

@@ -39,61 +39,36 @@
     }
   ],
   "meals": {
-    "breakfast-for-dinner": {
-      "id": "breakfast-for-dinner",
-      "title": "Breakfast for dinner: French toast, scrambled eggs, arugula salad (for Lauren), tomatoes and fruit for the kids",
-      "do": "Make French toast and scrambled eggs. Arugula salad for Lauren; tomatoes and fruit for the kids.",
-      "well": "4",
-      "protein": "meatless",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-breakfast-for-dinner-0-1109a",
-          "text": "Eggs, 1 dozen (Mon)"
-        },
-        {
-          "id": "g-breakfast-for-dinner-1-1109a",
-          "text": "Sliced bread, 1 loaf (Mon)"
-        },
-        {
-          "id": "g-breakfast-for-dinner-2-1109a",
-          "text": "Milk (Mon)"
-        },
-        {
-          "id": "g-breakfast-for-dinner-3-1109a",
-          "text": "Arugula (Mon)"
-        },
-        {
-          "id": "g-breakfast-for-dinner-4-1109a",
-          "text": "Tomatoes (Mon)"
-        },
-        {
-          "id": "g-breakfast-for-dinner-5-1109a",
-          "text": "Fruit (Mon)"
-        }
-      ]
-    },
     "roast-chicken": {
       "id": "roast-chicken",
       "title": "Roast chicken with carrots and onions",
-      "do": "Roast the whole chicken in one pan with carrots and onions. After dinner, simmer the carcass for broth for Thursday.",
+      "do": "Roast the whole chicken in one pan with carrots and onions. After dinner, simmer the carcass for broth.",
       "well": "3",
       "protein": "chicken",
       "prep": [],
       "grocery": [
         {
           "id": "g-roast-chicken-0-1109a",
-          "text": "Whole chicken, 4–5 lb (Tue)"
+          "text": "Whole chicken, 4–5 lb (Mon)"
         },
         {
           "id": "g-roast-chicken-1-1109a",
-          "text": "Carrots, 1 lb (Tue)"
+          "text": "Carrots, 1 lb (Mon)"
         },
         {
           "id": "g-roast-chicken-2-1109a",
-          "text": "Yellow onions, 2 (Tue)"
+          "text": "Yellow onions, 2 (Mon)"
         }
       ]
+    },
+    "leftover-chicken-quesadillas": {
+      "id": "leftover-chicken-quesadillas",
+      "title": "Leftover chicken quesadillas",
+      "do": "Make quesadillas with leftover roast chicken.",
+      "well": "3",
+      "protein": "chicken",
+      "prep": [],
+      "grocery": []
     },
     "mama-huhu": {
       "id": "mama-huhu",
@@ -109,91 +84,50 @@
         }
       ]
     },
-    "italian-wedding-soup-turkey-meatballs": {
-      "id": "italian-wedding-soup-turkey-meatballs",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019925-italian-wedding-soup-with-turkey-meatballs\">Italian Wedding Soup With Turkey Meatballs</a> + crusty bread",
-      "do": "Turkey meatball wedding soup with greens and pasta, about 45 min. Use 1½ lb ground turkey and scale the meatball mix; use Tuesday’s carcass broth. Roll smaller meatballs for the kids.",
+    "ponzu-salmon": {
+      "id": "ponzu-salmon",
+      "title": "Salmon with ponzu sauce + rice + frozen carrots",
+      "do": "Bake salmon with ponzu, sesame oil, sesame shabu, lime, cilantro, and green onions. Cook rice. Warm frozen carrots.",
       "well": "4",
-      "protein": "chicken",
-      "prep": [],
-      "grocery": [
+      "protein": "fish",
+      "prep": [
         {
-          "id": "g-italian-wedding-soup-turkey-meatballs-0-1109a",
-          "text": "Lean ground turkey, 1½ lb (Thu)"
-        },
-        {
-          "id": "g-italian-wedding-soup-turkey-meatballs-1-1109a",
-          "text": "Panko (Thu)"
-        },
-        {
-          "id": "g-italian-wedding-soup-turkey-meatballs-2-1109a",
-          "text": "Flat-leaf parsley, 1 bunch (Thu)"
-        },
-        {
-          "id": "g-italian-wedding-soup-turkey-meatballs-3-1109a",
-          "text": "Eggs, 2 (Thu)"
-        },
-        {
-          "id": "g-italian-wedding-soup-turkey-meatballs-4-1109a",
-          "text": "Garlic, 1 head (Thu)"
-        },
-        {
-          "id": "g-italian-wedding-soup-turkey-meatballs-5-1109a",
-          "text": "Parmesan (Thu)"
-        },
-        {
-          "id": "g-italian-wedding-soup-turkey-meatballs-6-1109a",
-          "text": "Orzo or ditalini, 8 oz (Thu)"
-        },
-        {
-          "id": "g-italian-wedding-soup-turkey-meatballs-7-1109a",
-          "text": "Baby spinach, 5 oz (Thu)"
-        },
-        {
-          "id": "g-italian-wedding-soup-turkey-meatballs-8-1109a",
-          "text": "Lemon (Thu)"
-        },
-        {
-          "id": "g-italian-wedding-soup-turkey-meatballs-9-1109a",
-          "text": "Fresh dill (Thu)"
-        },
-        {
-          "id": "g-italian-wedding-soup-turkey-meatballs-10-1109a",
-          "text": "Crusty bread loaf (Thu)"
+          "kind": "thaw",
+          "item": "salmon from freezer to fridge",
+          "nightsBefore": 1
         }
       ],
-      "url": "https://cooking.nytimes.com/recipes/1019925-italian-wedding-soup-with-turkey-meatballs"
+      "grocery": [
+        {
+          "id": "g-ponzu-salmon-0-1110a",
+          "text": "Salmon fillet, 1½ lb (Thu)"
+        },
+        {
+          "id": "g-ponzu-salmon-1-1110a",
+          "text": "Limes (Thu)"
+        },
+        {
+          "id": "g-ponzu-salmon-2-1110a",
+          "text": "Cilantro (Thu)"
+        },
+        {
+          "id": "g-ponzu-salmon-3-1110a",
+          "text": "Green onions (Thu)"
+        },
+        {
+          "id": "g-ponzu-salmon-4-1110a",
+          "text": "Frozen carrots (Thu)"
+        }
+      ]
     },
-    "sheet-pan-sausages-honey-mustard": {
-      "id": "sheet-pan-sausages-honey-mustard",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1020747-sheet-pan-sausages-and-brussels-sprouts-with-honey-mustard\">Sheet-Pan Sausages and Brussels Sprouts With Honey Mustard</a>",
-      "do": "Sheet-pan sausages with honey mustard, Brussels sprouts, and potatoes; about 30 min. Use sweet Italian sausage or bratwurst; skip the mustard seeds and nuts. Double the honey-mustard glaze.",
-      "well": "4",
-      "protein": "pork",
+    "olivers-pizza": {
+      "id": "olivers-pizza",
+      "title": "Oliver’s pizza + salads",
+      "do": "Pickup. Get salads too.",
+      "well": "3",
+      "protein": "out",
       "prep": [],
-      "grocery": [
-        {
-          "id": "g-sheet-pan-sausages-honey-mustard-0-1109a",
-          "text": "Sweet Italian sausage or bratwurst, 1–1½ lb (Fri)"
-        },
-        {
-          "id": "g-sheet-pan-sausages-honey-mustard-1-1109a",
-          "text": "Brussels sprouts, 1 lb (Fri)"
-        },
-        {
-          "id": "g-sheet-pan-sausages-honey-mustard-2-1109a",
-          "text": "Small potatoes (baby Yukon gold or red), 1 lb (Fri)"
-        },
-        {
-          "id": "g-sheet-pan-sausages-honey-mustard-3-1109a",
-          "text": "Honey (Fri)"
-        },
-        {
-          "id": "g-sheet-pan-sausages-honey-mustard-4-1109a",
-          "text": "Dijon mustard (Fri)"
-        }
-      ],
-      "url": "https://cooking.nytimes.com/recipes/1020747-sheet-pan-sausages-and-brussels-sprouts-with-honey-mustard"
+      "grocery": []
     },
     "pacific-catch": {
       "id": "pacific-catch",
@@ -271,11 +205,11 @@
     }
   },
   "order": [
-    "breakfast-for-dinner",
     "roast-chicken",
+    "leftover-chicken-quesadillas",
     "mama-huhu",
-    "italian-wedding-soup-turkey-meatballs",
-    "sheet-pan-sausages-honey-mustard",
+    "ponzu-salmon",
+    "olivers-pizza",
     "pacific-catch",
     "mami-flank-steak"
   ],
