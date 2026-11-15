@@ -1,48 +1,48 @@
 {
-  "week": "2026-11-09",
-  "updatedAt": "2026-11-14T01:24:41Z",
+  "week": "2026-11-16",
+  "updatedAt": "2026-11-15T15:30:00Z",
   "order": [
-    "roast-chicken",
-    "leftover-chicken-quesadillas",
-    "mama-huhu",
-    "sweetgreen",
-    "grilled-sausages-and-peppers",
-    "pacific-catch",
-    "mami-flank-steak"
+    "italian-wedding-soup",
+    "ponzu-salmon",
+    "comforts-cafe",
+    "greek-chicken",
+    "grilled-pork-tenderloin",
+    "shake-shack",
+    "breakfast-for-dinner"
   ],
   "scores": {
-    "roast-chicken": {
+    "italian-wedding-soup": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "ponzu-salmon": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "comforts-cafe": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "greek-chicken": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "grilled-pork-tenderloin": {
       "well": "3",
       "likes": "",
       "ease": ""
     },
-    "leftover-chicken-quesadillas": {
+    "shake-shack": {
       "well": "3",
       "likes": "",
       "ease": ""
     },
-    "mama-huhu": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
-    "sweetgreen": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
-    "grilled-sausages-and-peppers": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
-    "pacific-catch": {
+    "breakfast-for-dinner": {
       "well": "3",
-      "likes": "",
-      "ease": ""
-    },
-    "mami-flank-steak": {
-      "well": "4",
       "likes": "",
       "ease": ""
     }
