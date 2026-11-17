@@ -98,145 +98,63 @@
       ],
       "url": "https://cooking.nytimes.com/recipes/1019925-italian-wedding-soup-with-turkey-meatballs"
     },
-    "ponzu-salmon": {
-      "id": "ponzu-salmon",
-      "title": "Lauren’s ponzu salmon + rice + frozen carrots",
-      "do": "Cook salmon with ponzu, sesame oil and sesame shabu; finish with lime, cilantro and green onions. Make rice. Steam frozen carrots.",
-      "well": "4",
-      "protein": "fish",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-ponzu-salmon-0-1116a",
-          "text": "Salmon fillets, 1½ lb (Tue)"
-        },
-        {
-          "id": "g-ponzu-salmon-1-1116a",
-          "text": "Ponzu (Tue)"
-        },
-        {
-          "id": "g-ponzu-salmon-2-1116a",
-          "text": "Toasted sesame oil (Tue)"
-        },
-        {
-          "id": "g-ponzu-salmon-3-1116a",
-          "text": "Sesame shabu sauce (Tue)"
-        },
-        {
-          "id": "g-ponzu-salmon-4-1116a",
-          "text": "Limes, 2 (Tue)"
-        },
-        {
-          "id": "g-ponzu-salmon-5-1116a",
-          "text": "Cilantro, 1 bunch (Tue)"
-        },
-        {
-          "id": "g-ponzu-salmon-6-1116a",
-          "text": "Green onions, 1 bunch (Tue)"
-        },
-        {
-          "id": "g-ponzu-salmon-7-1116a",
-          "text": "White rice (Tue)"
-        },
-        {
-          "id": "g-ponzu-salmon-8-1116a",
-          "text": "Frozen carrots, 1 bag (Tue)"
-        }
-      ]
-    },
-    "comforts-cafe": {
-      "id": "comforts-cafe",
-      "title": "Comforts Cafe + steamed peas",
-      "do": "Pickup. Steam frozen peas.",
+    "taco-janes": {
+      "id": "taco-janes",
+      "title": "Taco Jane’s",
+      "do": "Dinner out.",
       "well": "4",
       "protein": "out",
       "prep": [],
-      "grocery": [
-        {
-          "id": "g-comforts-cafe-0-1116a",
-          "text": "Frozen peas, 1 bag (Wed)"
-        }
-      ]
+      "grocery": []
     },
-    "greek-chicken": {
-      "id": "greek-chicken",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1023135-greek-chicken-with-cucumber-feta-salad\">Greek Chicken With Cucumber-Feta Salad</a>",
-      "do": "Yogurt-marinated chicken thighs seared with a cucumber, tomato and feta salad, about 30 min.",
+    "chicken-breast-roasted-broccoli": {
+      "id": "chicken-breast-roasted-broccoli",
+      "title": "Chicken breast with roasted broccoli and a loaf of fresh bread",
+      "do": "Cook chicken breasts. Roast broccoli. Warm the bread.",
       "well": "4",
       "protein": "chicken",
       "prep": [],
       "grocery": [
         {
-          "id": "g-greek-chicken-0-1116a",
-          "text": "Plain Greek yogurt, 32 oz (Thu)"
+          "id": "g-chicken-breast-roasted-broccoli-0-1116b",
+          "text": "Chicken breasts, 1½–2 lb (Wed)"
         },
         {
-          "id": "g-greek-chicken-1-1116a",
-          "text": "Garlic, 1 head (Thu)"
+          "id": "g-chicken-breast-roasted-broccoli-1-1116b",
+          "text": "Broccoli, 1 large head (Wed)"
         },
         {
-          "id": "g-greek-chicken-2-1116a",
-          "text": "Boneless, skinless chicken thighs, 2 lb (Thu)"
-        },
-        {
-          "id": "g-greek-chicken-3-1116a",
-          "text": "Cucumbers, 1½ lb (Thu)"
-        },
-        {
-          "id": "g-greek-chicken-4-1116a",
-          "text": "Ripe tomatoes, 1 lb (Thu)"
-        },
-        {
-          "id": "g-greek-chicken-5-1116a",
-          "text": "Feta, 4 oz (Thu)"
-        },
-        {
-          "id": "g-greek-chicken-6-1116a",
-          "text": "Kalamata olives, pitted (Thu)"
-        }
-      ],
-      "url": "https://cooking.nytimes.com/recipes/1023135-greek-chicken-with-cucumber-feta-salad"
-    },
-    "grilled-pork-tenderloin": {
-      "id": "grilled-pork-tenderloin",
-      "title": "Mami’s grilled pork tenderloin + <a href=\"https://cooking.nytimes.com/recipes/1017454-grilled-broccoli\">Grilled Broccoli</a>",
-      "do": "Pork tenderloin with Mami’s dry rub, grilled to 145°F, with grilled broccoli; about 40 min.",
-      "well": "3",
-      "protein": "pork",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-grilled-pork-tenderloin-0-1116a",
-          "text": "Pork tenderloin, 1½ lb (Fri)"
-        },
-        {
-          "id": "g-grilled-pork-tenderloin-1-1116a",
-          "text": "Broccoli, 1 large head (about 2 lb) (Fri)"
-        },
-        {
-          "id": "g-grilled-pork-tenderloin-2-1116a",
-          "text": "Soy sauce or tamari (Fri)"
-        },
-        {
-          "id": "g-grilled-pork-tenderloin-3-1116a",
-          "text": "Fresh parsley (Fri)"
-        }
-      ],
-      "url": "https://cooking.nytimes.com/recipes/1017454-grilled-broccoli"
-    },
-    "shake-shack": {
-      "id": "shake-shack",
-      "title": "Shake Shack + carrot sticks",
-      "do": "Pickup. Cut carrot sticks.",
-      "well": "3",
-      "protein": "out",
-      "prep": [],
-      "grocery": [
-        {
-          "id": "g-shake-shack-0-1116a",
-          "text": "Carrots, 1 lb (Sat)"
+          "id": "g-chicken-breast-roasted-broccoli-2-1116b",
+          "text": "Fresh bread loaf (Wed)"
         }
       ]
+    },
+    "souvla": {
+      "id": "souvla",
+      "title": "Souvla",
+      "do": "Dinner out.",
+      "well": "4",
+      "protein": "out",
+      "prep": [],
+      "grocery": []
+    },
+    "dinner-out-mill-valley": {
+      "id": "dinner-out-mill-valley",
+      "title": "Dinner out in Mill Valley",
+      "do": "Dinner out.",
+      "well": "4",
+      "protein": "out",
+      "prep": [],
+      "grocery": []
+    },
+    "sorella-cafe": {
+      "id": "sorella-cafe",
+      "title": "Sorella Cafe",
+      "do": "Dinner out.",
+      "well": "4",
+      "protein": "out",
+      "prep": [],
+      "grocery": []
     },
     "breakfast-for-dinner": {
       "id": "breakfast-for-dinner",
@@ -275,11 +193,11 @@
   },
   "order": [
     "italian-wedding-soup",
-    "ponzu-salmon",
-    "comforts-cafe",
-    "greek-chicken",
-    "grilled-pork-tenderloin",
-    "shake-shack",
+    "taco-janes",
+    "chicken-breast-roasted-broccoli",
+    "souvla",
+    "dinner-out-mill-valley",
+    "sorella-cafe",
     "breakfast-for-dinner"
   ],
   "shops": [

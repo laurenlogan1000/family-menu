@@ -1,13 +1,13 @@
 {
   "week": "2026-11-16",
-  "updatedAt": "2026-11-15T15:30:00Z",
+  "updatedAt": "2026-11-17T07:42:00Z",
   "order": [
     "italian-wedding-soup",
-    "ponzu-salmon",
-    "comforts-cafe",
-    "greek-chicken",
-    "grilled-pork-tenderloin",
-    "shake-shack",
+    "taco-janes",
+    "chicken-breast-roasted-broccoli",
+    "souvla",
+    "dinner-out-mill-valley",
+    "sorella-cafe",
     "breakfast-for-dinner"
   ],
   "scores": {
@@ -16,28 +16,28 @@
       "likes": "",
       "ease": ""
     },
-    "ponzu-salmon": {
+    "taco-janes": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "comforts-cafe": {
+    "chicken-breast-roasted-broccoli": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "greek-chicken": {
+    "souvla": {
       "well": "4",
       "likes": "",
       "ease": ""
     },
-    "grilled-pork-tenderloin": {
-      "well": "3",
+    "dinner-out-mill-valley": {
+      "well": "4",
       "likes": "",
       "ease": ""
     },
-    "shake-shack": {
-      "well": "3",
+    "sorella-cafe": {
+      "well": "4",
       "likes": "",
       "ease": ""
     },
