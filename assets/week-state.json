@@ -1,18 +1,23 @@
 {
   "week": "2026-11-16",
-  "updatedAt": "2026-11-17T07:42:00Z",
+  "updatedAt": "2026-11-18T22:50:00Z",
   "order": [
-    "italian-wedding-soup",
+    "salmon-quinoa-veggies",
+    "pizza",
     "taco-janes",
     "chicken-breast-roasted-broccoli",
-    "souvla",
-    "dinner-out-mill-valley",
+    "watershed-or-souvla",
     "sorella-cafe",
     "breakfast-for-dinner"
   ],
   "scores": {
-    "italian-wedding-soup": {
+    "salmon-quinoa-veggies": {
       "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "pizza": {
+      "well": "3",
       "likes": "",
       "ease": ""
     },
@@ -26,12 +31,7 @@
       "likes": "",
       "ease": ""
     },
-    "souvla": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
-    "dinner-out-mill-valley": {
+    "watershed-or-souvla": {
       "well": "4",
       "likes": "",
       "ease": ""

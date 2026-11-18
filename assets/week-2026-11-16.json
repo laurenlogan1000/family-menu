@@ -39,64 +39,23 @@
     }
   ],
   "meals": {
-    "italian-wedding-soup": {
-      "id": "italian-wedding-soup",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019925-italian-wedding-soup-with-turkey-meatballs\">Italian Wedding Soup With Turkey Meatballs</a> + crusty bread",
-      "do": "Italian wedding soup with turkey meatballs, orzo and spinach, about 30 min. Warm the bread.",
+    "salmon-quinoa-veggies": {
+      "id": "salmon-quinoa-veggies",
+      "title": "Salmon, quinoa, and veggies",
+      "do": "Cook salmon with quinoa and veggies.",
       "well": "4",
-      "protein": "turkey",
+      "protein": "fish",
       "prep": [],
-      "grocery": [
-        {
-          "id": "g-italian-wedding-soup-0-1116a",
-          "text": "Chicken broth, 3×32 oz cartons (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-1-1116a",
-          "text": "Lean ground turkey, 1½ lb (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-2-1116a",
-          "text": "Panko (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-3-1116a",
-          "text": "Flat-leaf parsley, 1 bunch (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-4-1116a",
-          "text": "Eggs (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-5-1116a",
-          "text": "Garlic, 1 head (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-6-1116a",
-          "text": "Parmesan (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-7-1116a",
-          "text": "Orzo or ditalini, 8 oz (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-8-1116a",
-          "text": "Baby spinach, 5 oz (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-9-1116a",
-          "text": "Lemon (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-10-1116a",
-          "text": "Fresh dill (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-11-1116a",
-          "text": "Crusty bread loaf (Mon)"
-        }
-      ],
-      "url": "https://cooking.nytimes.com/recipes/1019925-italian-wedding-soup-with-turkey-meatballs"
+      "grocery": []
+    },
+    "pizza": {
+      "id": "pizza",
+      "title": "Pizza",
+      "do": "Dinner out.",
+      "well": "3",
+      "protein": "out",
+      "prep": [],
+      "grocery": []
     },
     "taco-janes": {
       "id": "taco-janes",
@@ -109,43 +68,39 @@
     },
     "chicken-breast-roasted-broccoli": {
       "id": "chicken-breast-roasted-broccoli",
-      "title": "Chicken breast with roasted broccoli and a loaf of fresh bread",
-      "do": "Cook chicken breasts. Roast broccoli. Warm the bread.",
+      "title": "Chicken breast with roasted broccoli, a loaf of fresh bread, and optional wild rice",
+      "do": "Cook chicken breasts. Roast broccoli. Warm the bread. Optional wild rice.",
       "well": "4",
       "protein": "chicken",
       "prep": [],
       "grocery": [
         {
-          "id": "g-chicken-breast-roasted-broccoli-0-1116b",
-          "text": "Chicken breasts, 1½–2 lb (Wed)"
+          "id": "g-chicken-breast-roasted-broccoli-0-1118a",
+          "text": "Chicken breasts, 1½–2 lb (Thu)"
         },
         {
-          "id": "g-chicken-breast-roasted-broccoli-1-1116b",
-          "text": "Broccoli, 1 large head (Wed)"
+          "id": "g-chicken-breast-roasted-broccoli-1-1118a",
+          "text": "Broccoli, 1 large head (Thu)"
         },
         {
-          "id": "g-chicken-breast-roasted-broccoli-2-1116b",
-          "text": "Fresh bread loaf (Wed)"
+          "id": "g-chicken-breast-roasted-broccoli-2-1118a",
+          "text": "Fresh bread loaf (Thu)"
+        },
+        {
+          "id": "g-chicken-breast-roasted-broccoli-3-1118a",
+          "text": "Wild rice (Thu)"
         }
       ]
     },
-    "souvla": {
-      "id": "souvla",
-      "title": "Souvla",
+    "watershed-or-souvla": {
+      "id": "watershed-or-souvla",
+      "title": "<a href=\"https://www.watershedmv.com/\">Watershed</a> or Souvla",
       "do": "Dinner out.",
       "well": "4",
       "protein": "out",
       "prep": [],
-      "grocery": []
-    },
-    "dinner-out-mill-valley": {
-      "id": "dinner-out-mill-valley",
-      "title": "Dinner out in Mill Valley",
-      "do": "Dinner out.",
-      "well": "4",
-      "protein": "out",
-      "prep": [],
-      "grocery": []
+      "grocery": [],
+      "url": "https://www.watershedmv.com/"
     },
     "sorella-cafe": {
       "id": "sorella-cafe",
@@ -192,11 +147,11 @@
     }
   },
   "order": [
-    "italian-wedding-soup",
+    "salmon-quinoa-veggies",
+    "pizza",
     "taco-janes",
     "chicken-breast-roasted-broccoli",
-    "souvla",
-    "dinner-out-mill-valley",
+    "watershed-or-souvla",
     "sorella-cafe",
     "breakfast-for-dinner"
   ],
