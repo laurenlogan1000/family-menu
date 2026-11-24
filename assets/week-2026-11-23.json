@@ -303,7 +303,7 @@
   "shops": [
     {
       "id": "sunday",
-      "title": "Sunday shop",
+      "title": "Sunday shop (Mon–Thu)",
       "days": [
         "mon",
         "tue",
@@ -313,7 +313,7 @@
     },
     {
       "id": "thursday",
-      "title": "Thursday shop",
+      "title": "Thursday shop (Fri–Sun)",
       "days": [
         "fri",
         "sat",
