@@ -149,8 +149,8 @@
     },
     "thanksgiving": {
       "id": "thanksgiving",
-      "title": "Thanksgiving: <a href=\"https://cooking.nytimes.com/recipes/1024791-make-ahead-roast-turkey\">spatchcocked dry-brined turkey</a> + <a href=\"https://cooking.nytimes.com/recipes/1020600-buttered-stuffing-with-celery-and-leeks\">buttered stuffing with celery and leeks</a>",
-      "do": "Spatchcocked dry-brined 9 lb turkey and buttered stuffing with celery and leeks.",
+      "title": "Thanksgiving: <a href=\"https://cooking.nytimes.com/recipes/1024791-make-ahead-roast-turkey\">spatchcocked dry-brined turkey</a> (grilled over indirect heat) + <a href=\"https://cooking.nytimes.com/recipes/1020600-buttered-stuffing-with-celery-and-leeks\">buttered stuffing with celery and leeks</a> + <a href=\"https://cooking.nytimes.com/recipes/1019251-classic-baked-macaroni-and-cheese\">classic baked macaroni and cheese</a>",
+      "do": "Spatchcocked dry-brined 9 lb turkey, grilled over indirect heat, with buttered stuffing with celery and leeks and classic baked macaroni and cheese.",
       "well": "4",
       "protein": "turkey",
       "url": "https://cooking.nytimes.com/recipes/1024791-make-ahead-roast-turkey",
@@ -200,7 +200,7 @@
         },
         {
           "id": "g-thanksgiving-9-1123a",
-          "text": "Unsalted butter, 1 stick (8 Tbsp) (Thu)"
+          "text": "Unsalted butter, 2 sticks (16 Tbsp) (Thu)"
         },
         {
           "id": "g-thanksgiving-10-1123a",
@@ -217,6 +217,34 @@
         {
           "id": "g-thanksgiving-13-1123a",
           "text": "Kosher salt (Diamond Crystal): check you have 1½ Tbsp for the brine (Thu)"
+        },
+        {
+          "id": "g-thanksgiving-14-1123b",
+          "text": "Elbows or other short tube pasta, 1 lb (Thu)"
+        },
+        {
+          "id": "g-thanksgiving-15-1123b",
+          "text": "All-purpose flour, ¼ cup (Thu)"
+        },
+        {
+          "id": "g-thanksgiving-16-1123b",
+          "text": "Whole milk, 4 cups (Thu)"
+        },
+        {
+          "id": "g-thanksgiving-17-1123b",
+          "text": "Sharp or white Cheddar, 12 oz (Thu)"
+        },
+        {
+          "id": "g-thanksgiving-18-1123b",
+          "text": "Fontina or Gruyère, 12 oz (Thu)"
+        },
+        {
+          "id": "g-thanksgiving-19-1123b",
+          "text": "Panko or coarse bread crumbs, 1 cup (Thu) — optional topping"
+        },
+        {
+          "id": "g-thanksgiving-20-1123b",
+          "text": "Parmesan, ¼ cup (Thu) — optional topping"
         }
       ]
     },
