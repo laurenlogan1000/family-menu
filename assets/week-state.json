@@ -1,31 +1,16 @@
 {
   "week": "2026-11-23",
-  "updatedAt": "2026-11-22T15:30:00Z",
+  "updatedAt": "2026-11-24T23:10:53Z",
   "order": [
-    "italian-wedding-soup",
-    "greek-chicken",
-    "mama-huhu",
+    "pizza-out",
+    "arroz-con-pollo",
+    "classic-baked-mac",
     "thanksgiving",
     "thanksgiving-leftovers",
     "shake-shack",
     "ponzu-salmon"
   ],
   "scores": {
-    "italian-wedding-soup": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
-    "greek-chicken": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
-    "mama-huhu": {
-      "well": "4",
-      "likes": "",
-      "ease": ""
-    },
     "thanksgiving": {
       "well": "4",
       "likes": "",
@@ -42,6 +27,21 @@
       "ease": ""
     },
     "ponzu-salmon": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "pizza-out": {
+      "well": "3",
+      "likes": "",
+      "ease": ""
+    },
+    "classic-baked-mac": {
+      "well": "4",
+      "likes": "",
+      "ease": ""
+    },
+    "arroz-con-pollo": {
       "well": "4",
       "likes": "",
       "ease": ""
