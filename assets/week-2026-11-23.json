@@ -39,65 +39,6 @@
     }
   ],
   "meals": {
-    "italian-wedding-soup": {
-      "id": "italian-wedding-soup",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019925-italian-wedding-soup-with-turkey-meatballs\">Italian Wedding Soup With Turkey Meatballs</a> + crusty bread",
-      "do": "Italian wedding soup with turkey meatballs, orzo and spinach, about 30 min. Warm the bread.",
-      "well": "4",
-      "protein": "turkey",
-      "prep": [],
-      "url": "https://cooking.nytimes.com/recipes/1019925-italian-wedding-soup-with-turkey-meatballs",
-      "grocery": [
-        {
-          "id": "g-italian-wedding-soup-0-1122a",
-          "text": "Chicken broth, 3×32 oz cartons (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-1-1122a",
-          "text": "Lean ground turkey, 1½ lb (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-2-1122a",
-          "text": "Panko (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-3-1122a",
-          "text": "Flat-leaf parsley, 1 bunch (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-4-1122a",
-          "text": "Eggs (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-5-1122a",
-          "text": "Garlic, 2 heads (Mon, Tue)"
-        },
-        {
-          "id": "g-italian-wedding-soup-6-1122a",
-          "text": "Parmesan (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-7-1122a",
-          "text": "Orzo or ditalini, 8 oz (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-8-1122a",
-          "text": "Baby spinach, 5 oz (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-9-1122a",
-          "text": "Lemon (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-10-1122a",
-          "text": "Fresh dill (Mon)"
-        },
-        {
-          "id": "g-italian-wedding-soup-11-1122a",
-          "text": "Crusty bread loaf (Mon)"
-        }
-      ]
-    },
     "greek-chicken": {
       "id": "greek-chicken",
       "title": "<a href=\"https://cooking.nytimes.com/recipes/1023135-greek-chicken-with-cucumber-feta-salad\">Greek Chicken With Cucumber-Feta Salad</a>",
@@ -130,27 +71,17 @@
         {
           "id": "g-greek-chicken-5-1122a",
           "text": "Kalamata olives, pitted (Tue)"
-        }
-      ]
-    },
-    "mama-huhu": {
-      "id": "mama-huhu",
-      "title": "Mama Huhu + steamed peas",
-      "do": "Pickup. Steam frozen peas.",
-      "well": "4",
-      "protein": "out",
-      "prep": [],
-      "grocery": [
+        },
         {
-          "id": "g-mama-huhu-0-1122a",
-          "text": "Frozen peas, 1 bag (Wed)"
+          "id": "g-greek-chicken-6-1123e",
+          "text": "Garlic, 2 heads (Tue, Wed, Thu)"
         }
       ]
     },
     "thanksgiving": {
       "id": "thanksgiving",
-      "title": "Thanksgiving: <a href=\"https://cooking.nytimes.com/recipes/1024791-make-ahead-roast-turkey\">spatchcocked dry-brined turkey</a> (grilled over indirect heat) + <a href=\"https://cooking.nytimes.com/recipes/1020600-buttered-stuffing-with-celery-and-leeks\">buttered stuffing with celery and leeks</a> + <a href=\"https://cooking.nytimes.com/recipes/1019251-classic-baked-macaroni-and-cheese\">classic baked macaroni and cheese</a> + <a href=\"https://cooking.nytimes.com/recipes/1019023-fennel-apple-salad-with-walnuts\">fennel-apple salad with walnuts</a> (half batch)",
-      "do": "Spatchcocked dry-brined 9 lb turkey, grilled over indirect heat, with buttered stuffing with celery and leeks, classic baked macaroni and cheese, and fennel-apple salad with walnuts (half batch). Take the mac and cheese out about 30 min before baking; add the topping and bake at 425°F; it may need 5–10 min longer than 25–30, starting cold.",
+      "title": "Thanksgiving: <a href=\"https://cooking.nytimes.com/recipes/1024791-make-ahead-roast-turkey\">spatchcocked dry-brined turkey</a> (grilled over indirect heat) + <a href=\"https://cooking.nytimes.com/recipes/1020600-buttered-stuffing-with-celery-and-leeks\">buttered stuffing with celery and leeks</a> + <a href=\"https://cooking.nytimes.com/recipes/1019023-fennel-apple-salad-with-walnuts\">fennel-apple salad with walnuts</a> (half batch)",
+      "do": "Spatchcocked dry-brined 9 lb turkey, grilled over indirect heat, with buttered stuffing with celery and leeks (covered at 375°F, then uncovered at 425°F), and fennel-apple salad with walnuts (half batch).",
       "well": "4",
       "protein": "turkey",
       "url": "https://cooking.nytimes.com/recipes/1024791-make-ahead-roast-turkey",
@@ -159,11 +90,6 @@
           "kind": "Spatchcock and dry brine",
           "item": "turkey",
           "nightsBefore": 2
-        },
-        {
-          "kind": "Assemble",
-          "item": "mac and cheese: cook pasta, make sauce, combine in the baking dish; cover and refrigerate; hold the panko/Parmesan topping",
-          "nightsBefore": 1
         }
       ],
       "grocery": [
@@ -200,14 +126,6 @@
           "text": "Fresh marjoram, oregano, or thyme, for 2 Tbsp chopped (Thu) — skip if you bought thyme above"
         },
         {
-          "id": "g-thanksgiving-8-1123a",
-          "text": "Garlic, 1 head (Thu)"
-        },
-        {
-          "id": "g-thanksgiving-9-1123a",
-          "text": "Unsalted butter, 2 sticks (16 Tbsp) (Thu)"
-        },
-        {
           "id": "g-thanksgiving-10-1123a",
           "text": "Eggs, 3 (Thu)"
         },
@@ -222,34 +140,6 @@
         {
           "id": "g-thanksgiving-13-1123a",
           "text": "Kosher salt (Diamond Crystal): check you have 1½ Tbsp for the brine (Thu)"
-        },
-        {
-          "id": "g-thanksgiving-14-1123b",
-          "text": "Elbows or other short tube pasta, 1 lb (Thu)"
-        },
-        {
-          "id": "g-thanksgiving-15-1123b",
-          "text": "All-purpose flour, ¼ cup (Thu)"
-        },
-        {
-          "id": "g-thanksgiving-16-1123b",
-          "text": "Whole milk, 4 cups (Thu)"
-        },
-        {
-          "id": "g-thanksgiving-17-1123b",
-          "text": "Sharp or white Cheddar, 12 oz (Thu)"
-        },
-        {
-          "id": "g-thanksgiving-18-1123b",
-          "text": "Fontina or Gruyère, 12 oz (Thu)"
-        },
-        {
-          "id": "g-thanksgiving-19-1123b",
-          "text": "Panko or coarse bread crumbs, 1 cup (Thu) — optional topping"
-        },
-        {
-          "id": "g-thanksgiving-20-1123b",
-          "text": "Parmesan, ¼ cup plus ~1¼ oz shaved (Thu)"
         },
         {
           "id": "g-thanksgiving-21-1123c",
@@ -337,12 +227,70 @@
           "text": "Frozen carrots, 1 bag (Sun)"
         }
       ]
+    },
+    "pizza-out": {
+      "id": "pizza-out",
+      "title": "Pizza",
+      "do": "Dinner out.",
+      "well": "3",
+      "protein": "out",
+      "prep": [],
+      "grocery": []
+    },
+    "classic-baked-mac": {
+      "id": "classic-baked-mac",
+      "title": "<a href=\"https://cooking.nytimes.com/recipes/1019251-classic-baked-macaroni-and-cheese\">Classic Baked Macaroni and Cheese</a>",
+      "do": "Classic baked macaroni and cheese. Assemble Tue or Wed (cook pasta, make sauce, combine, cover, and refrigerate; hold the topping). Take it out about 30 min before baking; add the topping and bake at 425°F; it may need 5–10 min longer if starting cold.",
+      "well": "4",
+      "protein": "vegetarian",
+      "url": "https://cooking.nytimes.com/recipes/1019251-classic-baked-macaroni-and-cheese",
+      "prep": [
+        {
+          "kind": "Assemble",
+          "item": "mac and cheese (Tue or Wed): cook pasta, make sauce, combine in the baking dish; cover and refrigerate; hold the panko/Parmesan topping",
+          "nightsBefore": 1
+        }
+      ],
+      "grocery": [
+        {
+          "id": "g-mac-0-1123e",
+          "text": "Elbows or other short tube pasta, 1 lb (Wed) — buy by Tue"
+        },
+        {
+          "id": "g-mac-1-1123e",
+          "text": "All-purpose flour, ¼ cup (Wed) — buy by Tue"
+        },
+        {
+          "id": "g-mac-2-1123e",
+          "text": "Whole milk, 4 cups (Wed) — buy by Tue"
+        },
+        {
+          "id": "g-mac-3-1123e",
+          "text": "Sharp or white Cheddar, 12 oz (Wed) — buy by Tue"
+        },
+        {
+          "id": "g-mac-4-1123e",
+          "text": "Fontina or Gruyère, 12 oz (Wed) — buy by Tue"
+        },
+        {
+          "id": "g-mac-5-1123e",
+          "text": "Panko or coarse bread crumbs, 1 cup (Wed) — optional topping; buy by Tue"
+        },
+        {
+          "id": "g-mac-6-1123e",
+          "text": "Unsalted butter, 2 sticks (16 Tbsp) (Wed, Thu)"
+        },
+        {
+          "id": "g-mac-7-1123e",
+          "text": "Parmesan, ¼ cup (Wed) plus ~1¼ oz shaved (Thu)"
+        }
+      ]
     }
   },
   "order": [
-    "italian-wedding-soup",
+    "pizza-out",
     "greek-chicken",
-    "mama-huhu",
+    "classic-baked-mac",
     "thanksgiving",
     "thanksgiving-leftovers",
     "shake-shack",
