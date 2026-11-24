@@ -149,8 +149,8 @@
     },
     "thanksgiving": {
       "id": "thanksgiving",
-      "title": "Thanksgiving: <a href=\"https://cooking.nytimes.com/recipes/1024791-make-ahead-roast-turkey\">spatchcocked dry-brined turkey</a> (grilled over indirect heat) + <a href=\"https://cooking.nytimes.com/recipes/1020600-buttered-stuffing-with-celery-and-leeks\">buttered stuffing with celery and leeks</a> + <a href=\"https://cooking.nytimes.com/recipes/1019251-classic-baked-macaroni-and-cheese\">classic baked macaroni and cheese</a>",
-      "do": "Spatchcocked dry-brined 9 lb turkey, grilled over indirect heat, with buttered stuffing with celery and leeks and classic baked macaroni and cheese.",
+      "title": "Thanksgiving: <a href=\"https://cooking.nytimes.com/recipes/1024791-make-ahead-roast-turkey\">spatchcocked dry-brined turkey</a> (grilled over indirect heat) + <a href=\"https://cooking.nytimes.com/recipes/1020600-buttered-stuffing-with-celery-and-leeks\">buttered stuffing with celery and leeks</a> + <a href=\"https://cooking.nytimes.com/recipes/1019251-classic-baked-macaroni-and-cheese\">classic baked macaroni and cheese</a> + <a href=\"https://cooking.nytimes.com/recipes/1019023-fennel-apple-salad-with-walnuts\">fennel-apple salad with walnuts</a>",
+      "do": "Spatchcocked dry-brined 9 lb turkey, grilled over indirect heat, with buttered stuffing with celery and leeks, classic baked macaroni and cheese, and fennel-apple salad with walnuts.",
       "well": "4",
       "protein": "turkey",
       "url": "https://cooking.nytimes.com/recipes/1024791-make-ahead-roast-turkey",
@@ -176,7 +176,7 @@
         },
         {
           "id": "g-thanksgiving-3-1123a",
-          "text": "Celery, 6 stalks (Thu)"
+          "text": "Celery, 9 stalks (Thu)"
         },
         {
           "id": "g-thanksgiving-4-1123a",
@@ -244,7 +244,23 @@
         },
         {
           "id": "g-thanksgiving-20-1123b",
-          "text": "Parmesan, ¼ cup (Thu) — optional topping"
+          "text": "Parmesan, ¼ cup plus 2½ oz (about ⅔ cup shaved) (Thu)"
+        },
+        {
+          "id": "g-thanksgiving-21-1123c",
+          "text": "Fennel bulbs, 3 large (Thu) — buy by Wed"
+        },
+        {
+          "id": "g-thanksgiving-22-1123c",
+          "text": "Granny Smith apples, 2 (Thu) — buy by Wed"
+        },
+        {
+          "id": "g-thanksgiving-23-1123c",
+          "text": "Walnuts, ½ cup (Thu)"
+        },
+        {
+          "id": "g-thanksgiving-24-1123c",
+          "text": "Lemons, 2 (Thu)"
         }
       ]
     },
