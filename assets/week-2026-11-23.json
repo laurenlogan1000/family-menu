@@ -39,45 +39,6 @@
     }
   ],
   "meals": {
-    "greek-chicken": {
-      "id": "greek-chicken",
-      "title": "<a href=\"https://cooking.nytimes.com/recipes/1023135-greek-chicken-with-cucumber-feta-salad\">Greek Chicken With Cucumber-Feta Salad</a>",
-      "do": "Yogurt-marinated chicken thighs, seared or grilled, with a smashed cucumber, tomato and feta salad; about 30 min.",
-      "well": "4",
-      "protein": "chicken",
-      "prep": [],
-      "url": "https://cooking.nytimes.com/recipes/1023135-greek-chicken-with-cucumber-feta-salad",
-      "grocery": [
-        {
-          "id": "g-greek-chicken-0-1122a",
-          "text": "Plain Greek yogurt, 16 oz (Tue)"
-        },
-        {
-          "id": "g-greek-chicken-1-1122a",
-          "text": "Boneless, skinless chicken thighs, 2 lb (Tue)"
-        },
-        {
-          "id": "g-greek-chicken-2-1122a",
-          "text": "Persian or mini cucumbers, 1½ lb (Tue)"
-        },
-        {
-          "id": "g-greek-chicken-3-1122a",
-          "text": "Ripe tomatoes, 1 lb (Tue)"
-        },
-        {
-          "id": "g-greek-chicken-4-1122a",
-          "text": "Feta, 4 oz (Tue)"
-        },
-        {
-          "id": "g-greek-chicken-5-1122a",
-          "text": "Kalamata olives, pitted (Tue)"
-        },
-        {
-          "id": "g-greek-chicken-6-1123e",
-          "text": "Garlic, 2 heads (Tue, Wed, Thu)"
-        }
-      ]
-    },
     "thanksgiving": {
       "id": "thanksgiving",
       "title": "Thanksgiving: <a href=\"https://cooking.nytimes.com/recipes/1024791-make-ahead-roast-turkey\">spatchcocked dry-brined turkey</a> (grilled over indirect heat) + <a href=\"https://cooking.nytimes.com/recipes/1020600-buttered-stuffing-with-celery-and-leeks\">buttered stuffing with celery and leeks</a> + <a href=\"https://cooking.nytimes.com/recipes/1019023-fennel-apple-salad-with-walnuts\">fennel-apple salad with walnuts</a> (half batch)",
@@ -89,6 +50,11 @@
         {
           "kind": "Spatchcock and dry brine",
           "item": "turkey",
+          "nightsBefore": 2
+        },
+        {
+          "kind": "Tear and dry",
+          "item": "stuffing bread",
           "nightsBefore": 2
         }
       ],
@@ -130,14 +96,6 @@
           "text": "Eggs, 3 (Thu)"
         },
         {
-          "id": "g-thanksgiving-11-1123a",
-          "text": "Low-sodium chicken, turkey, or vegetable broth, 1 carton (Thu)"
-        },
-        {
-          "id": "g-thanksgiving-12-1123a",
-          "text": "Dry white wine, ½ cup (Thu)"
-        },
-        {
           "id": "g-thanksgiving-13-1123a",
           "text": "Kosher salt (Diamond Crystal): check you have 1½ Tbsp for the brine (Thu)"
         },
@@ -152,10 +110,6 @@
         {
           "id": "g-thanksgiving-23-1123c",
           "text": "Walnuts, ¼ cup (Thu)"
-        },
-        {
-          "id": "g-thanksgiving-24-1123c",
-          "text": "Lemon, 1 (Thu)"
         }
       ]
     },
@@ -285,11 +239,61 @@
           "text": "Parmesan, ¼ cup (Wed) plus ~1¼ oz shaved (Thu)"
         }
       ]
+    },
+    "arroz-con-pollo": {
+      "id": "arroz-con-pollo",
+      "title": "Mami’s arroz con pollo",
+      "do": "Mami’s arroz con pollo with peas and peppers.",
+      "well": "4",
+      "protein": "chicken",
+      "prep": [],
+      "grocery": [
+        {
+          "id": "g-arroz-0-1123f",
+          "text": "Boneless, skinless chicken, 10 pieces (Tue) — buy by Tue"
+        },
+        {
+          "id": "g-arroz-1-1123f",
+          "text": "Green pepper, 1 (Tue) — buy by Tue"
+        },
+        {
+          "id": "g-arroz-2-1123f",
+          "text": "Yellow onion, 1 large (Tue) — buy by Tue"
+        },
+        {
+          "id": "g-arroz-3-1123f",
+          "text": "Tomato sauce, 8 oz can (Tue) — buy by Tue"
+        },
+        {
+          "id": "g-arroz-4-1123f",
+          "text": "Red peppers, 2, roasted and skinned, or jarred pimento (Tue) — buy by Tue"
+        },
+        {
+          "id": "g-arroz-5-1123f",
+          "text": "Frozen peas, 10 oz (Tue) — buy by Tue"
+        },
+        {
+          "id": "g-arroz-6-1123f",
+          "text": "Garlic, 2 heads (Tue, Wed, Thu)"
+        },
+        {
+          "id": "g-arroz-7-1123f",
+          "text": "Lemons, 2 (Tue, Thu)"
+        },
+        {
+          "id": "g-arroz-8-1123f",
+          "text": "Dry white wine, 1½ cups (Tue, Thu)"
+        },
+        {
+          "id": "g-arroz-9-1123f",
+          "text": "Low-sodium chicken or turkey broth, 1 carton (Tue, Thu)"
+        }
+      ]
     }
   },
   "order": [
     "pizza-out",
-    "greek-chicken",
+    "arroz-con-pollo",
     "classic-baked-mac",
     "thanksgiving",
     "thanksgiving-leftovers",
