@@ -149,12 +149,76 @@
     },
     "thanksgiving": {
       "id": "thanksgiving",
-      "title": "Thanksgiving dinner",
-      "do": "Thanksgiving.",
+      "title": "Thanksgiving: <a href=\"https://cooking.nytimes.com/recipes/1024791-make-ahead-roast-turkey\">spatchcocked dry-brined turkey</a> + <a href=\"https://cooking.nytimes.com/recipes/1020600-buttered-stuffing-with-celery-and-leeks\">buttered stuffing with celery and leeks</a>",
+      "do": "Spatchcocked dry-brined 9 lb turkey and buttered stuffing with celery and leeks.",
       "well": "4",
       "protein": "turkey",
-      "prep": [],
-      "grocery": []
+      "url": "https://cooking.nytimes.com/recipes/1024791-make-ahead-roast-turkey",
+      "prep": [
+        {
+          "kind": "Spatchcock and dry brine",
+          "item": "turkey",
+          "nightsBefore": 2
+        }
+      ],
+      "grocery": [
+        {
+          "id": "g-thanksgiving-0-1123a",
+          "text": "Fresh turkey, 9 lb (Thu) — buy by Tue"
+        },
+        {
+          "id": "g-thanksgiving-1-1123a",
+          "text": "Crusty sourdough or ciabatta loaf, about 1¼ lb (Thu) — buy by Tue; tear and dry 12–24 hours"
+        },
+        {
+          "id": "g-thanksgiving-2-1123a",
+          "text": "Leeks, 2 large (Thu)"
+        },
+        {
+          "id": "g-thanksgiving-3-1123a",
+          "text": "Celery, 6 stalks (Thu)"
+        },
+        {
+          "id": "g-thanksgiving-4-1123a",
+          "text": "Flat-leaf parsley, 1 bunch (Thu)"
+        },
+        {
+          "id": "g-thanksgiving-5-1123a",
+          "text": "Chives, 1 bunch (Thu)"
+        },
+        {
+          "id": "g-thanksgiving-6-1123a",
+          "text": "Fresh rosemary, sage, or thyme, 2 bunches (Thu)"
+        },
+        {
+          "id": "g-thanksgiving-7-1123a",
+          "text": "Fresh marjoram, oregano, or thyme, for 2 Tbsp chopped (Thu) — skip if you bought thyme above"
+        },
+        {
+          "id": "g-thanksgiving-8-1123a",
+          "text": "Garlic, 1 head (Thu)"
+        },
+        {
+          "id": "g-thanksgiving-9-1123a",
+          "text": "Unsalted butter, 1 stick (8 Tbsp) (Thu)"
+        },
+        {
+          "id": "g-thanksgiving-10-1123a",
+          "text": "Eggs, 3 (Thu)"
+        },
+        {
+          "id": "g-thanksgiving-11-1123a",
+          "text": "Low-sodium chicken, turkey, or vegetable broth, 1 carton (Thu)"
+        },
+        {
+          "id": "g-thanksgiving-12-1123a",
+          "text": "Dry white wine, ½ cup (Thu)"
+        },
+        {
+          "id": "g-thanksgiving-13-1123a",
+          "text": "Kosher salt (Diamond Crystal): check you have 1½ Tbsp for the brine (Thu)"
+        }
+      ]
     },
     "thanksgiving-leftovers": {
       "id": "thanksgiving-leftovers",
